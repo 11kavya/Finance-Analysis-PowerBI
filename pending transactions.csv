@@ -1,0 +1,1286 @@
+﻿Transaction_Id,Transaction_Date,Customer Name,Transaction_Status,Transaction_Type,Customer_Segment,State,Total Amount,Total Fees,Total Tax
+T00001599,2025-08-24 00:00:00,Kiara Kumar,Success,Withdrawal,Retail,Chandigarh,₹ 2908.80,₹ 2.91,₹ 0.52
+T00002813,2025-08-27 00:00:00,Karan Sharma,Success,Withdrawal,Premium,Chandigarh,₹ 11015.12,₹ 0.00,₹ 0.00
+T00003456,2025-08-29 00:00:00,Krishna Iyer,Pending,Investment,SME,Chandigarh,₹ 44369.57,₹ 88.74,₹ 15.97
+T00003559,2025-08-07 00:00:00,Pari Desai,Failed,Withdrawal,SME,Chandigarh,₹ 7757.58,₹ 0.00,₹ 0.00
+T00003661,2025-08-27 00:00:00,Neha Chopra,Success,Investment,Retail,Chandigarh,₹ 14819.84,₹ 0.00,₹ 0.00
+T00006558,2025-08-18 00:00:00,Amit Kulkarni,Success,Transfer,Retail,Chandigarh,₹ 50485.97,₹ 100.97,₹ 18.17
+T00009035,2025-08-09 00:00:00,Diya Iyer,Success,Interest Credit,Premium,Chandigarh,₹ 3922.27,₹ 0.00,₹ 0.00
+T00011107,2025-08-21 00:00:00,Anaya Malhotra,Success,Fee Charge,Retail,Chandigarh,₹ 858.90,₹ 0.00,₹ 0.00
+T00011381,2025-08-06 00:00:00,Pari Nair,Success,Bill Payment,Retail,Chandigarh,₹ 11270.66,₹ 56.35,₹ 10.14
+T00011922,2025-08-27 00:00:00,Sai Iyer,Success,Fee Charge,Corporate,Chandigarh,₹ 84.92,₹ 0.42,₹ 0.08
+T00012559,2025-08-13 00:00:00,Sai Agarwal,Success,Withdrawal,SME,Chandigarh,₹ 2994.30,₹ 5.99,₹ 1.08
+T00014969,2025-08-16 00:00:00,Amit Mehta,Success,Fee Charge,Premium,Chandigarh,₹ 780.68,₹ 3.90,₹ 0.70
+T00015081,2025-08-10 00:00:00,Anaya Kumar,Pending,Interest Credit,Retail,Chandigarh,₹ 1984.69,₹ 9.92,₹ 1.79
+T00015919,2025-08-16 00:00:00,Krishna Iyer,Success,Bill Payment,SME,Chandigarh,₹ 4454.16,₹ 22.27,₹ 4.01
+T00016428,2025-08-22 00:00:00,Neha Sharma,Failed,Fee Charge,Retail,Chandigarh,₹ 507.49,₹ 0.51,₹ 0.09
+T00016941,2025-08-16 00:00:00,Sai Agarwal,Success,Withdrawal,SME,Chandigarh,₹ 6709.29,₹ 6.71,₹ 1.21
+T00017210,2025-08-04 00:00:00,Karan Sharma,Success,Deposit,Premium,Chandigarh,₹ 2657.34,₹ 0.00,₹ 0.00
+T00017903,2025-08-24 00:00:00,Aadhya Chopra,Success,Card Payment,Retail,Chandigarh,₹ 3896.51,₹ 19.48,₹ 3.51
+T00021019,2025-08-10 00:00:00,Ayaan Bansal,Success,Card Payment,Retail,Chandigarh,₹ 1813.93,₹ 3.63,₹ 0.65
+T00021293,2025-08-25 00:00:00,Sara Kumar,Failed,Fee Charge,SME,Chandigarh,₹ 639.57,₹ 1.28,₹ 0.23
+T00022780,2025-08-09 00:00:00,Aarav Malhotra,Success,Investment,Retail,Chandigarh,₹ 13097.43,₹ 13.10,₹ 2.36
+T00022999,2025-08-22 00:00:00,Vihaan Patel,Success,Transfer,Retail,Chandigarh,₹ 10658.94,₹ 53.29,₹ 9.59
+T00024527,2025-08-15 00:00:00,Anaya Iyer,Success,Deposit,SME,Chandigarh,₹ 18546.20,₹ 0.00,₹ 0.00
+T00025362,2025-08-17 00:00:00,Diya Iyer,Success,Loan EMI,Premium,Chandigarh,₹ 2731.57,₹ 0.00,₹ 0.00
+T00025925,2025-08-06 00:00:00,Karan Malhotra,Success,Card Payment,Retail,Chandigarh,₹ 5363.24,₹ 0.00,₹ 0.00
+T00026187,2025-08-12 00:00:00,Anaya Iyer,Success,Interest Credit,Retail,Chandigarh,₹ 3589.31,₹ 0.00,₹ 0.00
+T00027350,2025-08-21 00:00:00,Aadhya Patel,Success,Fee Charge,Retail,Chandigarh,₹ 507.22,₹ 0.51,₹ 0.09
+T00027782,2025-08-16 00:00:00,Pari Nair,Success,Investment,Retail,Chandigarh,₹ 8028.77,₹ 40.14,₹ 7.23
+T00028218,2025-08-23 00:00:00,Neha Sharma,Success,Interest Credit,Retail,Chandigarh,₹ 4280.25,₹ 4.28,₹ 0.77
+T00029165,2025-08-03 00:00:00,Priya Kulkarni,Success,Loan EMI,Corporate,Chandigarh,₹ 4945.92,₹ 24.73,₹ 4.45
+T00029652,2025-08-10 00:00:00,Riya Reddy,Success,Loan EMI,Retail,Chandigarh,₹ 4980.44,₹ 9.96,₹ 1.79
+T00030485,2025-08-20 00:00:00,Ishaan Patel,Success,Withdrawal,SME,Chandigarh,₹ 4411.02,₹ 22.06,₹ 3.97
+T00030558,2025-08-15 00:00:00,Riya Kulkarni,Success,Refund,Retail,Chandigarh,₹ 1785.49,₹ 1.79,₹ 0.32
+T00030992,2025-08-16 00:00:00,Pari Nair,Success,Loan EMI,Retail,Chandigarh,₹ 11201.66,₹ 0.00,₹ 0.00
+T00031049,2025-08-13 00:00:00,Sneha Kulkarni,Success,Investment,Wealth,Chandigarh,₹ 2708.78,₹ 13.54,₹ 2.44
+T00031947,2025-08-15 00:00:00,Priya Chopra,Success,Card Payment,Corporate,Chandigarh,₹ 3955.57,₹ 0.00,₹ 0.00
+T00032086,2025-08-30 00:00:00,Rohan Patel,Success,Transfer,Retail,Chandigarh,₹ 8980.50,₹ 0.00,₹ 0.00
+T00032156,2025-08-01 00:00:00,Anika Patel,Success,Withdrawal,Premium,Chandigarh,₹ 4714.20,₹ 9.43,₹ 1.70
+T00032954,2025-08-16 00:00:00,Neha Kapoor,Failed,Loan EMI,SME,Chandigarh,₹ 6865.68,₹ 6.87,₹ 1.24
+T00033082,2025-08-10 00:00:00,Ayaan Agarwal,Success,Loan EMI,Retail,Chandigarh,₹ 11103.78,₹ 11.10,₹ 2.00
+T00033099,2025-08-07 00:00:00,Aditya Kumar,Failed,Transfer,Retail,Chandigarh,₹ 52719.91,₹ 52.72,₹ 9.49
+T00033660,2025-08-15 00:00:00,Sneha Kulkarni,Success,Investment,Wealth,Chandigarh,₹ 8310.18,₹ 16.62,₹ 2.99
+T00034350,2025-08-02 00:00:00,Vivaan Joshi,Success,Card Payment,Retail,Chandigarh,₹ 1983.19,₹ 9.92,₹ 1.79
+T00034663,2025-08-30 00:00:00,Pari Gupta,Success,Fee Charge,Retail,Chandigarh,₹ 771.62,₹ 0.00,₹ 0.00
+T00035436,2025-08-18 00:00:00,Ayaan Bansal,Success,Withdrawal,Retail,Chandigarh,₹ 8823.89,₹ 8.82,₹ 1.59
+T00036044,2025-08-28 00:00:00,Myra Mishra,Success,Card Payment,Retail,Chandigarh,₹ 3085.26,₹ 3.09,₹ 0.56
+T00036746,2025-08-11 00:00:00,Krishna Patel,Success,Loan EMI,Retail,Chandigarh,₹ 3271.73,₹ 3.27,₹ 0.59
+T00039410,2025-08-09 00:00:00,Riya Kulkarni,Success,Deposit,Retail,Chandigarh,₹ 12127.69,₹ 24.26,₹ 4.37
+T00039516,2025-08-15 00:00:00,Amit Jain,Success,Loan EMI,Premium,Chandigarh,₹ 13675.78,₹ 27.35,₹ 4.92
+T00042224,2025-08-29 00:00:00,Amit Mehta,Success,Loan EMI,Premium,Chandigarh,₹ 10149.51,₹ 50.75,₹ 9.13
+T00043618,2025-08-14 00:00:00,Neha Kapoor,Success,Card Payment,SME,Chandigarh,₹ 3727.40,₹ 0.00,₹ 0.00
+T00045795,2025-08-08 00:00:00,Rohan Bansal,Success,Loan EMI,Premium,Chandigarh,₹ 9333.89,₹ 46.67,₹ 8.40
+T00047242,2025-08-28 00:00:00,Anaya Iyer,Success,Loan EMI,SME,Chandigarh,₹ 13560.94,₹ 13.56,₹ 2.44
+T00049823,2025-08-05 00:00:00,Krishna Joshi,Success,Bill Payment,Corporate,Chandigarh,₹ 3621.47,₹ 0.00,₹ 0.00
+T00000651,2025-08-02 00:00:00,Diya Iyer,Success,Card Payment,Retail,Delhi,₹ 2639.61,₹ 13.20,₹ 2.38
+T00002383,2025-08-01 00:00:00,Sai Sharma,Success,Loan EMI,Retail,Delhi,₹ 27859.18,₹ 0.00,₹ 0.00
+T00002430,2025-08-24 00:00:00,Riya Mehta,Success,Bill Payment,Retail,Delhi,₹ 3153.51,₹ 6.31,₹ 1.14
+T00003213,2025-08-11 00:00:00,Karan Joshi,Failed,Investment,Retail,Delhi,₹ 19243.47,₹ 38.49,₹ 6.93
+T00003280,2025-08-23 00:00:00,Rahul Verma,Success,Deposit,Retail,Delhi,₹ 9532.53,₹ 0.00,₹ 0.00
+T00005266,2025-08-15 00:00:00,Pooja Desai,Success,Loan EMI,Retail,Delhi,₹ 2399.59,₹ 12.00,₹ 2.16
+T00005379,2025-08-12 00:00:00,Priya Nair,Failed,Interest Credit,Retail,Delhi,₹ 4277.10,₹ 0.00,₹ 0.00
+T00008045,2025-08-08 00:00:00,Aarav Agarwal,Success,Bill Payment,Retail,Delhi,₹ 3551.82,₹ 17.76,₹ 3.20
+T00008143,2025-08-25 00:00:00,Pari Gupta,Success,Investment,Retail,Delhi,₹ 14601.39,₹ 73.01,₹ 13.14
+T00009301,2025-08-01 00:00:00,Pari Malhotra,Success,Withdrawal,Premium,Delhi,₹ 1438.20,₹ 0.00,₹ 0.00
+T00010082,2025-08-15 00:00:00,Kabir Joshi,Success,Interest Credit,Retail,Delhi,₹ 2271.49,₹ 0.00,₹ 0.00
+T00010818,2025-08-10 00:00:00,Rahul Kumar,Success,Transfer,Retail,Delhi,₹ 6550.75,₹ 13.10,₹ 2.36
+T00010932,2025-08-03 00:00:00,Nisha Kumar,Success,Transfer,Premium,Delhi,₹ 20973.62,₹ 41.95,₹ 7.55
+T00011757,2025-08-19 00:00:00,Kiara Singh,Success,Loan EMI,Premium,Delhi,₹ 15734.24,₹ 0.00,₹ 0.00
+T00011986,2025-08-13 00:00:00,Rahul Jain,Success,Card Payment,Retail,Delhi,₹ 1481.11,₹ 7.41,₹ 1.33
+T00011997,2025-08-17 00:00:00,Neha Kulkarni,Success,Bill Payment,Retail,Delhi,₹ 3173.02,₹ 6.35,₹ 1.14
+T00015472,2025-08-05 00:00:00,Arjun Nair,Pending,Loan EMI,SME,Delhi,₹ 10421.93,₹ 20.84,₹ 3.75
+T00015579,2025-08-18 00:00:00,Anika Kapoor,Success,Deposit,Retail,Delhi,₹ 11338.57,₹ 0.00,₹ 0.00
+T00015966,2025-08-23 00:00:00,Krishna Iyer,Success,Fee Charge,SME,Delhi,₹ 192.64,₹ 0.19,₹ 0.03
+T00016188,2025-08-13 00:00:00,Pooja Sharma,Success,Deposit,Corporate,Delhi,₹ 15462.35,₹ 0.00,₹ 0.00
+T00016799,2025-08-05 00:00:00,Krishna Bansal,Success,Loan EMI,Wealth,Delhi,₹ 35623.63,₹ 71.25,₹ 12.82
+T00017620,2025-08-23 00:00:00,Arjun Nair,Pending,Loan EMI,Corporate,Delhi,₹ 6599.81,₹ 33.00,₹ 5.94
+T00018121,2025-08-03 00:00:00,Aditya Nair,Success,Card Payment,Retail,Delhi,₹ 4140.05,₹ 0.00,₹ 0.00
+T00018301,2025-08-11 00:00:00,Priya Nair,Success,Interest Credit,Retail,Delhi,₹ 1331.99,₹ 0.00,₹ 0.00
+T00019238,2025-08-08 00:00:00,Aarav Singh,Success,Deposit,Retail,Delhi,₹ 15133.85,₹ 15.13,₹ 2.72
+T00019378,2025-08-20 00:00:00,Kabir Nair,Success,Investment,Retail,Delhi,₹ 3251.16,₹ 0.00,₹ 0.00
+T00020833,2025-08-03 00:00:00,Kabir Patel,Pending,Deposit,Retail,Delhi,₹ 17928.87,₹ 35.86,₹ 6.45
+T00021147,2025-08-12 00:00:00,Ayaan Joshi,Success,Transfer,Premium,Delhi,₹ 29898.54,₹ 29.90,₹ 5.38
+T00021683,2025-08-22 00:00:00,Arjun Sharma,Success,Interest Credit,Premium,Delhi,₹ 3889.84,₹ 19.45,₹ 3.50
+T00023715,2025-08-27 00:00:00,Aarav Agarwal,Success,Transfer,Retail,Delhi,₹ 20973.03,₹ 41.95,₹ 7.55
+T00023766,2025-08-30 00:00:00,Priya Gupta,Success,Transfer,SME,Delhi,₹ 23774.67,₹ 0.00,₹ 0.00
+T00023978,2025-08-04 00:00:00,Anaya Chopra,Success,Withdrawal,Retail,Delhi,₹ 6884.90,₹ 13.77,₹ 2.48
+T00024051,2025-08-28 00:00:00,Amit Jain,Success,Deposit,Retail,Delhi,₹ 12316.76,₹ 0.00,₹ 0.00
+T00024547,2025-08-30 00:00:00,Riya Kumar,Success,Fee Charge,Premium,Delhi,₹ 148.24,₹ 0.15,₹ 0.03
+T00025279,2025-08-01 00:00:00,Sara Sharma,Success,Fee Charge,Retail,Delhi,₹ 791.41,₹ 3.96,₹ 0.71
+T00025316,2025-08-14 00:00:00,Priya Agarwal,Failed,Card Payment,Retail,Delhi,₹ 6237.68,₹ 0.00,₹ 0.00
+T00025598,2025-08-31 00:00:00,Vihaan Joshi,Success,Investment,Retail,Delhi,₹ 4018.50,₹ 0.00,₹ 0.00
+T00025924,2025-08-10 00:00:00,Nisha Kumar,Success,Investment,Premium,Delhi,₹ 49300.69,₹ 49.30,₹ 8.87
+T00026209,2025-08-10 00:00:00,Pooja Kumar,Success,Fee Charge,Premium,Delhi,₹ 663.28,₹ 0.00,₹ 0.00
+T00026728,2025-08-19 00:00:00,Sai Kumar,Success,Interest Credit,Corporate,Delhi,₹ 1991.73,₹ 0.00,₹ 0.00
+T00028101,2025-08-28 00:00:00,Arjun Nair,Success,Loan EMI,Corporate,Delhi,₹ 9177.58,₹ 9.18,₹ 1.65
+T00029022,2025-08-23 00:00:00,Sneha Agarwal,Success,Loan EMI,Corporate,Delhi,₹ 4717.40,₹ 23.59,₹ 4.25
+T00029297,2025-08-02 00:00:00,Pooja Sharma,Success,Interest Credit,Corporate,Delhi,₹ 3174.79,₹ 3.17,₹ 0.57
+T00030059,2025-08-14 00:00:00,Myra Singh,Success,Loan EMI,Premium,Delhi,₹ 20454.15,₹ 40.91,₹ 7.36
+T00030529,2025-08-08 00:00:00,Riya Mehta,Failed,Deposit,Retail,Delhi,₹ 14821.76,₹ 29.64,₹ 5.34
+T00030759,2025-08-01 00:00:00,Priya Desai,Failed,Withdrawal,Retail,Delhi,₹ 2338.27,₹ 0.00,₹ 0.00
+T00031374,2025-08-04 00:00:00,Vivaan Reddy,Success,Loan EMI,Retail,Delhi,₹ 10516.34,₹ 52.58,₹ 9.46
+T00031483,2025-08-17 00:00:00,Ishaan Kumar,Success,Loan EMI,Retail,Delhi,₹ 6526.33,₹ 6.53,₹ 1.18
+T00031775,2025-08-31 00:00:00,Diya Singh,Success,Deposit,SME,Delhi,₹ 10097.98,₹ 0.00,₹ 0.00
+T00032100,2025-08-19 00:00:00,Rohan Bansal,Success,Interest Credit,Retail,Delhi,₹ 1476.85,₹ 7.38,₹ 1.33
+T00032326,2025-08-17 00:00:00,Neha Verma,Success,Deposit,Retail,Delhi,₹ 5177.59,₹ 25.89,₹ 4.66
+T00033269,2025-08-04 00:00:00,Rohan Reddy,Success,Deposit,Retail,Delhi,₹ 5683.87,₹ 0.00,₹ 0.00
+T00033365,2025-08-21 00:00:00,Sai Kapoor,Success,Interest Credit,Corporate,Delhi,₹ 3057.48,₹ 0.00,₹ 0.00
+T00033948,2025-08-18 00:00:00,Kabir Patel,Success,Card Payment,Retail,Delhi,₹ 1673.01,₹ 0.00,₹ 0.00
+T00035566,2025-08-08 00:00:00,Vivaan Mehta,Success,Withdrawal,SME,Delhi,₹ 2053.64,₹ 2.05,₹ 0.37
+T00035873,2025-08-11 00:00:00,Rahul Nair,Success,Withdrawal,Retail,Delhi,₹ 7314.72,₹ 7.31,₹ 1.32
+T00036064,2025-08-28 00:00:00,Anaya Reddy,Success,Transfer,Retail,Delhi,₹ 8587.51,₹ 8.59,₹ 1.55
+T00038495,2025-08-09 00:00:00,Myra Chopra,Success,Withdrawal,Retail,Delhi,₹ 3336.59,₹ 3.34,₹ 0.60
+T00039858,2025-08-31 00:00:00,Neha Mehta,Success,Investment,Retail,Delhi,₹ 2363.60,₹ 11.82,₹ 2.13
+T00039880,2025-08-11 00:00:00,Anika Kapoor,Success,Withdrawal,Retail,Delhi,₹ 7265.44,₹ 0.00,₹ 0.00
+T00041421,2025-08-23 00:00:00,Diya Reddy,Success,Investment,Retail,Delhi,₹ 26505.15,₹ 53.01,₹ 9.54
+T00041657,2025-08-31 00:00:00,Myra Jain,Success,Loan EMI,Retail,Delhi,₹ 20695.35,₹ 20.70,₹ 3.73
+T00041802,2025-08-17 00:00:00,Neha Kulkarni,Success,Bill Payment,Retail,Delhi,₹ 6221.66,₹ 12.44,₹ 2.24
+T00042919,2025-08-10 00:00:00,Kiara Mehta,Success,Loan EMI,SME,Delhi,₹ 4202.85,₹ 4.20,₹ 0.76
+T00043655,2025-08-15 00:00:00,Diya Mehta,Success,Loan EMI,Premium,Delhi,₹ 47813.92,₹ 47.81,₹ 8.61
+T00044001,2025-08-05 00:00:00,Ira Mehta,Success,Investment,Retail,Delhi,₹ 13506.66,₹ 0.00,₹ 0.00
+T00044803,2025-08-05 00:00:00,Anika Patel,Success,Transfer,Retail,Delhi,₹ 18386.99,₹ 18.39,₹ 3.31
+T00044977,2025-08-07 00:00:00,Amit Singh,Success,Loan EMI,Retail,Delhi,₹ 6515.93,₹ 0.00,₹ 0.00
+T00046265,2025-08-19 00:00:00,Nisha Patel,Pending,Fee Charge,Retail,Delhi,₹ 120.59,₹ 0.00,₹ 0.00
+T00047182,2025-08-09 00:00:00,Rahul Verma,Success,Transfer,Retail,Delhi,₹ 11329.66,₹ 11.33,₹ 2.04
+T00048341,2025-08-11 00:00:00,Ira Mehta,Success,Deposit,Retail,Delhi,₹ 15910.33,₹ 31.82,₹ 5.73
+T00048620,2025-08-09 00:00:00,Krishna Chopra,Success,Bill Payment,Premium,Delhi,₹ 7512.04,₹ 0.00,₹ 0.00
+T00048867,2025-08-27 00:00:00,Aarav Agarwal,Success,Bill Payment,Retail,Delhi,₹ 5799.00,₹ 29.00,₹ 5.22
+T00048962,2025-08-09 00:00:00,Aarav Kulkarni,Success,Loan EMI,Retail,Delhi,₹ 6846.03,₹ 6.85,₹ 1.23
+T00049256,2025-08-29 00:00:00,Ira Mehta,Success,Interest Credit,Retail,Delhi,₹ 579.43,₹ 0.00,₹ 0.00
+T00049417,2025-08-06 00:00:00,Anaya Reddy,Success,Bill Payment,Retail,Delhi,₹ 2491.03,₹ 0.00,₹ 0.00
+T00000090,2025-08-27 00:00:00,Krishna Chopra,Success,Investment,SME,Gujarat,₹ 5531.74,₹ 11.06,₹ 1.99
+T00000517,2025-08-16 00:00:00,Neha Bansal,Failed,Card Payment,SME,Gujarat,₹ 13360.76,₹ 13.36,₹ 2.40
+T00000521,2025-08-16 00:00:00,Rahul Reddy,Success,Investment,Retail,Gujarat,₹ 5078.09,₹ 5.08,₹ 0.91
+T00001138,2025-08-16 00:00:00,Reyansh Iyer,Failed,Card Payment,Premium,Gujarat,₹ 2899.51,₹ 0.00,₹ 0.00
+T00001149,2025-08-31 00:00:00,Arjun Patel,Success,Bill Payment,SME,Gujarat,₹ 2542.02,₹ 12.71,₹ 2.29
+T00001218,2025-08-31 00:00:00,Riya Mehta,Success,Transfer,Retail,Gujarat,₹ 7856.40,₹ 15.71,₹ 2.83
+T00001658,2025-08-26 00:00:00,Kiara Verma,Success,Transfer,Corporate,Gujarat,₹ 9714.50,₹ 0.00,₹ 0.00
+T00001865,2025-08-02 00:00:00,Diya Joshi,Success,Loan EMI,Retail,Gujarat,₹ 10478.52,₹ 10.48,₹ 1.89
+T00002144,2025-08-27 00:00:00,Diya Desai,Success,Loan EMI,Premium,Gujarat,₹ 19574.12,₹ 97.87,₹ 17.62
+T00002678,2025-08-13 00:00:00,Nisha Kulkarni,Success,Card Payment,Premium,Gujarat,₹ 9699.80,₹ 9.70,₹ 1.75
+T00003403,2025-08-01 00:00:00,Aarav Singh,Success,Interest Credit,Retail,Gujarat,₹ 550.81,₹ 0.00,₹ 0.00
+T00003537,2025-08-28 00:00:00,Priya Joshi,Success,Withdrawal,Retail,Gujarat,₹ 2102.67,₹ 2.10,₹ 0.38
+T00004259,2025-08-22 00:00:00,Pari Sharma,Failed,Deposit,SME,Gujarat,₹ 29386.06,₹ 0.00,₹ 0.00
+T00004525,2025-08-02 00:00:00,Sneha Desai,Success,Fee Charge,Retail,Gujarat,₹ 920.98,₹ 1.84,₹ 0.33
+T00004729,2025-08-22 00:00:00,Rohan Malhotra,Failed,Fee Charge,Premium,Gujarat,₹ 258.97,₹ 0.26,₹ 0.05
+T00005259,2025-08-23 00:00:00,Anaya Kumar,Success,Refund,Premium,Gujarat,₹ 1302.73,₹ 2.61,₹ 0.47
+T00005460,2025-08-15 00:00:00,Karan Reddy,Success,Transfer,Retail,Gujarat,₹ 20906.23,₹ 104.53,₹ 18.82
+T00006243,2025-08-13 00:00:00,Krishna Joshi,Success,Loan EMI,Retail,Gujarat,₹ 5427.36,₹ 10.85,₹ 1.95
+T00006496,2025-08-27 00:00:00,Sai Bansal,Success,Deposit,SME,Gujarat,₹ 6488.53,₹ 0.00,₹ 0.00
+T00007065,2025-08-31 00:00:00,Krishna Verma,Success,Loan EMI,Premium,Gujarat,₹ 4752.13,₹ 9.50,₹ 1.71
+T00007260,2025-08-31 00:00:00,Myra Nair,Success,Card Payment,Retail,Gujarat,₹ 4531.78,₹ 0.00,₹ 0.00
+T00007331,2025-08-27 00:00:00,Priya Bansal,Failed,Loan EMI,Premium,Gujarat,₹ 9062.83,₹ 0.00,₹ 0.00
+T00007692,2025-08-14 00:00:00,Ira Desai,Success,Transfer,SME,Gujarat,₹ 13651.28,₹ 68.26,₹ 12.29
+T00007757,2025-08-13 00:00:00,Karan Reddy,Success,Withdrawal,Premium,Gujarat,₹ 2525.70,₹ 5.05,₹ 0.91
+T00007855,2025-08-20 00:00:00,Ira Nair,Success,Loan EMI,Retail,Gujarat,₹ 12626.77,₹ 25.25,₹ 4.54
+T00007881,2025-08-27 00:00:00,Karan Mishra,Success,Deposit,Premium,Gujarat,₹ 17576.43,₹ 17.58,₹ 3.16
+T00008006,2025-08-13 00:00:00,Aditya Sharma,Success,Fee Charge,Retail,Gujarat,₹ 734.12,₹ 0.73,₹ 0.13
+T00008293,2025-08-17 00:00:00,Karan Reddy,Success,Withdrawal,Premium,Gujarat,₹ 4630.64,₹ 23.15,₹ 4.17
+T00008605,2025-08-10 00:00:00,Pooja Kulkarni,Failed,Withdrawal,Premium,Gujarat,₹ 1329.42,₹ 0.00,₹ 0.00
+T00009326,2025-08-21 00:00:00,Rohan Malhotra,Success,Transfer,Premium,Gujarat,₹ 13879.02,₹ 69.40,₹ 12.49
+T00009780,2025-08-05 00:00:00,Myra Chopra,Success,Loan EMI,Premium,Gujarat,₹ 6108.80,₹ 12.22,₹ 2.20
+T00009884,2025-08-24 00:00:00,Arjun Bansal,Pending,Loan EMI,Retail,Gujarat,₹ 202872.21,₹ 0.00,₹ 0.00
+T00010168,2025-08-12 00:00:00,Amit Agarwal,Success,Card Payment,Premium,Gujarat,₹ 7334.90,₹ 0.00,₹ 0.00
+T00010216,2025-08-22 00:00:00,Ishaan Chopra,Success,Refund,Corporate,Gujarat,₹ 3598.37,₹ 17.99,₹ 3.24
+T00010252,2025-08-24 00:00:00,Vihaan Jain,Success,Fee Charge,Wealth,Gujarat,₹ 514.42,₹ 0.51,₹ 0.09
+T00010877,2025-08-06 00:00:00,Ayaan Gupta,Success,Withdrawal,Retail,Gujarat,₹ 4226.58,₹ 0.00,₹ 0.00
+T00011190,2025-08-07 00:00:00,Diya Kulkarni,Success,Withdrawal,Retail,Gujarat,₹ 4773.65,₹ 0.00,₹ 0.00
+T00011641,2025-08-26 00:00:00,Rohan Chopra,Success,Withdrawal,SME,Gujarat,₹ 2720.71,₹ 5.44,₹ 0.98
+T00011666,2025-08-11 00:00:00,Kabir Kapoor,Success,Withdrawal,Premium,Gujarat,₹ 9375.42,₹ 9.38,₹ 1.69
+T00011820,2025-08-24 00:00:00,Ishaan Nair,Success,Loan EMI,Premium,Gujarat,₹ 19176.03,₹ 19.18,₹ 3.45
+T00012002,2025-08-07 00:00:00,Krishna Singh,Success,Loan EMI,Corporate,Gujarat,₹ 3449.39,₹ 17.25,₹ 3.10
+T00012068,2025-08-04 00:00:00,Kiara Verma,Success,Deposit,Corporate,Gujarat,₹ 34666.58,₹ 173.33,₹ 31.20
+T00012723,2025-08-13 00:00:00,Ishaan Joshi,Success,Refund,SME,Gujarat,₹ 1218.34,₹ 2.44,₹ 0.44
+T00013333,2025-08-22 00:00:00,Vihaan Mishra,Success,Refund,Corporate,Gujarat,₹ 432.14,₹ 2.16,₹ 0.39
+T00013403,2025-08-04 00:00:00,Karan Iyer,Success,Interest Credit,SME,Gujarat,₹ 1558.05,₹ 7.79,₹ 1.40
+T00013924,2025-08-26 00:00:00,Diya Kulkarni,Success,Refund,Retail,Gujarat,₹ 1770.22,₹ 8.85,₹ 1.59
+T00015062,2025-08-24 00:00:00,Riya Bansal,Success,Transfer,Premium,Gujarat,₹ 11684.15,₹ 0.00,₹ 0.00
+T00015418,2025-08-30 00:00:00,Ishaan Patel,Success,Card Payment,Retail,Gujarat,₹ 3455.36,₹ 0.00,₹ 0.00
+T00015564,2025-08-03 00:00:00,Ishaan Joshi,Success,Loan EMI,Premium,Gujarat,₹ 11642.40,₹ 23.28,₹ 4.19
+T00015992,2025-08-05 00:00:00,Aadhya Iyer,Success,Card Payment,Retail,Gujarat,₹ 3300.39,₹ 6.60,₹ 1.19
+T00016138,2025-08-29 00:00:00,Diya Gupta,Success,Loan EMI,Retail,Gujarat,₹ 4332.93,₹ 4.33,₹ 0.78
+T00016226,2025-08-29 00:00:00,Ishaan Reddy,Success,Loan EMI,Retail,Gujarat,₹ 5416.26,₹ 0.00,₹ 0.00
+T00016381,2025-08-20 00:00:00,Anika Mishra,Success,Card Payment,SME,Gujarat,₹ 10003.22,₹ 0.00,₹ 0.00
+T00016476,2025-08-07 00:00:00,Aarav Bansal,Failed,Loan EMI,Corporate,Gujarat,₹ 12983.98,₹ 12.98,₹ 2.34
+T00017389,2025-08-03 00:00:00,Priya Mehta,Success,Bill Payment,Retail,Gujarat,₹ 10752.32,₹ 0.00,₹ 0.00
+T00017793,2025-08-23 00:00:00,Diya Desai,Success,Fee Charge,Premium,Gujarat,₹ 597.36,₹ 0.00,₹ 0.00
+T00018128,2025-08-22 00:00:00,Sara Patel,Pending,Withdrawal,Retail,Gujarat,₹ 2333.91,₹ 0.00,₹ 0.00
+T00018661,2025-08-08 00:00:00,Anika Mehta,Success,Interest Credit,Wealth,Gujarat,₹ 697.20,₹ 0.00,₹ 0.00
+T00018666,2025-08-24 00:00:00,Priya Joshi,Success,Loan EMI,Retail,Gujarat,₹ 5156.84,₹ 25.78,₹ 4.64
+T00018670,2025-08-12 00:00:00,Ira Chopra,Success,Card Payment,SME,Gujarat,₹ 5500.03,₹ 11.00,₹ 1.98
+T00018803,2025-08-11 00:00:00,Sara Gupta,Success,Card Payment,SME,Gujarat,₹ 1704.92,₹ 0.00,₹ 0.00
+T00018846,2025-08-17 00:00:00,Krishna Singh,Success,Loan EMI,Corporate,Gujarat,₹ 11018.64,₹ 0.00,₹ 0.00
+T00018883,2025-08-08 00:00:00,Reyansh Iyer,Success,Bill Payment,Premium,Gujarat,₹ 2339.26,₹ 2.34,₹ 0.42
+T00019139,2025-08-29 00:00:00,Riya Agarwal,Success,Investment,Premium,Gujarat,₹ 46568.27,₹ 0.00,₹ 0.00
+T00020007,2025-08-05 00:00:00,Vivaan Kapoor,Success,Refund,Premium,Gujarat,₹ 4264.94,₹ 8.53,₹ 1.54
+T00020455,2025-08-19 00:00:00,Arjun Agarwal,Success,Loan EMI,Retail,Gujarat,₹ 29650.54,₹ 0.00,₹ 0.00
+T00020618,2025-08-10 00:00:00,Reyansh Iyer,Success,Card Payment,Premium,Gujarat,₹ 1573.51,₹ 0.00,₹ 0.00
+T00020619,2025-08-24 00:00:00,Vivaan Agarwal,Success,Withdrawal,Wealth,Gujarat,₹ 2475.50,₹ 0.00,₹ 0.00
+T00020843,2025-08-02 00:00:00,Ira Iyer,Success,Bill Payment,SME,Gujarat,₹ 3860.31,₹ 0.00,₹ 0.00
+T00021111,2025-08-10 00:00:00,Aditya Chopra,Success,Transfer,Wealth,Gujarat,₹ 17624.00,₹ 35.25,₹ 6.34
+T00021378,2025-08-09 00:00:00,Arjun Agarwal,Success,Loan EMI,Retail,Gujarat,₹ 24864.81,₹ 49.73,₹ 8.95
+T00021516,2025-08-07 00:00:00,Aadhya Joshi,Success,Card Payment,Retail,Gujarat,₹ 1577.36,₹ 0.00,₹ 0.00
+T00021532,2025-08-31 00:00:00,Diya Desai,Success,Loan EMI,Premium,Gujarat,₹ 10381.08,₹ 20.76,₹ 3.74
+T00021560,2025-08-19 00:00:00,Diya Desai,Failed,Refund,Premium,Gujarat,₹ 2725.61,₹ 0.00,₹ 0.00
+T00022505,2025-08-09 00:00:00,Sara Joshi,Failed,Interest Credit,Retail,Gujarat,₹ 3724.92,₹ 0.00,₹ 0.00
+T00023255,2025-08-25 00:00:00,Ira Kulkarni,Success,Withdrawal,Retail,Gujarat,₹ 2562.79,₹ 0.00,₹ 0.00
+T00023877,2025-08-26 00:00:00,Aditya Sharma,Success,Transfer,Retail,Gujarat,₹ 6068.69,₹ 6.07,₹ 1.09
+T00024152,2025-08-26 00:00:00,Sneha Gupta,Success,Card Payment,Retail,Gujarat,₹ 8954.89,₹ 8.95,₹ 1.61
+T00024169,2025-08-08 00:00:00,Vivaan Mehta,Success,Deposit,Retail,Gujarat,₹ 5295.29,₹ 26.48,₹ 4.77
+T00024325,2025-08-16 00:00:00,Vihaan Mishra,Success,Fee Charge,Premium,Gujarat,₹ 801.60,₹ 0.00,₹ 0.00
+T00024333,2025-08-22 00:00:00,Sara Nair,Success,Refund,Corporate,Gujarat,₹ 882.08,₹ 4.41,₹ 0.79
+T00024867,2025-08-21 00:00:00,Myra Gupta,Success,Deposit,Retail,Gujarat,₹ 30700.44,₹ 61.40,₹ 11.05
+T00026994,2025-08-24 00:00:00,Sneha Gupta,Success,Card Payment,Retail,Gujarat,₹ 8476.63,₹ 0.00,₹ 0.00
+T00028092,2025-08-19 00:00:00,Reyansh Verma,Success,Refund,Premium,Gujarat,₹ 2575.37,₹ 14.52,₹ 0.46
+T00028176,2025-08-08 00:00:00,Vihaan Jain,Success,Refund,Retail,Gujarat,₹ 2091.13,₹ 0.00,₹ 0.00
+T00028298,2025-08-11 00:00:00,Vihaan Agarwal,Success,Interest Credit,Premium,Gujarat,₹ 4296.67,₹ 0.00,₹ 0.00
+T00028558,2025-08-07 00:00:00,Neha Verma,Success,Bill Payment,Premium,Gujarat,₹ 6642.35,₹ 6.64,₹ 1.20
+T00029488,2025-08-16 00:00:00,Vihaan Jain,Success,Fee Charge,Retail,Gujarat,₹ 96.16,₹ 0.00,₹ 0.00
+T00029535,2025-08-12 00:00:00,Nisha Kulkarni,Success,Transfer,Premium,Gujarat,₹ 43022.10,₹ 43.02,₹ 7.74
+T00029863,2025-08-18 00:00:00,Diya Joshi,Success,Loan EMI,Retail,Gujarat,₹ 6071.42,₹ 12.14,₹ 2.19
+T00030158,2025-08-31 00:00:00,Vivaan Agarwal,Success,Investment,Premium,Gujarat,₹ 6719.93,₹ 6.72,₹ 1.21
+T00030385,2025-08-05 00:00:00,Anika Reddy,Success,Transfer,Premium,Gujarat,₹ 5463.14,₹ 10.93,₹ 1.97
+T00030452,2025-08-01 00:00:00,Anika Mishra,Success,Bill Payment,SME,Gujarat,₹ 7484.33,₹ 0.00,₹ 0.00
+T00030461,2025-08-04 00:00:00,Anika Verma,Success,Interest Credit,Retail,Gujarat,₹ 3627.55,₹ 0.00,₹ 0.00
+T00030926,2025-08-31 00:00:00,Kabir Mehta,Success,Fee Charge,SME,Gujarat,₹ 267.00,₹ 0.27,₹ 0.05
+T00031255,2025-08-20 00:00:00,Amit Desai,Success,Card Payment,Retail,Gujarat,₹ 6692.99,₹ 33.46,₹ 6.02
+T00031283,2025-08-23 00:00:00,Vivaan Kapoor,Success,Deposit,Premium,Gujarat,₹ 1882.44,₹ 0.00,₹ 0.00
+T00032294,2025-08-04 00:00:00,Amit Malhotra,Success,Withdrawal,Wealth,Gujarat,₹ 3301.30,₹ 3.30,₹ 0.59
+T00032411,2025-08-05 00:00:00,Anika Agarwal,Success,Interest Credit,Premium,Gujarat,₹ 3404.99,₹ 0.00,₹ 0.00
+T00032670,2025-08-05 00:00:00,Nisha Chopra,Success,Loan EMI,SME,Gujarat,₹ 6994.96,₹ 0.00,₹ 0.00
+T00033127,2025-08-23 00:00:00,Ayaan Desai,Success,Loan EMI,SME,Gujarat,₹ 7245.17,₹ 36.23,₹ 6.52
+T00033247,2025-08-27 00:00:00,Aadhya Agarwal,Success,Transfer,Retail,Gujarat,₹ 3088.65,₹ 6.18,₹ 1.11
+T00033255,2025-08-12 00:00:00,Ira Kulkarni,Success,Loan EMI,SME,Gujarat,₹ 7088.70,₹ 14.18,₹ 2.55
+T00034190,2025-08-05 00:00:00,Krishna Verma,Success,Loan EMI,Premium,Gujarat,₹ 4690.39,₹ 9.38,₹ 1.69
+T00034293,2025-08-09 00:00:00,Ayaan Jain,Success,Refund,Corporate,Gujarat,₹ 3230.16,₹ 0.00,₹ 0.00
+T00034314,2025-08-15 00:00:00,Krishna Nair,Success,Refund,Premium,Gujarat,₹ 4155.09,₹ 8.31,₹ 1.50
+T00034548,2025-08-16 00:00:00,Rohan Jain,Success,Loan EMI,Retail,Gujarat,₹ 3883.22,₹ 3.88,₹ 0.70
+T00034608,2025-08-09 00:00:00,Aarav Desai,Success,Loan EMI,Premium,Gujarat,₹ 1784.19,₹ 0.00,₹ 0.00
+T00035678,2025-08-27 00:00:00,Amit Mehta,Failed,Investment,SME,Gujarat,₹ 8349.95,₹ 41.75,₹ 7.51
+T00035721,2025-08-08 00:00:00,Krishna Singh,Success,Fee Charge,Corporate,Gujarat,₹ 882.92,₹ 0.00,₹ 0.00
+T00036379,2025-08-29 00:00:00,Kiara Gupta,Success,Loan EMI,Premium,Gujarat,₹ 16734.44,₹ 0.00,₹ 0.00
+T00036418,2025-08-30 00:00:00,Nisha Desai,Failed,Fee Charge,Retail,Gujarat,₹ 560.94,₹ 0.00,₹ 0.00
+T00036843,2025-08-30 00:00:00,Rohan Kulkarni,Success,Investment,Retail,Gujarat,₹ 5804.06,₹ 11.61,₹ 2.09
+T00036933,2025-08-09 00:00:00,Anika Mehta,Success,Loan EMI,Wealth,Gujarat,₹ 4034.84,₹ 8.07,₹ 1.45
+T00037588,2025-08-30 00:00:00,Karan Reddy,Success,Transfer,Retail,Gujarat,₹ 7948.41,₹ 0.00,₹ 0.00
+T00037809,2025-08-22 00:00:00,Neha Patel,Success,Transfer,Retail,Gujarat,₹ 54198.01,₹ 270.99,₹ 48.78
+T00038278,2025-08-29 00:00:00,Aditya Agarwal,Success,Refund,Retail,Gujarat,₹ 2019.37,₹ 10.10,₹ 1.82
+T00039177,2025-08-02 00:00:00,Amit Mehta,Success,Interest Credit,SME,Gujarat,₹ 1149.36,₹ 2.30,₹ 0.41
+T00039263,2025-08-20 00:00:00,Krishna Kapoor,Success,Transfer,Retail,Gujarat,₹ 2055.80,₹ 2.06,₹ 0.37
+T00039268,2025-08-04 00:00:00,Vihaan Jain,Success,Interest Credit,Wealth,Gujarat,₹ 59.91,₹ 0.00,₹ 0.00
+T00039526,2025-08-30 00:00:00,Vivaan Mishra,Success,Investment,Retail,Gujarat,₹ 41035.38,₹ 0.00,₹ 0.00
+T00039781,2025-08-27 00:00:00,Rahul Kumar,Success,Loan EMI,Corporate,Gujarat,₹ 11360.38,₹ 0.00,₹ 0.00
+T00039843,2025-08-01 00:00:00,Ishaan Verma,Success,Interest Credit,Retail,Gujarat,₹ 1052.08,₹ 2.10,₹ 0.38
+T00040062,2025-08-02 00:00:00,Aditya Sharma,Failed,Loan EMI,Retail,Gujarat,₹ 7467.43,₹ 14.93,₹ 2.69
+T00040150,2025-08-03 00:00:00,Diya Kulkarni,Pending,Loan EMI,Premium,Gujarat,₹ 17325.00,₹ 86.62,₹ 15.59
+T00040303,2025-08-23 00:00:00,Nisha Patel,Success,Fee Charge,Wealth,Gujarat,₹ 61.81,₹ 0.00,₹ 0.00
+T00040600,2025-08-12 00:00:00,Krishna Sharma,Success,Withdrawal,Premium,Gujarat,₹ 20049.83,₹ 0.00,₹ 0.00
+T00040739,2025-08-16 00:00:00,Aditya Agarwal,Success,Card Payment,Retail,Gujarat,₹ 4808.95,₹ 24.04,₹ 4.33
+T00040776,2025-08-04 00:00:00,Rahul Mishra,Success,Investment,Retail,Gujarat,₹ 2451.22,₹ 12.26,₹ 2.21
+T00041729,2025-08-24 00:00:00,Pooja Singh,Success,Interest Credit,Retail,Gujarat,₹ 173.97,₹ 0.00,₹ 0.00
+T00041763,2025-08-30 00:00:00,Aditya Iyer,Success,Loan EMI,Retail,Gujarat,₹ 15251.14,₹ 0.00,₹ 0.00
+T00041983,2025-08-17 00:00:00,Riya Reddy,Success,Bill Payment,Retail,Gujarat,₹ 1973.29,₹ 1.97,₹ 0.35
+T00042675,2025-08-10 00:00:00,Aarav Desai,Success,Transfer,SME,Gujarat,₹ 11707.86,₹ 0.00,₹ 0.00
+T00042839,2025-08-21 00:00:00,Aditya Nair,Success,Transfer,Premium,Gujarat,₹ 1675.21,₹ 8.38,₹ 1.51
+T00042901,2025-08-27 00:00:00,Ishaan Reddy,Success,Interest Credit,Retail,Gujarat,₹ 2458.91,₹ 2.46,₹ 0.44
+T00043633,2025-08-04 00:00:00,Vivaan Bansal,Success,Deposit,Retail,Gujarat,₹ 28140.39,₹ 56.28,₹ 10.13
+T00043794,2025-08-29 00:00:00,Anika Singh,Success,Loan EMI,Retail,Gujarat,₹ 19417.25,₹ 97.09,₹ 17.48
+T00044114,2025-08-29 00:00:00,Pooja Mehta,Success,Deposit,Retail,Gujarat,₹ 4163.29,₹ 8.33,₹ 1.50
+T00044230,2025-08-02 00:00:00,Vihaan Sharma,Success,Card Payment,Retail,Gujarat,₹ 5952.41,₹ 0.00,₹ 0.00
+T00044516,2025-08-09 00:00:00,Vivaan Joshi,Success,Loan EMI,Premium,Gujarat,₹ 10164.82,₹ 20.33,₹ 3.66
+T00044540,2025-08-02 00:00:00,Anika Mishra,Success,Loan EMI,SME,Gujarat,₹ 4359.72,₹ 21.80,₹ 3.92
+T00044789,2025-08-23 00:00:00,Sai Kapoor,Success,Transfer,Corporate,Gujarat,₹ 4566.37,₹ 0.00,₹ 0.00
+T00044853,2025-08-09 00:00:00,Anika Verma,Success,Loan EMI,Retail,Gujarat,₹ 7592.66,₹ 0.00,₹ 0.00
+T00045209,2025-08-24 00:00:00,Karan Malhotra,Failed,Loan EMI,Retail,Gujarat,₹ 10030.61,₹ 0.00,₹ 0.00
+T00045547,2025-08-01 00:00:00,Amit Agarwal,Success,Investment,Premium,Gujarat,₹ 6622.94,₹ 6.62,₹ 1.19
+T00045958,2025-08-19 00:00:00,Kiara Gupta,Success,Card Payment,Premium,Gujarat,₹ 2777.87,₹ 2.78,₹ 0.50
+T00046165,2025-08-15 00:00:00,Kiara Mehta,Success,Investment,Retail,Gujarat,₹ 11741.58,₹ 58.71,₹ 10.57
+T00046524,2025-08-05 00:00:00,Neha Agarwal,Success,Interest Credit,Retail,Gujarat,₹ 774.82,₹ 1.55,₹ 0.28
+T00046572,2025-08-13 00:00:00,Pooja Singh,Success,Deposit,Retail,Gujarat,₹ 25381.24,₹ 0.00,₹ 0.00
+T00046848,2025-08-22 00:00:00,Karan Iyer,Success,Investment,SME,Gujarat,₹ 12416.75,₹ 12.42,₹ 2.24
+T00047204,2025-08-27 00:00:00,Diya Desai,Failed,Deposit,Premium,Gujarat,₹ 11229.06,₹ 56.15,₹ 10.11
+T00047860,2025-08-19 00:00:00,Sneha Kulkarni,Success,Interest Credit,Retail,Gujarat,₹ 689.42,₹ 0.69,₹ 0.12
+T00047908,2025-08-05 00:00:00,Karan Reddy,Success,Deposit,Retail,Gujarat,₹ 5746.00,₹ 11.49,₹ 2.07
+T00048391,2025-08-19 00:00:00,Priya Bansal,Success,Interest Credit,Premium,Gujarat,₹ 3921.64,₹ 7.84,₹ 1.41
+T00049073,2025-08-03 00:00:00,Anika Mehta,Failed,Transfer,Retail,Gujarat,₹ 3983.85,₹ 3.98,₹ 0.72
+T00000113,2025-08-04 00:00:00,Ira Malhotra,Success,Transfer,SME,Haryana,₹ 1946.59,₹ 3.89,₹ 0.70
+T00000685,2025-08-30 00:00:00,Ishaan Jain,Success,Bill Payment,Corporate,Haryana,₹ 4950.56,₹ 0.00,₹ 0.00
+T00002106,2025-08-09 00:00:00,Myra Mehta,Success,Bill Payment,Retail,Haryana,₹ 620.20,₹ 0.62,₹ 0.11
+T00003563,2025-08-01 00:00:00,Sneha Kulkarni,Success,Deposit,SME,Haryana,₹ 11802.29,₹ 0.00,₹ 0.00
+T00004611,2025-08-07 00:00:00,Ayaan Nair,Success,Fee Charge,Retail,Haryana,₹ 803.00,₹ 0.80,₹ 0.14
+T00005887,2025-08-18 00:00:00,Anaya Reddy,Success,Bill Payment,Premium,Haryana,₹ 1801.57,₹ 9.01,₹ 1.62
+T00006486,2025-08-04 00:00:00,Aadhya Jain,Success,Investment,Retail,Haryana,₹ 2725.53,₹ 0.00,₹ 0.00
+T00006857,2025-08-13 00:00:00,Sai Mehta,Success,Investment,Premium,Haryana,₹ 12177.71,₹ 0.00,₹ 0.00
+T00007994,2025-08-30 00:00:00,Diya Kumar,Success,Transfer,Retail,Haryana,₹ 12595.08,₹ 62.98,₹ 11.34
+T00008772,2025-08-02 00:00:00,Vihaan Nair,Success,Deposit,Corporate,Haryana,₹ 13327.45,₹ 26.65,₹ 4.80
+T00009693,2025-08-15 00:00:00,Karan Malhotra,Success,Refund,Wealth,Haryana,₹ 2760.67,₹ 2.76,₹ 0.50
+T00009952,2025-08-28 00:00:00,Diya Iyer,Success,Transfer,SME,Haryana,₹ 7649.23,₹ 15.30,₹ 2.75
+T00010610,2025-08-23 00:00:00,Krishna Kulkarni,Failed,Card Payment,Retail,Haryana,₹ 12649.80,₹ 63.25,₹ 11.38
+T00011475,2025-08-17 00:00:00,Krishna Kapoor,Success,Transfer,Premium,Haryana,₹ 10357.97,₹ 10.36,₹ 1.86
+T00011722,2025-08-03 00:00:00,Kabir Malhotra,Success,Interest Credit,Retail,Haryana,₹ 1559.47,₹ 7.80,₹ 1.40
+T00012100,2025-08-25 00:00:00,Diya Nair,Success,Withdrawal,Retail,Haryana,₹ 9158.40,₹ 0.00,₹ 0.00
+T00012419,2025-08-16 00:00:00,Anika Malhotra,Failed,Card Payment,Retail,Haryana,₹ 4242.84,₹ 8.49,₹ 1.53
+T00012596,2025-08-03 00:00:00,Vivaan Reddy,Success,Loan EMI,Premium,Haryana,₹ 17196.43,₹ 0.00,₹ 0.00
+T00015512,2025-08-16 00:00:00,Anika Agarwal,Success,Withdrawal,SME,Haryana,₹ 2589.26,₹ 0.00,₹ 0.00
+T00015642,2025-08-05 00:00:00,Reyansh Kumar,Success,Fee Charge,Retail,Haryana,₹ 352.35,₹ 1.76,₹ 0.32
+T00015971,2025-08-08 00:00:00,Aadhya Jain,Success,Transfer,Retail,Haryana,₹ 6666.68,₹ 13.33,₹ 2.40
+T00018196,2025-08-21 00:00:00,Karan Jain,Failed,Loan EMI,Wealth,Haryana,₹ 8099.40,₹ 0.00,₹ 0.00
+T00018452,2025-08-28 00:00:00,Vivaan Reddy,Success,Loan EMI,Retail,Haryana,₹ 8293.17,₹ 41.47,₹ 7.46
+T00024293,2025-08-02 00:00:00,Vivaan Nair,Success,Transfer,Retail,Haryana,₹ 17189.11,₹ 17.19,₹ 3.09
+T00026458,2025-08-05 00:00:00,Diya Iyer,Success,Loan EMI,SME,Haryana,₹ 18067.78,₹ 36.14,₹ 6.51
+T00026665,2025-08-04 00:00:00,Aditya Desai,Success,Investment,Retail,Haryana,₹ 21092.07,₹ 105.46,₹ 18.98
+T00027299,2025-08-09 00:00:00,Krishna Iyer,Success,Loan EMI,Retail,Haryana,₹ 10303.80,₹ 20.61,₹ 3.71
+T00027355,2025-08-27 00:00:00,Diya Patel,Success,Deposit,Corporate,Haryana,₹ 8173.49,₹ 16.35,₹ 2.94
+T00027858,2025-08-02 00:00:00,Ira Verma,Success,Refund,Retail,Haryana,₹ 3217.37,₹ 0.00,₹ 0.00
+T00029571,2025-08-19 00:00:00,Ishaan Jain,Success,Card Payment,Retail,Haryana,₹ 1570.59,₹ 0.00,₹ 0.00
+T00030477,2025-08-08 00:00:00,Pari Joshi,Success,Withdrawal,Retail,Haryana,₹ 1118.16,₹ 0.00,₹ 0.00
+T00035461,2025-08-18 00:00:00,Priya Kulkarni,Success,Loan EMI,Retail,Haryana,₹ 4408.73,₹ 8.82,₹ 1.59
+T00035464,2025-08-25 00:00:00,Krishna Singh,Success,Loan EMI,Retail,Haryana,₹ 49597.92,₹ 0.00,₹ 0.00
+T00036377,2025-08-19 00:00:00,Ira Gupta,Success,Transfer,SME,Haryana,₹ 8155.29,₹ 16.31,₹ 2.94
+T00036934,2025-08-20 00:00:00,Sara Kumar,Success,Bill Payment,Retail,Haryana,₹ 7445.09,₹ 7.45,₹ 1.34
+T00037276,2025-08-21 00:00:00,Neha Mishra,Success,Investment,Premium,Haryana,₹ 6839.66,₹ 0.00,₹ 0.00
+T00037601,2025-08-17 00:00:00,Krishna Kumar,Success,Transfer,Premium,Haryana,₹ 10297.78,₹ 0.00,₹ 0.00
+T00038005,2025-08-28 00:00:00,Diya Reddy,Failed,Fee Charge,Retail,Haryana,₹ 748.90,₹ 0.75,₹ 0.14
+T00038444,2025-08-27 00:00:00,Kabir Jain,Success,Transfer,Retail,Haryana,₹ 3531.78,₹ 3.53,₹ 0.64
+T00040819,2025-08-27 00:00:00,Rohan Sharma,Success,Card Payment,Retail,Haryana,₹ 904.00,₹ 0.90,₹ 0.16
+T00041196,2025-08-28 00:00:00,Aadhya Joshi,Success,Deposit,SME,Haryana,₹ 16495.60,₹ 32.99,₹ 5.94
+T00042754,2025-08-23 00:00:00,Aarav Mishra,Success,Refund,Corporate,Haryana,₹ 398.85,₹ 0.40,₹ 0.07
+T00043220,2025-08-12 00:00:00,Diya Patel,Success,Loan EMI,SME,Haryana,₹ 33284.75,₹ 33.28,₹ 5.99
+T00043636,2025-08-15 00:00:00,Ayaan Joshi,Success,Card Payment,Retail,Haryana,₹ 1269.69,₹ 6.35,₹ 1.14
+T00043846,2025-08-12 00:00:00,Vihaan Chopra,Success,Loan EMI,Corporate,Haryana,₹ 9010.70,₹ 0.00,₹ 0.00
+T00044539,2025-08-12 00:00:00,Ira Kapoor,Failed,Transfer,Retail,Haryana,₹ 8732.35,₹ 0.00,₹ 0.00
+T00045674,2025-08-09 00:00:00,Rahul Singh,Success,Deposit,Retail,Haryana,₹ 5301.92,₹ 0.00,₹ 0.00
+T00046816,2025-08-19 00:00:00,Priya Kulkarni,Pending,Interest Credit,Retail,Haryana,₹ 173.82,₹ 0.17,₹ 0.03
+T00049122,2025-08-15 00:00:00,Sneha Gupta,Success,Bill Payment,Corporate,Haryana,₹ 3870.48,₹ 7.74,₹ 1.39
+T00000820,2025-08-15 00:00:00,Sara Mehta,Success,Card Payment,Wealth,Karnataka,₹ 3715.19,₹ 3.72,₹ 0.67
+T00000841,2025-08-09 00:00:00,Vihaan Kapoor,Success,Loan EMI,Retail,Karnataka,₹ 4776.45,₹ 0.00,₹ 0.00
+T00000951,2025-08-14 00:00:00,Amit Malhotra,Success,Bill Payment,Premium,Karnataka,₹ 7877.41,₹ 7.88,₹ 1.42
+T00001306,2025-08-15 00:00:00,Pari Patel,Success,Interest Credit,Premium,Karnataka,₹ 2077.09,₹ 2.08,₹ 0.37
+T00001569,2025-08-29 00:00:00,Krishna Mishra,Success,Loan EMI,Retail,Karnataka,₹ 2507.19,₹ 0.00,₹ 0.00
+T00002211,2025-08-21 00:00:00,Ira Chopra,Success,Loan EMI,Retail,Karnataka,₹ 7488.28,₹ 7.49,₹ 1.35
+T00002303,2025-08-07 00:00:00,Karan Chopra,Success,Investment,SME,Karnataka,₹ 18729.66,₹ 0.00,₹ 0.00
+T00002425,2025-08-13 00:00:00,Sneha Agarwal,Success,Loan EMI,Wealth,Karnataka,₹ 16728.64,₹ 0.00,₹ 0.00
+T00002467,2025-08-30 00:00:00,Amit Iyer,Success,Deposit,Premium,Karnataka,₹ 10034.74,₹ 50.17,₹ 9.03
+T00002491,2025-08-29 00:00:00,Vivaan Agarwal,Success,Fee Charge,Corporate,Karnataka,₹ 531.99,₹ 1.06,₹ 0.19
+T00002529,2025-08-30 00:00:00,Priya Patel,Success,Withdrawal,Corporate,Karnataka,₹ 1287.05,₹ 0.00,₹ 0.00
+T00002694,2025-08-14 00:00:00,Anika Mehta,Success,Interest Credit,Retail,Karnataka,₹ 3514.12,₹ 7.03,₹ 1.27
+T00002758,2025-08-11 00:00:00,Anika Jain,Success,Fee Charge,Retail,Karnataka,₹ 144.64,₹ 0.14,₹ 0.03
+T00003103,2025-08-07 00:00:00,Vivaan Patel,Failed,Transfer,Corporate,Karnataka,₹ 8582.78,₹ 0.00,₹ 0.00
+T00003871,2025-08-01 00:00:00,Rahul Agarwal,Success,Loan EMI,Retail,Karnataka,₹ 7757.11,₹ 38.79,₹ 6.98
+T00003940,2025-08-15 00:00:00,Pooja Kapoor,Success,Withdrawal,Retail,Karnataka,₹ 3007.63,₹ 15.04,₹ 2.71
+T00004172,2025-08-15 00:00:00,Ishaan Bansal,Success,Investment,Retail,Karnataka,₹ 6095.81,₹ 0.00,₹ 0.00
+T00004191,2025-08-20 00:00:00,Sneha Kapoor,Pending,Bill Payment,Retail,Karnataka,₹ 15678.30,₹ 15.68,₹ 2.82
+T00004202,2025-08-23 00:00:00,Krishna Reddy,Success,Loan EMI,Retail,Karnataka,₹ 5369.57,₹ 0.00,₹ 0.00
+T00004247,2025-08-21 00:00:00,Myra Gupta,Success,Refund,SME,Karnataka,₹ 828.03,₹ 0.00,₹ 0.00
+T00004277,2025-08-12 00:00:00,Pooja Sharma,Failed,Investment,Wealth,Karnataka,₹ 12222.73,₹ 0.00,₹ 0.00
+T00004563,2025-08-26 00:00:00,Aditya Mishra,Success,Bill Payment,Retail,Karnataka,₹ 1791.05,₹ 3.58,₹ 0.64
+T00004890,2025-08-15 00:00:00,Kiara Sharma,Success,Loan EMI,Retail,Karnataka,₹ 5348.79,₹ 0.00,₹ 0.00
+T00005110,2025-08-30 00:00:00,Vihaan Mehta,Success,Loan EMI,Corporate,Karnataka,₹ 7060.02,₹ 7.06,₹ 1.27
+T00005124,2025-08-18 00:00:00,Aarav Mishra,Success,Refund,Retail,Karnataka,₹ 1480.18,₹ 0.00,₹ 0.00
+T00005429,2025-08-04 00:00:00,Rahul Iyer,Success,Transfer,Premium,Karnataka,₹ 24979.27,₹ 0.00,₹ 0.00
+T00005597,2025-08-18 00:00:00,Rahul Kumar,Failed,Investment,Retail,Karnataka,₹ 3040.53,₹ 0.00,₹ 0.00
+T00005832,2025-08-30 00:00:00,Rahul Kulkarni,Success,Card Payment,Retail,Karnataka,₹ 28088.25,₹ 140.44,₹ 25.28
+T00005851,2025-08-23 00:00:00,Myra Verma,Success,Investment,Retail,Karnataka,₹ 12342.83,₹ 0.00,₹ 0.00
+T00006311,2025-08-20 00:00:00,Ayaan Nair,Success,Loan EMI,Premium,Karnataka,₹ 51090.85,₹ 0.00,₹ 0.00
+T00006781,2025-08-04 00:00:00,Krishna Joshi,Success,Fee Charge,Retail,Karnataka,₹ 783.13,₹ 0.00,₹ 0.00
+T00006908,2025-08-11 00:00:00,Diya Gupta,Success,Deposit,Premium,Karnataka,₹ 3496.40,₹ 0.00,₹ 0.00
+T00007113,2025-08-02 00:00:00,Ishaan Bansal,Success,Loan EMI,Premium,Karnataka,₹ 4701.47,₹ 0.00,₹ 0.00
+T00007666,2025-08-10 00:00:00,Ishaan Patel,Success,Withdrawal,Retail,Karnataka,₹ 2024.00,₹ 4.05,₹ 0.73
+T00008029,2025-08-06 00:00:00,Vivaan Patel,Failed,Loan EMI,Corporate,Karnataka,₹ 3683.27,₹ 3.68,₹ 0.66
+T00008113,2025-08-10 00:00:00,Amit Singh,Success,Interest Credit,Premium,Karnataka,₹ 1437.48,₹ 0.00,₹ 0.00
+T00008651,2025-08-19 00:00:00,Rohan Chopra,Success,Transfer,Corporate,Karnataka,₹ 5689.70,₹ 0.00,₹ 0.00
+T00008922,2025-08-03 00:00:00,Anika Nair,Success,Deposit,Retail,Karnataka,₹ 5290.58,₹ 0.00,₹ 0.00
+T00009591,2025-08-10 00:00:00,Rohan Joshi,Success,Refund,Wealth,Karnataka,₹ 3857.07,₹ 7.71,₹ 1.39
+T00009632,2025-08-22 00:00:00,Vihaan Agarwal,Success,Withdrawal,Retail,Karnataka,₹ 3740.26,₹ 3.74,₹ 0.67
+T00010378,2025-08-30 00:00:00,Krishna Reddy,Success,Loan EMI,Retail,Karnataka,₹ 12031.81,₹ 12.03,₹ 2.17
+T00010977,2025-08-26 00:00:00,Kiara Jain,Success,Withdrawal,SME,Karnataka,₹ 1225.39,₹ 1.23,₹ 0.22
+T00011003,2025-08-10 00:00:00,Kabir Reddy,Success,Card Payment,SME,Karnataka,₹ 1926.59,₹ 1.93,₹ 0.35
+T00011125,2025-08-17 00:00:00,Riya Bansal,Failed,Loan EMI,Retail,Karnataka,₹ 6039.88,₹ 0.00,₹ 0.00
+T00011291,2025-08-17 00:00:00,Aditya Sharma,Success,Bill Payment,SME,Karnataka,₹ 8474.60,₹ 0.00,₹ 0.00
+T00011402,2025-08-18 00:00:00,Vivaan Agarwal,Pending,Investment,Retail,Karnataka,₹ 14415.65,₹ 72.08,₹ 12.97
+T00011610,2025-08-03 00:00:00,Aadhya Singh,Failed,Fee Charge,Premium,Karnataka,₹ 508.81,₹ 2.54,₹ 0.46
+T00011645,2025-08-28 00:00:00,Neha Iyer,Success,Fee Charge,SME,Karnataka,₹ 628.47,₹ 1.26,₹ 0.23
+T00012022,2025-08-24 00:00:00,Amit Reddy,Success,Deposit,Retail,Karnataka,₹ 12461.22,₹ 0.00,₹ 0.00
+T00012065,2025-08-07 00:00:00,Karan Desai,Success,Card Payment,Retail,Karnataka,₹ 2971.78,₹ 14.86,₹ 2.67
+T00012338,2025-08-08 00:00:00,Karan Chopra,Success,Withdrawal,SME,Karnataka,₹ 5297.57,₹ 10.60,₹ 1.91
+T00012360,2025-08-30 00:00:00,Nisha Jain,Success,Deposit,Retail,Karnataka,₹ 11019.91,₹ 11.02,₹ 1.98
+T00012406,2025-08-25 00:00:00,Ayaan Nair,Success,Interest Credit,Premium,Karnataka,₹ 426.49,₹ 0.43,₹ 0.08
+T00014287,2025-08-27 00:00:00,Vivaan Agarwal,Success,Interest Credit,Retail,Karnataka,₹ 702.87,₹ 1.41,₹ 0.25
+T00014545,2025-08-08 00:00:00,Sneha Desai,Success,Interest Credit,Retail,Karnataka,₹ 55.91,₹ 0.11,₹ 0.02
+T00015160,2025-08-09 00:00:00,Karan Desai,Success,Fee Charge,SME,Karnataka,₹ 413.86,₹ 2.07,₹ 0.37
+T00015186,2025-08-02 00:00:00,Ira Bansal,Success,Loan EMI,SME,Karnataka,₹ 8109.73,₹ 0.00,₹ 0.00
+T00015422,2025-08-23 00:00:00,Aarav Iyer,Success,Transfer,Retail,Karnataka,₹ 18007.53,₹ 0.00,₹ 0.00
+T00015530,2025-08-23 00:00:00,Reyansh Mishra,Success,Deposit,Premium,Karnataka,₹ 27627.33,₹ 55.25,₹ 9.95
+T00015702,2025-08-24 00:00:00,Priya Gupta,Failed,Fee Charge,SME,Karnataka,₹ 452.94,₹ 0.91,₹ 0.16
+T00016247,2025-08-07 00:00:00,Vivaan Nair,Success,Deposit,Retail,Karnataka,₹ 38797.33,₹ 77.59,₹ 13.97
+T00016250,2025-08-28 00:00:00,Karan Kumar,Success,Transfer,Premium,Karnataka,₹ 11861.38,₹ 0.00,₹ 0.00
+T00016488,2025-08-31 00:00:00,Aadhya Singh,Success,Withdrawal,Premium,Karnataka,₹ 1631.84,₹ 1.63,₹ 0.29
+T00016710,2025-08-25 00:00:00,Rohan Verma,Success,Interest Credit,SME,Karnataka,₹ 852.74,₹ 0.85,₹ 0.15
+T00016926,2025-08-09 00:00:00,Pari Kulkarni,Success,Bill Payment,Retail,Karnataka,₹ 7226.51,₹ 0.00,₹ 0.00
+T00017032,2025-08-12 00:00:00,Aditya Chopra,Success,Interest Credit,Retail,Karnataka,₹ 3711.13,₹ 18.56,₹ 3.34
+T00017045,2025-08-20 00:00:00,Vihaan Mishra,Success,Loan EMI,Retail,Karnataka,₹ 14357.53,₹ 14.36,₹ 2.58
+T00017359,2025-08-30 00:00:00,Karan Reddy,Success,Interest Credit,SME,Karnataka,₹ 4308.52,₹ 0.00,₹ 0.00
+T00017431,2025-08-05 00:00:00,Arjun Mishra,Success,Bill Payment,Corporate,Karnataka,₹ 1753.15,₹ 0.00,₹ 0.00
+T00017485,2025-08-29 00:00:00,Amit Kumar,Success,Loan EMI,Retail,Karnataka,₹ 5444.67,₹ 27.22,₹ 4.90
+T00018232,2025-08-05 00:00:00,Kabir Kumar,Success,Loan EMI,Retail,Karnataka,₹ 14239.80,₹ 28.48,₹ 5.13
+T00018427,2025-08-04 00:00:00,Aarav Kapoor,Pending,Loan EMI,SME,Karnataka,₹ 5047.07,₹ 10.09,₹ 1.82
+T00018437,2025-08-09 00:00:00,Rahul Kumar,Success,Investment,Retail,Karnataka,₹ 1838.66,₹ 1.84,₹ 0.33
+T00019247,2025-08-26 00:00:00,Vivaan Verma,Success,Interest Credit,Retail,Karnataka,₹ 837.15,₹ 4.19,₹ 0.75
+T00019356,2025-08-19 00:00:00,Priya Sharma,Success,Transfer,Retail,Karnataka,₹ 8855.69,₹ 17.71,₹ 3.19
+T00019443,2025-08-27 00:00:00,Sneha Gupta,Success,Transfer,Premium,Karnataka,₹ 33671.20,₹ 0.00,₹ 0.00
+T00019871,2025-08-07 00:00:00,Ayaan Patel,Success,Bill Payment,Wealth,Karnataka,₹ 2585.84,₹ 0.00,₹ 0.00
+T00019907,2025-08-21 00:00:00,Sai Verma,Failed,Withdrawal,Retail,Karnataka,₹ 1945.84,₹ 3.89,₹ 0.70
+T00020217,2025-08-06 00:00:00,Pari Patel,Success,Card Payment,Premium,Karnataka,₹ 6955.68,₹ 34.78,₹ 6.26
+T00021177,2025-08-09 00:00:00,Sara Sharma,Success,Transfer,Retail,Karnataka,₹ 3779.61,₹ 0.00,₹ 0.00
+T00021473,2025-08-18 00:00:00,Sara Patel,Success,Investment,SME,Karnataka,₹ 6947.32,₹ 0.00,₹ 0.00
+T00021573,2025-08-30 00:00:00,Ira Reddy,Success,Loan EMI,Retail,Karnataka,₹ 6139.00,₹ 30.70,₹ 5.53
+T00021646,2025-08-30 00:00:00,Aadhya Singh,Success,Deposit,Premium,Karnataka,₹ 2232.56,₹ 0.00,₹ 0.00
+T00022343,2025-08-05 00:00:00,Reyansh Gupta,Pending,Fee Charge,Wealth,Karnataka,₹ 800.85,₹ 0.80,₹ 0.14
+T00022455,2025-08-01 00:00:00,Aditya Singh,Success,Investment,Retail,Karnataka,₹ 10354.73,₹ 10.35,₹ 1.86
+T00022475,2025-08-31 00:00:00,Neha Reddy,Success,Interest Credit,SME,Karnataka,₹ 1398.73,₹ 2.80,₹ 0.50
+T00022819,2025-08-30 00:00:00,Anika Jain,Success,Loan EMI,Retail,Karnataka,₹ 8316.98,₹ 8.32,₹ 1.50
+T00023386,2025-08-04 00:00:00,Vihaan Patel,Success,Refund,Retail,Karnataka,₹ 3140.26,₹ 0.00,₹ 0.00
+T00023444,2025-08-07 00:00:00,Vihaan Mishra,Success,Loan EMI,Retail,Karnataka,₹ 5664.46,₹ 5.66,₹ 1.02
+T00023903,2025-08-14 00:00:00,Sara Mishra,Failed,Loan EMI,Wealth,Karnataka,₹ 27456.52,₹ 54.91,₹ 9.88
+T00024143,2025-08-22 00:00:00,Ayaan Joshi,Pending,Refund,Retail,Karnataka,₹ 2271.31,₹ 0.00,₹ 0.00
+T00025107,2025-08-21 00:00:00,Anika Nair,Success,Deposit,Retail,Karnataka,₹ 10263.64,₹ 20.53,₹ 3.70
+T00025640,2025-08-09 00:00:00,Sneha Desai,Success,Transfer,Retail,Karnataka,₹ 34753.77,₹ 69.51,₹ 12.51
+T00025729,2025-08-02 00:00:00,Rahul Jain,Success,Loan EMI,Retail,Karnataka,₹ 21461.77,₹ 107.31,₹ 19.32
+T00026086,2025-08-01 00:00:00,Sneha Agarwal,Success,Bill Payment,Wealth,Karnataka,₹ 19600.89,₹ 98.00,₹ 17.64
+T00026275,2025-08-01 00:00:00,Kabir Verma,Failed,Investment,Retail,Karnataka,₹ 2167.70,₹ 0.00,₹ 0.00
+T00026360,2025-08-04 00:00:00,Aarav Mishra,Success,Fee Charge,Retail,Karnataka,₹ 726.81,₹ 0.73,₹ 0.13
+T00026896,2025-08-27 00:00:00,Aadhya Verma,Success,Withdrawal,Premium,Karnataka,₹ 5980.95,₹ 0.00,₹ 0.00
+T00027694,2025-08-08 00:00:00,Anika Desai,Success,Interest Credit,SME,Karnataka,₹ 1768.05,₹ 8.84,₹ 1.59
+T00028099,2025-08-19 00:00:00,Ishaan Chopra,Success,Transfer,SME,Karnataka,₹ 33477.30,₹ 0.00,₹ 0.00
+T00028455,2025-08-25 00:00:00,Diya Gupta,Success,Loan EMI,Premium,Karnataka,₹ 13270.76,₹ 66.35,₹ 11.94
+T00028640,2025-08-09 00:00:00,Vihaan Agarwal,Success,Loan EMI,Retail,Karnataka,₹ 12087.32,₹ 0.00,₹ 0.00
+T00029049,2025-08-20 00:00:00,Ira Iyer,Failed,Card Payment,Retail,Karnataka,₹ 5930.78,₹ 11.86,₹ 2.13
+T00029190,2025-08-06 00:00:00,Kiara Iyer,Success,Investment,Wealth,Karnataka,₹ 23783.16,₹ 47.57,₹ 8.56
+T00029224,2025-08-08 00:00:00,Amit Mehta,Success,Loan EMI,Premium,Karnataka,₹ 3420.81,₹ 6.84,₹ 1.23
+T00029372,2025-08-17 00:00:00,Pooja Sharma,Success,Card Payment,Retail,Karnataka,₹ 4562.46,₹ 22.81,₹ 4.11
+T00029391,2025-08-27 00:00:00,Kabir Reddy,Failed,Withdrawal,SME,Karnataka,₹ 6191.10,₹ 0.00,₹ 0.00
+T00029531,2025-08-26 00:00:00,Vihaan Desai,Success,Bill Payment,Retail,Karnataka,₹ 10836.87,₹ 21.67,₹ 3.90
+T00029642,2025-08-24 00:00:00,Sai Verma,Failed,Card Payment,Retail,Karnataka,₹ 6035.30,₹ 30.18,₹ 5.43
+T00029699,2025-08-02 00:00:00,Arjun Verma,Success,Card Payment,Retail,Karnataka,₹ 2025.36,₹ 4.05,₹ 0.73
+T00030027,2025-08-22 00:00:00,Neha Kumar,Success,Interest Credit,Corporate,Karnataka,₹ 664.91,₹ 1.33,₹ 0.24
+T00030389,2025-08-26 00:00:00,Aditya Agarwal,Success,Deposit,Corporate,Karnataka,₹ 9710.64,₹ 48.55,₹ 8.74
+T00030491,2025-08-15 00:00:00,Aarav Chopra,Success,Interest Credit,Retail,Karnataka,₹ 2718.11,₹ 5.44,₹ 0.98
+T00030836,2025-08-30 00:00:00,Rohan Joshi,Success,Interest Credit,Wealth,Karnataka,₹ 2064.73,₹ 2.06,₹ 0.37
+T00031064,2025-08-19 00:00:00,Rahul Bansal,Success,Loan EMI,Retail,Karnataka,₹ 30721.50,₹ 0.00,₹ 0.00
+T00031318,2025-08-26 00:00:00,Anaya Iyer,Success,Refund,Corporate,Karnataka,₹ 1143.73,₹ 0.00,₹ 0.00
+T00031456,2025-08-11 00:00:00,Ira Nair,Success,Investment,Retail,Karnataka,₹ 2783.33,₹ 0.00,₹ 0.00
+T00031706,2025-08-15 00:00:00,Kiara Jain,Success,Fee Charge,SME,Karnataka,₹ 420.29,₹ 0.00,₹ 0.00
+T00032334,2025-08-17 00:00:00,Anaya Mehta,Success,Loan EMI,Premium,Karnataka,₹ 39774.30,₹ 0.00,₹ 0.00
+T00033469,2025-08-22 00:00:00,Diya Iyer,Success,Interest Credit,Corporate,Karnataka,₹ 1071.41,₹ 2.14,₹ 0.39
+T00033643,2025-08-20 00:00:00,Aadhya Desai,Success,Bill Payment,Retail,Karnataka,₹ 4571.94,₹ 0.00,₹ 0.00
+T00034351,2025-08-13 00:00:00,Vihaan Verma,Success,Loan EMI,Retail,Karnataka,₹ 11709.87,₹ 23.42,₹ 4.22
+T00034804,2025-08-21 00:00:00,Krishna Singh,Success,Interest Credit,Retail,Karnataka,₹ 3420.66,₹ 3.42,₹ 0.62
+T00034815,2025-08-17 00:00:00,Aditya Sharma,Success,Investment,SME,Karnataka,₹ 17864.33,₹ 35.73,₹ 6.43
+T00035136,2025-08-02 00:00:00,Kiara Malhotra,Success,Card Payment,Retail,Karnataka,₹ 3393.12,₹ 0.00,₹ 0.00
+T00035602,2025-08-25 00:00:00,Anika Jain,Success,Bill Payment,Retail,Karnataka,₹ 4081.54,₹ 0.00,₹ 0.00
+T00035790,2025-08-05 00:00:00,Nisha Kulkarni,Success,Interest Credit,Retail,Karnataka,₹ 2386.58,₹ 0.00,₹ 0.00
+T00036127,2025-08-02 00:00:00,Aadhya Sharma,Success,Loan EMI,Retail,Karnataka,₹ 15137.54,₹ 15.14,₹ 2.73
+T00036672,2025-08-28 00:00:00,Myra Mehta,Success,Withdrawal,Retail,Karnataka,₹ 9703.54,₹ 0.00,₹ 0.00
+T00036987,2025-08-05 00:00:00,Krishna Kapoor,Failed,Loan EMI,Retail,Karnataka,₹ 8562.67,₹ 8.56,₹ 1.54
+T00037070,2025-08-21 00:00:00,Riya Bansal,Success,Loan EMI,Retail,Karnataka,₹ 33821.37,₹ 0.00,₹ 0.00
+T00037644,2025-08-14 00:00:00,Anika Nair,Success,Deposit,Retail,Karnataka,₹ 16646.87,₹ 33.29,₹ 5.99
+T00038196,2025-08-19 00:00:00,Vivaan Mehta,Success,Transfer,Premium,Karnataka,₹ 12236.67,₹ 0.00,₹ 0.00
+T00038396,2025-08-21 00:00:00,Aadhya Singh,Failed,Card Payment,Retail,Karnataka,₹ 4138.91,₹ 0.00,₹ 0.00
+T00038600,2025-08-11 00:00:00,Krishna Patel,Failed,Interest Credit,Retail,Karnataka,₹ 4406.95,₹ 0.00,₹ 0.00
+T00038682,2025-08-02 00:00:00,Aarav Bansal,Success,Card Payment,Retail,Karnataka,₹ 9146.98,₹ 0.00,₹ 0.00
+T00039040,2025-08-19 00:00:00,Anaya Mishra,Success,Loan EMI,Retail,Karnataka,₹ 10083.54,₹ 10.08,₹ 1.81
+T00039372,2025-08-19 00:00:00,Rohan Joshi,Success,Card Payment,Wealth,Karnataka,₹ 10034.83,₹ 50.17,₹ 9.03
+T00039377,2025-08-29 00:00:00,Neha Desai,Success,Bill Payment,Retail,Karnataka,₹ 6106.92,₹ 0.00,₹ 0.00
+T00040561,2025-08-15 00:00:00,Pooja Malhotra,Pending,Refund,Premium,Karnataka,₹ 1728.97,₹ 1.73,₹ 0.31
+T00040788,2025-08-13 00:00:00,Sara Mishra,Success,Transfer,Wealth,Karnataka,₹ 23191.49,₹ 23.19,₹ 4.17
+T00041406,2025-08-12 00:00:00,Karan Reddy,Failed,Transfer,SME,Karnataka,₹ 2377.18,₹ 11.89,₹ 2.14
+T00041740,2025-08-13 00:00:00,Pari Patel,Success,Fee Charge,SME,Karnataka,₹ 573.14,₹ 0.00,₹ 0.00
+T00041831,2025-08-03 00:00:00,Nisha Gupta,Success,Transfer,Premium,Karnataka,₹ 17163.98,₹ 0.00,₹ 0.00
+T00042298,2025-08-23 00:00:00,Vivaan Singh,Success,Card Payment,Retail,Karnataka,₹ 1555.00,₹ 0.00,₹ 0.00
+T00042448,2025-08-07 00:00:00,Pooja Malhotra,Success,Card Payment,Premium,Karnataka,₹ 1181.71,₹ 0.00,₹ 0.00
+T00042471,2025-08-08 00:00:00,Krishna Kulkarni,Success,Transfer,Premium,Karnataka,₹ 18562.31,₹ 18.56,₹ 3.34
+T00042861,2025-08-22 00:00:00,Myra Iyer,Pending,Interest Credit,SME,Karnataka,₹ 3354.83,₹ 0.00,₹ 0.00
+T00043053,2025-08-08 00:00:00,Sneha Patel,Success,Transfer,SME,Karnataka,₹ 18861.42,₹ 0.00,₹ 0.00
+T00043231,2025-08-14 00:00:00,Priya Iyer,Success,Transfer,Premium,Karnataka,₹ 21800.24,₹ 109.00,₹ 19.62
+T00043599,2025-08-13 00:00:00,Diya Chopra,Success,Transfer,Retail,Karnataka,₹ 1388.81,₹ 2.78,₹ 0.50
+T00044492,2025-08-28 00:00:00,Ishaan Kumar,Success,Transfer,Retail,Karnataka,₹ 14833.05,₹ 0.00,₹ 0.00
+T00044899,2025-08-09 00:00:00,Aadhya Singh,Pending,Investment,Premium,Karnataka,₹ 9854.48,₹ 0.00,₹ 0.00
+T00045267,2025-08-23 00:00:00,Kiara Kumar,Success,Loan EMI,Premium,Karnataka,₹ 7390.94,₹ 0.00,₹ 0.00
+T00045898,2025-08-10 00:00:00,Aarav Chopra,Success,Loan EMI,Retail,Karnataka,₹ 23288.34,₹ 46.58,₹ 8.38
+T00045982,2025-08-14 00:00:00,Karan Desai,Success,Loan EMI,Retail,Karnataka,₹ 12409.52,₹ 24.82,₹ 4.47
+T00046353,2025-08-29 00:00:00,Nisha Patel,Pending,Transfer,Retail,Karnataka,₹ 4989.22,₹ 9.98,₹ 1.80
+T00046728,2025-08-02 00:00:00,Ayaan Joshi,Success,Transfer,Retail,Karnataka,₹ 3454.19,₹ 17.27,₹ 3.11
+T00046783,2025-08-29 00:00:00,Reyansh Sharma,Success,Fee Charge,Corporate,Karnataka,₹ 278.66,₹ 0.00,₹ 0.00
+T00047049,2025-08-31 00:00:00,Ira Nair,Success,Fee Charge,Retail,Karnataka,₹ 661.55,₹ 0.00,₹ 0.00
+T00047061,2025-08-11 00:00:00,Reyansh Agarwal,Success,Bill Payment,Retail,Karnataka,₹ 1031.13,₹ 0.00,₹ 0.00
+T00047251,2025-08-13 00:00:00,Diya Bansal,Success,Interest Credit,Premium,Karnataka,₹ 317.55,₹ 0.00,₹ 0.00
+T00047335,2025-08-20 00:00:00,Ira Mishra,Success,Interest Credit,Retail,Karnataka,₹ 3838.37,₹ 0.00,₹ 0.00
+T00047552,2025-08-07 00:00:00,Aarav Agarwal,Success,Interest Credit,Wealth,Karnataka,₹ 4252.51,₹ 4.25,₹ 0.77
+T00047868,2025-08-27 00:00:00,Myra Iyer,Success,Deposit,SME,Karnataka,₹ 28185.43,₹ 0.00,₹ 0.00
+T00048342,2025-08-14 00:00:00,Kabir Verma,Success,Investment,Retail,Karnataka,₹ 12368.16,₹ 61.84,₹ 11.13
+T00049287,2025-08-21 00:00:00,Ayaan Gupta,Success,Card Payment,SME,Karnataka,₹ 5909.92,₹ 11.82,₹ 2.13
+T00049651,2025-08-06 00:00:00,Krishna Reddy,Success,Transfer,Retail,Karnataka,₹ 1537.75,₹ 3.08,₹ 0.55
+T00049738,2025-08-19 00:00:00,Priya Kulkarni,Success,Card Payment,Premium,Karnataka,₹ 2730.42,₹ 2.73,₹ 0.49
+T00049869,2025-08-07 00:00:00,Krishna Reddy,Success,Loan EMI,Retail,Karnataka,₹ 3133.84,₹ 15.67,₹ 2.82
+T00049876,2025-08-10 00:00:00,Krishna Reddy,Success,Deposit,Retail,Karnataka,₹ 5670.43,₹ 0.00,₹ 0.00
+T00001359,2025-08-01 00:00:00,Aadhya Jain,Success,Refund,SME,Kerala,₹ 2261.81,₹ 11.31,₹ 2.04
+T00001607,2025-08-22 00:00:00,Amit Kumar,Success,Loan EMI,Retail,Kerala,₹ 12528.05,₹ 12.53,₹ 2.26
+T00002172,2025-08-13 00:00:00,Amit Agarwal,Success,Deposit,Premium,Kerala,₹ 3922.55,₹ 3.92,₹ 0.71
+T00002933,2025-08-08 00:00:00,Vivaan Nair,Success,Withdrawal,Retail,Kerala,₹ 1817.95,₹ 3.64,₹ 0.66
+T00003792,2025-08-02 00:00:00,Aadhya Iyer,Success,Loan EMI,Retail,Kerala,₹ 4450.76,₹ 8.90,₹ 1.60
+T00004889,2025-08-28 00:00:00,Amit Patel,Success,Refund,Retail,Kerala,₹ 890.93,₹ 1.78,₹ 0.32
+T00007672,2025-08-15 00:00:00,Aditya Jain,Success,Fee Charge,Retail,Kerala,₹ 840.03,₹ 1.68,₹ 0.30
+T00007848,2025-08-11 00:00:00,Aadhya Iyer,Success,Loan EMI,Retail,Kerala,₹ 6103.36,₹ 0.00,₹ 0.00
+T00009908,2025-08-12 00:00:00,Aadhya Reddy,Success,Withdrawal,Premium,Kerala,₹ 5741.36,₹ 0.00,₹ 0.00
+T00011669,2025-08-01 00:00:00,Aarav Joshi,Success,Refund,Retail,Kerala,₹ 2229.04,₹ 4.46,₹ 0.80
+T00013024,2025-08-25 00:00:00,Nisha Patel,Success,Transfer,SME,Kerala,₹ 2070.12,₹ 10.35,₹ 1.86
+T00014021,2025-08-19 00:00:00,Ayaan Gupta,Failed,Transfer,Corporate,Kerala,₹ 20739.97,₹ 0.00,₹ 0.00
+T00014267,2025-08-24 00:00:00,Vihaan Verma,Success,Bill Payment,Retail,Kerala,₹ 9043.58,₹ 45.22,₹ 8.14
+T00015058,2025-08-15 00:00:00,Neha Jain,Success,Fee Charge,Corporate,Kerala,₹ 664.95,₹ 0.66,₹ 0.12
+T00016587,2025-08-28 00:00:00,Sneha Chopra,Success,Bill Payment,Retail,Kerala,₹ 2794.94,₹ 13.97,₹ 2.51
+T00016673,2025-08-19 00:00:00,Vihaan Verma,Success,Loan EMI,Retail,Kerala,₹ 21326.94,₹ 0.00,₹ 0.00
+T00020524,2025-08-14 00:00:00,Rahul Bansal,Success,Transfer,Retail,Kerala,₹ 7090.32,₹ 7.09,₹ 1.28
+T00021097,2025-08-12 00:00:00,Pari Singh,Success,Interest Credit,Premium,Kerala,₹ 4285.61,₹ 21.43,₹ 3.86
+T00021103,2025-08-17 00:00:00,Reyansh Sharma,Pending,Deposit,Retail,Kerala,₹ 4256.33,₹ 0.00,₹ 0.00
+T00022247,2025-08-17 00:00:00,Ishaan Sharma,Success,Investment,Retail,Kerala,₹ 11349.10,₹ 0.00,₹ 0.00
+T00022340,2025-08-18 00:00:00,Krishna Kapoor,Success,Card Payment,Retail,Kerala,₹ 2859.82,₹ 5.72,₹ 1.03
+T00023089,2025-08-14 00:00:00,Neha Jain,Success,Withdrawal,Corporate,Kerala,₹ 20771.49,₹ 0.00,₹ 0.00
+T00023699,2025-08-11 00:00:00,Pooja Joshi,Success,Transfer,Retail,Kerala,₹ 5193.68,₹ 0.00,₹ 0.00
+T00024330,2025-08-03 00:00:00,Amit Patel,Success,Card Payment,Retail,Kerala,₹ 3533.01,₹ 0.00,₹ 0.00
+T00024553,2025-08-24 00:00:00,Arjun Sharma,Success,Fee Charge,Retail,Kerala,₹ 722.46,₹ 3.61,₹ 0.65
+T00024707,2025-08-21 00:00:00,Karan Agarwal,Success,Interest Credit,Wealth,Kerala,₹ 3476.33,₹ 0.00,₹ 0.00
+T00025644,2025-08-04 00:00:00,Krishna Iyer,Success,Deposit,Retail,Kerala,₹ 1229.47,₹ 1.23,₹ 0.22
+T00025797,2025-08-16 00:00:00,Riya Sharma,Success,Deposit,Premium,Kerala,₹ 2288.03,₹ 0.00,₹ 0.00
+T00026946,2025-08-16 00:00:00,Pooja Kapoor,Success,Bill Payment,Retail,Kerala,₹ 4316.98,₹ 0.00,₹ 0.00
+T00027820,2025-08-14 00:00:00,Sai Gupta,Success,Transfer,Retail,Kerala,₹ 1351.96,₹ 1.35,₹ 0.24
+T00028081,2025-08-30 00:00:00,Kabir Reddy,Failed,Loan EMI,Premium,Kerala,₹ 10812.16,₹ 0.00,₹ 0.00
+T00028250,2025-08-31 00:00:00,Sai Gupta,Failed,Transfer,Retail,Kerala,₹ 14898.86,₹ 14.90,₹ 2.68
+T00028329,2025-08-01 00:00:00,Krishna Joshi,Success,Loan EMI,Corporate,Kerala,₹ 9827.66,₹ 0.00,₹ 0.00
+T00029176,2025-08-31 00:00:00,Sai Joshi,Failed,Loan EMI,Retail,Kerala,₹ 25275.99,₹ 0.00,₹ 0.00
+T00029526,2025-08-26 00:00:00,Sneha Nair,Success,Loan EMI,SME,Kerala,₹ 26683.87,₹ 26.68,₹ 4.80
+T00030816,2025-08-31 00:00:00,Amit Kumar,Success,Loan EMI,Retail,Kerala,₹ 10118.34,₹ 10.12,₹ 1.82
+T00031285,2025-08-15 00:00:00,Ira Singh,Success,Deposit,Premium,Kerala,₹ 7289.59,₹ 0.00,₹ 0.00
+T00031877,2025-08-04 00:00:00,Nisha Gupta,Success,Bill Payment,Premium,Kerala,₹ 8670.36,₹ 43.35,₹ 7.80
+T00034005,2025-08-07 00:00:00,Riya Verma,Success,Loan EMI,Retail,Kerala,₹ 3286.16,₹ 0.00,₹ 0.00
+T00035062,2025-08-15 00:00:00,Anika Patel,Success,Deposit,Premium,Kerala,₹ 9707.48,₹ 9.71,₹ 1.75
+T00038645,2025-08-30 00:00:00,Ishaan Sharma,Failed,Bill Payment,Retail,Kerala,₹ 1652.20,₹ 0.00,₹ 0.00
+T00039152,2025-08-29 00:00:00,Sai Verma,Success,Withdrawal,Wealth,Kerala,₹ 9924.06,₹ 0.00,₹ 0.00
+T00039639,2025-08-26 00:00:00,Pari Singh,Success,Fee Charge,Premium,Kerala,₹ 452.68,₹ 0.45,₹ 0.08
+T00040088,2025-08-23 00:00:00,Rahul Bansal,Success,Investment,Retail,Kerala,₹ 14679.27,₹ 0.00,₹ 0.00
+T00040359,2025-08-07 00:00:00,Krishna Reddy,Success,Investment,Wealth,Kerala,₹ 2156.06,₹ 2.16,₹ 0.39
+T00040805,2025-08-27 00:00:00,Vivaan Reddy,Success,Withdrawal,SME,Kerala,₹ 6170.62,₹ 30.85,₹ 5.55
+T00042013,2025-08-02 00:00:00,Priya Verma,Success,Deposit,Retail,Kerala,₹ 17206.09,₹ 0.00,₹ 0.00
+T00042091,2025-08-17 00:00:00,Kabir Singh,Success,Fee Charge,Retail,Kerala,₹ 434.59,₹ 0.00,₹ 0.00
+T00043491,2025-08-21 00:00:00,Rahul Chopra,Success,Transfer,Premium,Kerala,₹ 15776.44,₹ 0.00,₹ 0.00
+T00043513,2025-08-02 00:00:00,Kabir Singh,Success,Bill Payment,Corporate,Kerala,₹ 4897.45,₹ 4.90,₹ 0.88
+T00043738,2025-08-04 00:00:00,Karan Agarwal,Success,Fee Charge,Wealth,Kerala,₹ 788.25,₹ 3.94,₹ 0.71
+T00045512,2025-08-04 00:00:00,Priya Verma,Success,Transfer,Retail,Kerala,₹ 2523.67,₹ 5.05,₹ 0.91
+T00045681,2025-08-06 00:00:00,Karan Nair,Success,Interest Credit,Retail,Kerala,₹ 1817.10,₹ 1.82,₹ 0.33
+T00046819,2025-08-30 00:00:00,Priya Jain,Failed,Withdrawal,Premium,Kerala,₹ 3647.61,₹ 7.30,₹ 1.31
+T00000420,2025-08-28 00:00:00,Vihaan Bansal,Success,Interest Credit,Retail,Madhya Pradesh,₹ 3197.07,₹ 15.99,₹ 2.88
+T00001045,2025-08-15 00:00:00,Amit Bansal,Success,Transfer,Corporate,Madhya Pradesh,₹ 18374.95,₹ 0.00,₹ 0.00
+T00001242,2025-08-12 00:00:00,Anika Singh,Success,Investment,Retail,Madhya Pradesh,₹ 10563.17,₹ 52.82,₹ 9.51
+T00001573,2025-08-13 00:00:00,Nisha Malhotra,Success,Interest Credit,Retail,Madhya Pradesh,₹ 3342.72,₹ 0.00,₹ 0.00
+T00001778,2025-08-26 00:00:00,Ayaan Mehta,Success,Loan EMI,Premium,Madhya Pradesh,₹ 18234.23,₹ 91.17,₹ 16.41
+T00001900,2025-08-17 00:00:00,Ira Sharma,Success,Transfer,SME,Madhya Pradesh,₹ 11142.53,₹ 55.71,₹ 10.03
+T00002030,2025-08-19 00:00:00,Pari Chopra,Pending,Deposit,Premium,Madhya Pradesh,₹ 5274.00,₹ 26.37,₹ 4.75
+T00002138,2025-08-08 00:00:00,Priya Jain,Success,Bill Payment,Retail,Madhya Pradesh,₹ 7172.88,₹ 14.35,₹ 2.58
+T00002940,2025-08-01 00:00:00,Kabir Patel,Failed,Bill Payment,Retail,Madhya Pradesh,₹ 1982.63,₹ 0.00,₹ 0.00
+T00003289,2025-08-26 00:00:00,Nisha Mehta,Success,Card Payment,Premium,Madhya Pradesh,₹ 10190.47,₹ 0.00,₹ 0.00
+T00003504,2025-08-23 00:00:00,Ira Malhotra,Success,Transfer,Retail,Madhya Pradesh,₹ 4327.96,₹ 21.64,₹ 3.90
+T00003827,2025-08-05 00:00:00,Karan Verma,Success,Loan EMI,SME,Madhya Pradesh,₹ 38346.17,₹ 38.35,₹ 6.90
+T00005425,2025-08-30 00:00:00,Arjun Sharma,Failed,Interest Credit,Retail,Madhya Pradesh,₹ 2836.71,₹ 2.84,₹ 0.51
+T00005448,2025-08-02 00:00:00,Karan Desai,Success,Interest Credit,Wealth,Madhya Pradesh,₹ 3041.40,₹ 15.21,₹ 2.74
+T00005657,2025-08-24 00:00:00,Pooja Verma,Success,Loan EMI,Retail,Madhya Pradesh,₹ 6142.13,₹ 30.71,₹ 5.53
+T00006149,2025-08-19 00:00:00,Pari Malhotra,Failed,Transfer,Corporate,Madhya Pradesh,₹ 13704.82,₹ 27.41,₹ 4.93
+T00007075,2025-08-15 00:00:00,Rahul Verma,Success,Transfer,Retail,Madhya Pradesh,₹ 8131.70,₹ 8.13,₹ 1.46
+T00007295,2025-08-15 00:00:00,Nisha Malhotra,Success,Loan EMI,Retail,Madhya Pradesh,₹ 5569.69,₹ 11.14,₹ 2.01
+T00007345,2025-08-25 00:00:00,Sara Jain,Success,Interest Credit,Premium,Madhya Pradesh,₹ 283.77,₹ 1.42,₹ 0.26
+T00007479,2025-08-01 00:00:00,Anaya Reddy,Pending,Withdrawal,Premium,Madhya Pradesh,₹ 4305.04,₹ 8.61,₹ 1.55
+T00007532,2025-08-12 00:00:00,Sai Chopra,Success,Deposit,Retail,Madhya Pradesh,₹ 10270.64,₹ 10.27,₹ 1.85
+T00007830,2025-08-06 00:00:00,Amit Nair,Success,Transfer,Premium,Madhya Pradesh,₹ 29580.87,₹ 147.90,₹ 26.62
+T00008535,2025-08-05 00:00:00,Rohan Jain,Success,Transfer,Premium,Madhya Pradesh,₹ 8198.16,₹ 8.20,₹ 1.48
+T00008908,2025-08-29 00:00:00,Rohan Joshi,Success,Withdrawal,SME,Madhya Pradesh,₹ 5329.96,₹ 0.00,₹ 0.00
+T00009372,2025-08-04 00:00:00,Kiara Reddy,Success,Transfer,Retail,Madhya Pradesh,₹ 4209.06,₹ 8.42,₹ 1.52
+T00009797,2025-08-05 00:00:00,Ayaan Kapoor,Failed,Interest Credit,Retail,Madhya Pradesh,₹ 4356.82,₹ 21.78,₹ 3.92
+T00009828,2025-08-31 00:00:00,Pooja Sharma,Success,Interest Credit,Retail,Madhya Pradesh,₹ 1016.31,₹ 1.02,₹ 0.18
+T00010298,2025-08-15 00:00:00,Kiara Kulkarni,Success,Loan EMI,Retail,Madhya Pradesh,₹ 14343.40,₹ 0.00,₹ 0.00
+T00010457,2025-08-26 00:00:00,Sneha Malhotra,Success,Deposit,Retail,Madhya Pradesh,₹ 11540.92,₹ 0.00,₹ 0.00
+T00010488,2025-08-22 00:00:00,Aadhya Nair,Success,Transfer,Corporate,Madhya Pradesh,₹ 11288.75,₹ 0.00,₹ 0.00
+T00010927,2025-08-17 00:00:00,Pooja Mishra,Failed,Card Payment,Retail,Madhya Pradesh,₹ 4332.25,₹ 0.00,₹ 0.00
+T00011354,2025-08-29 00:00:00,Aadhya Patel,Success,Deposit,Retail,Madhya Pradesh,₹ 7030.24,₹ 14.06,₹ 2.53
+T00011665,2025-08-26 00:00:00,Sneha Kapoor,Failed,Withdrawal,Retail,Madhya Pradesh,₹ 3559.03,₹ 0.00,₹ 0.00
+T00012435,2025-08-27 00:00:00,Ayaan Joshi,Success,Withdrawal,Retail,Madhya Pradesh,₹ 2411.80,₹ 2.41,₹ 0.43
+T00012601,2025-08-28 00:00:00,Sara Jain,Success,Bill Payment,Premium,Madhya Pradesh,₹ 5058.67,₹ 10.12,₹ 1.82
+T00012700,2025-08-27 00:00:00,Pooja Joshi,Success,Transfer,Premium,Madhya Pradesh,₹ 9016.82,₹ 9.02,₹ 1.62
+T00013101,2025-08-04 00:00:00,Anika Patel,Success,Interest Credit,Retail,Madhya Pradesh,₹ 3183.02,₹ 3.18,₹ 0.57
+T00013516,2025-08-30 00:00:00,Riya Mehta,Success,Deposit,Retail,Madhya Pradesh,₹ 13132.67,₹ 65.66,₹ 11.82
+T00013852,2025-08-15 00:00:00,Myra Bansal,Success,Investment,Premium,Madhya Pradesh,₹ 19860.36,₹ 0.00,₹ 0.00
+T00013942,2025-08-17 00:00:00,Rahul Joshi,Success,Transfer,Retail,Madhya Pradesh,₹ 9238.35,₹ 18.48,₹ 3.33
+T00014135,2025-08-18 00:00:00,Karan Patel,Success,Interest Credit,SME,Madhya Pradesh,₹ 1631.18,₹ 8.16,₹ 1.47
+T00014495,2025-08-02 00:00:00,Aarav Kulkarni,Success,Transfer,Corporate,Madhya Pradesh,₹ 24923.19,₹ 24.92,₹ 4.49
+T00014709,2025-08-21 00:00:00,Rahul Agarwal,Success,Investment,Premium,Madhya Pradesh,₹ 7673.34,₹ 0.00,₹ 0.00
+T00014915,2025-08-26 00:00:00,Arjun Nair,Success,Transfer,Corporate,Madhya Pradesh,₹ 14208.82,₹ 14.21,₹ 2.56
+T00015056,2025-08-20 00:00:00,Myra Kapoor,Success,Loan EMI,SME,Madhya Pradesh,₹ 5911.91,₹ 11.82,₹ 2.13
+T00016555,2025-08-21 00:00:00,Nisha Malhotra,Success,Fee Charge,Retail,Madhya Pradesh,₹ 78.04,₹ 0.08,₹ 0.01
+T00017557,2025-08-19 00:00:00,Sara Jain,Failed,Loan EMI,Premium,Madhya Pradesh,₹ 50790.06,₹ 50.79,₹ 9.14
+T00018208,2025-08-28 00:00:00,Rohan Chopra,Success,Fee Charge,SME,Madhya Pradesh,₹ 84.17,₹ 0.00,₹ 0.00
+T00018373,2025-08-25 00:00:00,Sai Bansal,Success,Bill Payment,Retail,Madhya Pradesh,₹ 4362.41,₹ 4.36,₹ 0.78
+T00019536,2025-08-31 00:00:00,Sneha Jain,Failed,Withdrawal,Retail,Madhya Pradesh,₹ 9113.86,₹ 18.23,₹ 3.28
+T00019796,2025-08-13 00:00:00,Anika Desai,Success,Transfer,Retail,Madhya Pradesh,₹ 5082.23,₹ 0.00,₹ 0.00
+T00019924,2025-08-24 00:00:00,Vihaan Sharma,Success,Transfer,Retail,Madhya Pradesh,₹ 26092.76,₹ 0.00,₹ 0.00
+T00021215,2025-08-17 00:00:00,Anaya Jain,Failed,Card Payment,Retail,Madhya Pradesh,₹ 2766.64,₹ 0.00,₹ 0.00
+T00021481,2025-08-02 00:00:00,Pari Iyer,Success,Transfer,Premium,Madhya Pradesh,₹ 3317.48,₹ 0.00,₹ 0.00
+T00021520,2025-08-11 00:00:00,Nisha Kapoor,Success,Card Payment,SME,Madhya Pradesh,₹ 4877.34,₹ 9.75,₹ 1.75
+T00022162,2025-08-02 00:00:00,Vihaan Bansal,Success,Interest Credit,Retail,Madhya Pradesh,₹ 1822.71,₹ 3.65,₹ 0.66
+T00022173,2025-08-02 00:00:00,Vihaan Verma,Pending,Deposit,Premium,Madhya Pradesh,₹ 75605.24,₹ 378.03,₹ 68.05
+T00023182,2025-08-29 00:00:00,Krishna Singh,Failed,Withdrawal,Retail,Madhya Pradesh,₹ 7199.33,₹ 0.00,₹ 0.00
+T00023542,2025-08-27 00:00:00,Rahul Nair,Success,Loan EMI,Premium,Madhya Pradesh,₹ 26106.25,₹ 26.11,₹ 4.70
+T00024502,2025-08-21 00:00:00,Pari Joshi,Success,Fee Charge,Corporate,Madhya Pradesh,₹ 754.84,₹ 1.51,₹ 0.27
+T00024829,2025-08-08 00:00:00,Ishaan Patel,Success,Interest Credit,Corporate,Madhya Pradesh,₹ 4356.14,₹ 4.36,₹ 0.78
+T00024972,2025-08-16 00:00:00,Aadhya Agarwal,Success,Loan EMI,Retail,Madhya Pradesh,₹ 11261.07,₹ 56.31,₹ 10.14
+T00025064,2025-08-01 00:00:00,Pari Patel,Success,Transfer,Retail,Madhya Pradesh,₹ 3431.37,₹ 3.43,₹ 0.62
+T00025306,2025-08-09 00:00:00,Rahul Kapoor,Success,Loan EMI,Retail,Madhya Pradesh,₹ 5354.74,₹ 0.00,₹ 0.00
+T00026301,2025-08-26 00:00:00,Vihaan Sharma,Pending,Transfer,Retail,Madhya Pradesh,₹ 5728.72,₹ 0.00,₹ 0.00
+T00026553,2025-08-08 00:00:00,Sara Kapoor,Success,Bill Payment,Retail,Madhya Pradesh,₹ 1811.99,₹ 3.62,₹ 0.65
+T00026812,2025-08-20 00:00:00,Arjun Nair,Success,Card Payment,Corporate,Madhya Pradesh,₹ 2502.56,₹ 0.00,₹ 0.00
+T00026842,2025-08-03 00:00:00,Rohan Joshi,Success,Card Payment,SME,Madhya Pradesh,₹ 9852.23,₹ 0.00,₹ 0.00
+T00027181,2025-08-05 00:00:00,Arjun Chopra,Success,Bill Payment,Retail,Madhya Pradesh,₹ 4971.28,₹ 9.94,₹ 1.79
+T00027580,2025-08-01 00:00:00,Riya Chopra,Success,Investment,Retail,Madhya Pradesh,₹ 10351.32,₹ 0.00,₹ 0.00
+T00028045,2025-08-08 00:00:00,Riya Iyer,Success,Transfer,Retail,Madhya Pradesh,₹ 5893.08,₹ 0.00,₹ 0.00
+T00028414,2025-08-09 00:00:00,Rohan Malhotra,Success,Card Payment,Retail,Madhya Pradesh,₹ 1334.38,₹ 0.00,₹ 0.00
+T00029702,2025-08-19 00:00:00,Ayaan Agarwal,Success,Card Payment,Retail,Madhya Pradesh,₹ 2457.72,₹ 12.29,₹ 2.21
+T00030045,2025-08-25 00:00:00,Sara Gupta,Success,Card Payment,Retail,Madhya Pradesh,₹ 4040.47,₹ 20.20,₹ 3.64
+T00031722,2025-08-11 00:00:00,Aditya Kapoor,Success,Transfer,Premium,Madhya Pradesh,₹ 6776.63,₹ 33.88,₹ 6.10
+T00031780,2025-08-28 00:00:00,Pooja Mishra,Success,Transfer,Retail,Madhya Pradesh,₹ 18743.59,₹ 0.00,₹ 0.00
+T00032960,2025-08-01 00:00:00,Nisha Kapoor,Success,Withdrawal,SME,Madhya Pradesh,₹ 1425.76,₹ 0.00,₹ 0.00
+T00033406,2025-08-17 00:00:00,Aadhya Agarwal,Success,Loan EMI,Retail,Madhya Pradesh,₹ 18451.18,₹ 0.00,₹ 0.00
+T00033574,2025-08-18 00:00:00,Kiara Reddy,Success,Loan EMI,Retail,Madhya Pradesh,₹ 23420.61,₹ 46.84,₹ 8.43
+T00033899,2025-08-18 00:00:00,Aditya Reddy,Success,Loan EMI,Retail,Madhya Pradesh,₹ 7853.30,₹ 39.27,₹ 7.07
+T00034563,2025-08-07 00:00:00,Ayaan Singh,Success,Transfer,Corporate,Madhya Pradesh,₹ 8021.64,₹ 0.00,₹ 0.00
+T00034580,2025-08-06 00:00:00,Arjun Malhotra,Success,Deposit,Retail,Madhya Pradesh,₹ 7184.27,₹ 0.00,₹ 0.00
+T00035336,2025-08-22 00:00:00,Aadhya Agarwal,Success,Transfer,Retail,Madhya Pradesh,₹ 2964.00,₹ 14.82,₹ 2.67
+T00036228,2025-08-29 00:00:00,Aditya Chopra,Success,Transfer,Corporate,Madhya Pradesh,₹ 7193.79,₹ 7.19,₹ 1.29
+T00036301,2025-08-19 00:00:00,Pooja Mishra,Failed,Fee Charge,Retail,Madhya Pradesh,₹ 107.34,₹ 0.00,₹ 0.00
+T00036773,2025-08-13 00:00:00,Ishaan Desai,Failed,Bill Payment,Retail,Madhya Pradesh,₹ 3463.86,₹ 3.46,₹ 0.62
+T00036814,2025-08-06 00:00:00,Kiara Bansal,Failed,Loan EMI,Retail,Madhya Pradesh,₹ 22149.47,₹ 44.30,₹ 7.97
+T00037181,2025-08-26 00:00:00,Priya Agarwal,Success,Interest Credit,Retail,Madhya Pradesh,₹ 2990.16,₹ 0.00,₹ 0.00
+T00037535,2025-08-13 00:00:00,Neha Chopra,Success,Interest Credit,Retail,Madhya Pradesh,₹ 2822.25,₹ 0.00,₹ 0.00
+T00037662,2025-08-28 00:00:00,Kabir Chopra,Success,Interest Credit,Retail,Madhya Pradesh,₹ 1536.46,₹ 0.00,₹ 0.00
+T00037744,2025-08-25 00:00:00,Ayaan Joshi,Success,Investment,Retail,Madhya Pradesh,₹ 4390.11,₹ 0.00,₹ 0.00
+T00039197,2025-08-02 00:00:00,Vivaan Iyer,Success,Interest Credit,Premium,Madhya Pradesh,₹ 2663.23,₹ 0.00,₹ 0.00
+T00039210,2025-08-18 00:00:00,Ayaan Kapoor,Success,Bill Payment,Retail,Madhya Pradesh,₹ 4760.90,₹ 4.76,₹ 0.86
+T00039456,2025-08-18 00:00:00,Pari Chopra,Pending,Bill Payment,Retail,Madhya Pradesh,₹ 5987.16,₹ 29.94,₹ 5.39
+T00039730,2025-08-03 00:00:00,Vivaan Iyer,Success,Fee Charge,SME,Madhya Pradesh,₹ 124.42,₹ 0.62,₹ 0.11
+T00039758,2025-08-18 00:00:00,Sai Jain,Success,Loan EMI,Premium,Madhya Pradesh,₹ 5422.66,₹ 10.85,₹ 1.95
+T00040078,2025-08-05 00:00:00,Pari Iyer,Success,Interest Credit,Retail,Madhya Pradesh,₹ 3633.57,₹ 0.00,₹ 0.00
+T00040112,2025-08-23 00:00:00,Ishaan Bansal,Success,Fee Charge,Retail,Madhya Pradesh,₹ 173.80,₹ 0.00,₹ 0.00
+T00040826,2025-08-09 00:00:00,Ira Bansal,Success,Deposit,Retail,Madhya Pradesh,₹ 8098.07,₹ 0.00,₹ 0.00
+T00041019,2025-08-16 00:00:00,Vihaan Bansal,Success,Fee Charge,Retail,Madhya Pradesh,₹ 360.24,₹ 1.80,₹ 0.32
+T00041529,2025-08-26 00:00:00,Ishaan Mishra,Success,Bill Payment,Retail,Madhya Pradesh,₹ 1649.18,₹ 1.65,₹ 0.30
+T00041951,2025-08-09 00:00:00,Sneha Verma,Success,Interest Credit,Retail,Madhya Pradesh,₹ 4371.94,₹ 4.37,₹ 0.79
+T00042065,2025-08-25 00:00:00,Neha Kapoor,Success,Loan EMI,Corporate,Madhya Pradesh,₹ 15607.17,₹ 0.00,₹ 0.00
+T00042305,2025-08-07 00:00:00,Amit Iyer,Failed,Withdrawal,Retail,Madhya Pradesh,₹ 3093.33,₹ 0.00,₹ 0.00
+T00042683,2025-08-28 00:00:00,Aarav Patel,Success,Interest Credit,Wealth,Madhya Pradesh,₹ 3300.61,₹ 0.00,₹ 0.00
+T00042953,2025-08-03 00:00:00,Kabir Patel,Success,Bill Payment,Retail,Madhya Pradesh,₹ 8742.21,₹ 0.00,₹ 0.00
+T00043799,2025-08-04 00:00:00,Anika Reddy,Success,Fee Charge,Retail,Madhya Pradesh,₹ 577.32,₹ 2.89,₹ 0.52
+T00043829,2025-08-05 00:00:00,Sai Jain,Success,Loan EMI,Premium,Madhya Pradesh,₹ 2500.44,₹ 5.00,₹ 0.90
+T00044024,2025-08-02 00:00:00,Vivaan Iyer,Success,Deposit,SME,Madhya Pradesh,₹ 13516.63,₹ 0.00,₹ 0.00
+T00044108,2025-08-17 00:00:00,Diya Kulkarni,Success,Loan EMI,Retail,Madhya Pradesh,₹ 15127.73,₹ 0.00,₹ 0.00
+T00044168,2025-08-17 00:00:00,Anaya Bansal,Failed,Transfer,Retail,Madhya Pradesh,₹ 5148.66,₹ 0.00,₹ 0.00
+T00044527,2025-08-23 00:00:00,Sneha Kapoor,Success,Refund,Retail,Madhya Pradesh,₹ 922.06,₹ 0.92,₹ 0.17
+T00045262,2025-08-13 00:00:00,Karan Kumar,Success,Bill Payment,Retail,Madhya Pradesh,₹ 3532.18,₹ 17.66,₹ 3.18
+T00045484,2025-08-11 00:00:00,Vihaan Kulkarni,Success,Transfer,Retail,Madhya Pradesh,₹ 8818.53,₹ 8.82,₹ 1.59
+T00045494,2025-08-05 00:00:00,Pari Mehta,Success,Bill Payment,Retail,Madhya Pradesh,₹ 6370.98,₹ 6.37,₹ 1.15
+T00045705,2025-08-24 00:00:00,Anaya Bansal,Success,Refund,Retail,Madhya Pradesh,₹ 237.55,₹ 0.24,₹ 0.04
+T00045934,2025-08-14 00:00:00,Vihaan Desai,Success,Interest Credit,Retail,Madhya Pradesh,₹ 1258.91,₹ 0.00,₹ 0.00
+T00046016,2025-08-31 00:00:00,Aarav Patel,Pending,Deposit,Wealth,Madhya Pradesh,₹ 10540.78,₹ 52.70,₹ 9.49
+T00046743,2025-08-04 00:00:00,Nisha Nair,Success,Investment,Premium,Madhya Pradesh,₹ 8958.07,₹ 0.00,₹ 0.00
+T00047379,2025-08-27 00:00:00,Aadhya Bansal,Success,Transfer,SME,Madhya Pradesh,₹ 1680.22,₹ 1.68,₹ 0.30
+T00047833,2025-08-16 00:00:00,Neha Verma,Success,Card Payment,Retail,Madhya Pradesh,₹ 1875.41,₹ 9.38,₹ 1.69
+T00048154,2025-08-10 00:00:00,Aarav Agarwal,Success,Investment,Retail,Madhya Pradesh,₹ 6964.85,₹ 0.00,₹ 0.00
+T00048447,2025-08-07 00:00:00,Reyansh Jain,Success,Loan EMI,Retail,Madhya Pradesh,₹ 3251.69,₹ 6.50,₹ 1.17
+T00049807,2025-08-08 00:00:00,Vivaan Kumar,Success,Loan EMI,Retail,Madhya Pradesh,₹ 7629.27,₹ 0.00,₹ 0.00
+T00000185,2025-08-21 00:00:00,Pooja Mishra,Success,Investment,Corporate,Maharashtra,₹ 10490.23,₹ 20.98,₹ 3.78
+T00000486,2025-08-04 00:00:00,Vihaan Jain,Success,Interest Credit,Premium,Maharashtra,₹ 3484.28,₹ 3.48,₹ 0.63
+T00000650,2025-08-22 00:00:00,Amit Malhotra,Success,Fee Charge,Wealth,Maharashtra,₹ 440.08,₹ 0.44,₹ 0.08
+T00000890,2025-08-22 00:00:00,Rohan Nair,Pending,Deposit,Retail,Maharashtra,₹ 5181.00,₹ 25.91,₹ 4.66
+T00001388,2025-08-16 00:00:00,Ayaan Reddy,Success,Fee Charge,SME,Maharashtra,₹ 337.64,₹ 0.68,₹ 0.12
+T00001911,2025-08-05 00:00:00,Myra Bansal,Success,Card Payment,Retail,Maharashtra,₹ 2214.87,₹ 0.00,₹ 0.00
+T00001974,2025-08-26 00:00:00,Pari Desai,Success,Transfer,Retail,Maharashtra,₹ 5695.19,₹ 0.00,₹ 0.00
+T00002081,2025-08-11 00:00:00,Sai Sharma,Failed,Card Payment,Retail,Maharashtra,₹ 3428.81,₹ 6.86,₹ 1.23
+T00002511,2025-08-27 00:00:00,Vivaan Bansal,Success,Loan EMI,Retail,Maharashtra,₹ 21427.52,₹ 42.86,₹ 7.71
+T00002674,2025-08-25 00:00:00,Vihaan Singh,Success,Loan EMI,Retail,Maharashtra,₹ 9911.69,₹ 0.00,₹ 0.00
+T00002996,2025-08-09 00:00:00,Krishna Kapoor,Success,Refund,Retail,Maharashtra,₹ 1532.88,₹ 0.00,₹ 0.00
+T00002999,2025-08-10 00:00:00,Arjun Iyer,Success,Loan EMI,Premium,Maharashtra,₹ 8258.44,₹ 8.26,₹ 1.49
+T00003109,2025-08-22 00:00:00,Anaya Joshi,Success,Bill Payment,SME,Maharashtra,₹ 2933.99,₹ 0.00,₹ 0.00
+T00003124,2025-08-30 00:00:00,Krishna Singh,Success,Fee Charge,Retail,Maharashtra,₹ 439.18,₹ 0.00,₹ 0.00
+T00003265,2025-08-07 00:00:00,Pooja Iyer,Success,Card Payment,SME,Maharashtra,₹ 2448.05,₹ 12.24,₹ 2.20
+T00003644,2025-08-10 00:00:00,Kabir Agarwal,Success,Transfer,Retail,Maharashtra,₹ 6785.12,₹ 33.93,₹ 6.11
+T00003750,2025-08-13 00:00:00,Pari Chopra,Success,Transfer,Retail,Maharashtra,₹ 5044.34,₹ 10.09,₹ 1.82
+T00004477,2025-08-31 00:00:00,Neha Nair,Failed,Loan EMI,Retail,Maharashtra,₹ 3131.00,₹ 0.00,₹ 0.00
+T00004487,2025-08-11 00:00:00,Neha Bansal,Pending,Bill Payment,Retail,Maharashtra,₹ 4058.81,₹ 20.29,₹ 3.65
+T00004851,2025-08-17 00:00:00,Ishaan Iyer,Success,Interest Credit,Premium,Maharashtra,₹ 3900.94,₹ 7.80,₹ 1.40
+T00005083,2025-08-02 00:00:00,Sai Gupta,Success,Refund,Retail,Maharashtra,₹ 302.57,₹ 0.30,₹ 0.05
+T00005271,2025-08-18 00:00:00,Anika Malhotra,Success,Interest Credit,Wealth,Maharashtra,₹ 706.54,₹ 0.71,₹ 0.13
+T00005351,2025-08-28 00:00:00,Aditya Mehta,Failed,Interest Credit,Retail,Maharashtra,₹ 783.12,₹ 3.92,₹ 0.71
+T00005902,2025-08-14 00:00:00,Amit Kapoor,Success,Deposit,Retail,Maharashtra,₹ 26280.16,₹ 0.00,₹ 0.00
+T00006429,2025-08-01 00:00:00,Priya Malhotra,Success,Card Payment,Retail,Maharashtra,₹ 1651.36,₹ 3.30,₹ 0.59
+T00006774,2025-08-20 00:00:00,Reyansh Kulkarni,Success,Fee Charge,Retail,Maharashtra,₹ 686.62,₹ 0.00,₹ 0.00
+T00007240,2025-08-16 00:00:00,Sai Reddy,Success,Fee Charge,Retail,Maharashtra,₹ 634.25,₹ 3.17,₹ 0.57
+T00007495,2025-08-04 00:00:00,Ira Singh,Success,Refund,Retail,Maharashtra,₹ 3153.66,₹ 0.00,₹ 0.00
+T00007770,2025-08-27 00:00:00,Vivaan Kulkarni,Success,Transfer,SME,Maharashtra,₹ 17011.82,₹ 0.00,₹ 0.00
+T00008196,2025-08-25 00:00:00,Karan Jain,Success,Loan EMI,Corporate,Maharashtra,₹ 7763.62,₹ 0.00,₹ 0.00
+T00008513,2025-08-09 00:00:00,Amit Agarwal,Pending,Loan EMI,Corporate,Maharashtra,₹ 12086.48,₹ 60.43,₹ 10.88
+T00008581,2025-08-06 00:00:00,Rohan Patel,Success,Deposit,Premium,Maharashtra,₹ 2279.93,₹ 0.00,₹ 0.00
+T00008647,2025-08-01 00:00:00,Sai Reddy,Success,Loan EMI,Retail,Maharashtra,₹ 4029.33,₹ 4.03,₹ 0.73
+T00008665,2025-08-14 00:00:00,Sneha Kumar,Success,Card Payment,Premium,Maharashtra,₹ 3109.62,₹ 0.00,₹ 0.00
+T00008727,2025-08-14 00:00:00,Amit Chopra,Success,Bill Payment,Retail,Maharashtra,₹ 4816.98,₹ 0.00,₹ 0.00
+T00008978,2025-08-25 00:00:00,Neha Kapoor,Success,Transfer,SME,Maharashtra,₹ 10646.67,₹ 10.65,₹ 1.92
+T00009214,2025-08-14 00:00:00,Sneha Verma,Success,Interest Credit,Retail,Maharashtra,₹ 969.16,₹ 1.94,₹ 0.35
+T00009555,2025-08-14 00:00:00,Myra Desai,Success,Withdrawal,Retail,Maharashtra,₹ 1764.98,₹ 0.00,₹ 0.00
+T00009781,2025-08-19 00:00:00,Riya Desai,Pending,Loan EMI,SME,Maharashtra,₹ 10121.46,₹ 10.12,₹ 1.82
+T00009783,2025-08-03 00:00:00,Aarav Kapoor,Success,Card Payment,Corporate,Maharashtra,₹ 4340.17,₹ 4.34,₹ 0.78
+T00010014,2025-08-12 00:00:00,Priya Desai,Success,Transfer,Premium,Maharashtra,₹ 12668.45,₹ 12.67,₹ 2.28
+T00010606,2025-08-17 00:00:00,Sai Sharma,Success,Card Payment,Corporate,Maharashtra,₹ 2708.42,₹ 13.54,₹ 2.44
+T00010637,2025-08-15 00:00:00,Kabir Kulkarni,Success,Fee Charge,Retail,Maharashtra,₹ 33.28,₹ 0.17,₹ 0.03
+T00010879,2025-08-06 00:00:00,Anika Kumar,Success,Fee Charge,Premium,Maharashtra,₹ 402.27,₹ 0.00,₹ 0.00
+T00011170,2025-08-24 00:00:00,Sai Reddy,Success,Investment,Retail,Maharashtra,₹ 6069.62,₹ 6.07,₹ 1.09
+T00011401,2025-08-24 00:00:00,Pari Gupta,Success,Loan EMI,Retail,Maharashtra,₹ 34784.84,₹ 69.57,₹ 12.52
+T00011403,2025-08-14 00:00:00,Ishaan Joshi,Success,Loan EMI,SME,Maharashtra,₹ 17229.58,₹ 17.23,₹ 3.10
+T00012494,2025-08-13 00:00:00,Ira Kumar,Success,Card Payment,SME,Maharashtra,₹ 6679.21,₹ 0.00,₹ 0.00
+T00012592,2025-08-16 00:00:00,Aditya Reddy,Success,Deposit,Retail,Maharashtra,₹ 37672.57,₹ 0.00,₹ 0.00
+T00012709,2025-08-21 00:00:00,Diya Nair,Success,Withdrawal,Retail,Maharashtra,₹ 3246.82,₹ 0.00,₹ 0.00
+T00013301,2025-08-16 00:00:00,Amit Reddy,Success,Loan EMI,SME,Maharashtra,₹ 3789.13,₹ 0.00,₹ 0.00
+T00013529,2025-08-20 00:00:00,Anika Desai,Success,Deposit,Retail,Maharashtra,₹ 4497.87,₹ 9.00,₹ 1.62
+T00013619,2025-08-29 00:00:00,Ishaan Patel,Success,Loan EMI,SME,Maharashtra,₹ 12234.79,₹ 61.17,₹ 11.01
+T00013667,2025-08-26 00:00:00,Arjun Chopra,Success,Deposit,Premium,Maharashtra,₹ 4318.58,₹ 4.32,₹ 0.78
+T00013711,2025-08-19 00:00:00,Amit Kulkarni,Success,Deposit,SME,Maharashtra,₹ 6547.43,₹ 0.00,₹ 0.00
+T00013806,2025-08-31 00:00:00,Kiara Mishra,Success,Interest Credit,Retail,Maharashtra,₹ 2298.51,₹ 0.00,₹ 0.00
+T00014177,2025-08-17 00:00:00,Amit Nair,Success,Loan EMI,SME,Maharashtra,₹ 7051.81,₹ 14.10,₹ 2.54
+T00014309,2025-08-16 00:00:00,Ayaan Kulkarni,Success,Withdrawal,Premium,Maharashtra,₹ 1305.80,₹ 1.31,₹ 0.24
+T00014537,2025-08-26 00:00:00,Priya Verma,Success,Bill Payment,Corporate,Maharashtra,₹ 1422.91,₹ 1.42,₹ 0.26
+T00014543,2025-08-22 00:00:00,Reyansh Bansal,Success,Withdrawal,Premium,Maharashtra,₹ 1337.52,₹ 2.68,₹ 0.48
+T00014563,2025-08-27 00:00:00,Kiara Mehta,Failed,Loan EMI,SME,Maharashtra,₹ 6663.44,₹ 0.00,₹ 0.00
+T00014626,2025-08-26 00:00:00,Vihaan Bansal,Success,Loan EMI,Corporate,Maharashtra,₹ 1494.88,₹ 7.47,₹ 1.34
+T00014671,2025-08-25 00:00:00,Diya Bansal,Success,Loan EMI,Retail,Maharashtra,₹ 4157.52,₹ 4.16,₹ 0.75
+T00014783,2025-08-21 00:00:00,Aditya Kapoor,Success,Card Payment,Retail,Maharashtra,₹ 4292.08,₹ 8.58,₹ 1.54
+T00015050,2025-08-08 00:00:00,Kabir Gupta,Success,Deposit,Retail,Maharashtra,₹ 1494.00,₹ 7.47,₹ 1.34
+T00015079,2025-08-03 00:00:00,Rohan Kapoor,Failed,Withdrawal,Retail,Maharashtra,₹ 3461.78,₹ 0.00,₹ 0.00
+T00015218,2025-08-16 00:00:00,Sara Desai,Success,Investment,Retail,Maharashtra,₹ 3379.27,₹ 6.76,₹ 1.22
+T00015323,2025-08-15 00:00:00,Aarav Desai,Success,Deposit,SME,Maharashtra,₹ 9527.31,₹ 47.64,₹ 8.58
+T00015597,2025-08-10 00:00:00,Vivaan Jain,Success,Investment,SME,Maharashtra,₹ 14607.56,₹ 0.00,₹ 0.00
+T00015868,2025-08-15 00:00:00,Anika Desai,Success,Transfer,SME,Maharashtra,₹ 4017.03,₹ 4.02,₹ 0.72
+T00015881,2025-08-23 00:00:00,Sneha Chopra,Success,Transfer,SME,Maharashtra,₹ 42374.73,₹ 42.37,₹ 7.63
+T00015968,2025-08-15 00:00:00,Sara Mishra,Success,Refund,Premium,Maharashtra,₹ 430.35,₹ 0.86,₹ 0.15
+T00016359,2025-08-31 00:00:00,Neha Mishra,Success,Transfer,Retail,Maharashtra,₹ 49496.38,₹ 247.48,₹ 44.55
+T00017357,2025-08-06 00:00:00,Sai Gupta,Success,Loan EMI,Retail,Maharashtra,₹ 99335.27,₹ 198.67,₹ 35.76
+T00017397,2025-08-26 00:00:00,Aditya Kapoor,Success,Fee Charge,Retail,Maharashtra,₹ 338.63,₹ 0.00,₹ 0.00
+T00017778,2025-08-07 00:00:00,Pari Iyer,Success,Loan EMI,Retail,Maharashtra,₹ 34516.86,₹ 0.00,₹ 0.00
+T00017803,2025-08-23 00:00:00,Kabir Gupta,Success,Investment,Retail,Maharashtra,₹ 1831.27,₹ 0.00,₹ 0.00
+T00017829,2025-08-18 00:00:00,Ayaan Verma,Success,Interest Credit,SME,Maharashtra,₹ 1659.61,₹ 3.32,₹ 0.60
+T00018245,2025-08-13 00:00:00,Anika Jain,Success,Card Payment,Retail,Maharashtra,₹ 4077.99,₹ 0.00,₹ 0.00
+T00018331,2025-08-24 00:00:00,Aarav Chopra,Success,Transfer,Wealth,Maharashtra,₹ 5365.03,₹ 10.73,₹ 1.93
+T00019322,2025-08-24 00:00:00,Anaya Nair,Failed,Transfer,Retail,Maharashtra,₹ 12373.13,₹ 0.00,₹ 0.00
+T00019611,2025-08-11 00:00:00,Ira Singh,Success,Loan EMI,Retail,Maharashtra,₹ 5649.44,₹ 0.00,₹ 0.00
+T00019926,2025-08-16 00:00:00,Aditya Kumar,Success,Refund,Retail,Maharashtra,₹ 178.65,₹ 0.36,₹ 0.06
+T00020180,2025-08-16 00:00:00,Anaya Gupta,Success,Loan EMI,Wealth,Maharashtra,₹ 2103.76,₹ 0.00,₹ 0.00
+T00020326,2025-08-13 00:00:00,Myra Desai,Success,Bill Payment,Premium,Maharashtra,₹ 5713.34,₹ 5.71,₹ 1.03
+T00020469,2025-08-02 00:00:00,Diya Singh,Pending,Withdrawal,Premium,Maharashtra,₹ 1357.73,₹ 1.36,₹ 0.24
+T00020578,2025-08-24 00:00:00,Vivaan Verma,Success,Fee Charge,Premium,Maharashtra,₹ 327.28,₹ 0.65,₹ 0.12
+T00020933,2025-08-08 00:00:00,Kabir Kulkarni,Success,Card Payment,Retail,Maharashtra,₹ 5244.06,₹ 0.00,₹ 0.00
+T00021529,2025-08-04 00:00:00,Krishna Sharma,Success,Bill Payment,Retail,Maharashtra,₹ 8407.48,₹ 8.41,₹ 1.51
+T00021676,2025-08-04 00:00:00,Amit Chopra,Success,Withdrawal,Retail,Maharashtra,₹ 1043.11,₹ 0.00,₹ 0.00
+T00021940,2025-08-19 00:00:00,Ayaan Verma,Success,Fee Charge,SME,Maharashtra,₹ 37.70,₹ 0.08,₹ 0.01
+T00022000,2025-08-20 00:00:00,Rahul Joshi,Success,Investment,Retail,Maharashtra,₹ 9081.69,₹ 18.16,₹ 3.27
+T00022379,2025-08-05 00:00:00,Ayaan Iyer,Success,Withdrawal,Premium,Maharashtra,₹ 12887.13,₹ 0.00,₹ 0.00
+T00022508,2025-08-18 00:00:00,Sai Nair,Success,Investment,Corporate,Maharashtra,₹ 4332.90,₹ 0.00,₹ 0.00
+T00022545,2025-08-25 00:00:00,Amit Nair,Success,Fee Charge,Premium,Maharashtra,₹ 415.91,₹ 0.42,₹ 0.08
+T00022672,2025-08-23 00:00:00,Neha Gupta,Success,Loan EMI,Premium,Maharashtra,₹ 13889.34,₹ 69.45,₹ 12.50
+T00023513,2025-08-02 00:00:00,Ira Nair,Success,Loan EMI,Premium,Maharashtra,₹ 3306.43,₹ 6.61,₹ 1.19
+T00023684,2025-08-09 00:00:00,Aarav Nair,Success,Investment,Retail,Maharashtra,₹ 33857.82,₹ 169.29,₹ 30.47
+T00023707,2025-08-05 00:00:00,Ayaan Kulkarni,Success,Interest Credit,Premium,Maharashtra,₹ 2336.48,₹ 2.34,₹ 0.42
+T00023711,2025-08-26 00:00:00,Karan Jain,Success,Loan EMI,SME,Maharashtra,₹ 4489.29,₹ 4.49,₹ 0.81
+T00024203,2025-08-05 00:00:00,Pooja Chopra,Success,Transfer,SME,Maharashtra,₹ 48861.97,₹ 0.00,₹ 0.00
+T00024613,2025-08-19 00:00:00,Pari Kulkarni,Success,Interest Credit,Retail,Maharashtra,₹ 4343.02,₹ 21.72,₹ 3.91
+T00024763,2025-08-14 00:00:00,Kiara Malhotra,Success,Withdrawal,Retail,Maharashtra,₹ 2468.27,₹ 0.00,₹ 0.00
+T00024816,2025-08-08 00:00:00,Nisha Patel,Pending,Card Payment,Retail,Maharashtra,₹ 1031.90,₹ 1.03,₹ 0.19
+T00025060,2025-08-30 00:00:00,Aadhya Joshi,Success,Transfer,Premium,Maharashtra,₹ 58784.97,₹ 0.00,₹ 0.00
+T00025328,2025-08-16 00:00:00,Reyansh Bansal,Success,Card Payment,Premium,Maharashtra,₹ 7612.39,₹ 7.61,₹ 1.37
+T00025336,2025-08-13 00:00:00,Riya Singh,Success,Fee Charge,Wealth,Maharashtra,₹ 473.62,₹ 0.00,₹ 0.00
+T00025876,2025-08-03 00:00:00,Priya Kulkarni,Pending,Investment,SME,Maharashtra,₹ 37052.51,₹ 74.11,₹ 13.34
+T00026683,2025-08-22 00:00:00,Sneha Kumar,Success,Card Payment,Premium,Maharashtra,₹ 2640.53,₹ 2.64,₹ 0.48
+T00027256,2025-08-04 00:00:00,Nisha Gupta,Success,Transfer,Premium,Maharashtra,₹ 7937.45,₹ 15.87,₹ 2.86
+T00027981,2025-08-08 00:00:00,Neha Chopra,Success,Loan EMI,Retail,Maharashtra,₹ 18245.42,₹ 18.25,₹ 3.28
+T00028280,2025-08-01 00:00:00,Aadhya Nair,Success,Interest Credit,Retail,Maharashtra,₹ 2774.30,₹ 0.00,₹ 0.00
+T00028560,2025-08-26 00:00:00,Rahul Kapoor,Success,Card Payment,Retail,Maharashtra,₹ 3814.91,₹ 19.07,₹ 3.43
+T00028567,2025-08-21 00:00:00,Pooja Kapoor,Success,Investment,Retail,Maharashtra,₹ 23932.19,₹ 23.93,₹ 4.31
+T00028733,2025-08-21 00:00:00,Sneha Chopra,Success,Loan EMI,Retail,Maharashtra,₹ 5201.36,₹ 5.20,₹ 0.94
+T00029308,2025-08-19 00:00:00,Sai Iyer,Success,Card Payment,Retail,Maharashtra,₹ 12299.30,₹ 24.60,₹ 4.43
+T00029456,2025-08-30 00:00:00,Rohan Kapoor,Failed,Deposit,Premium,Maharashtra,₹ 5155.17,₹ 0.00,₹ 0.00
+T00029686,2025-08-28 00:00:00,Kiara Kulkarni,Success,Withdrawal,SME,Maharashtra,₹ 1868.62,₹ 3.74,₹ 0.67
+T00029851,2025-08-30 00:00:00,Ishaan Kulkarni,Success,Bill Payment,Premium,Maharashtra,₹ 4821.95,₹ 4.82,₹ 0.87
+T00030412,2025-08-16 00:00:00,Krishna Malhotra,Success,Deposit,Retail,Maharashtra,₹ 1627.16,₹ 3.25,₹ 0.58
+T00030884,2025-08-01 00:00:00,Sneha Chopra,Success,Loan EMI,SME,Maharashtra,₹ 10462.39,₹ 0.00,₹ 0.00
+T00031007,2025-08-04 00:00:00,Kiara Malhotra,Success,Transfer,Retail,Maharashtra,₹ 2404.77,₹ 2.40,₹ 0.43
+T00031024,2025-08-22 00:00:00,Ishaan Singh,Pending,Refund,Premium,Maharashtra,₹ 2606.97,₹ 2.61,₹ 0.47
+T00032040,2025-08-14 00:00:00,Priya Reddy,Failed,Transfer,Retail,Maharashtra,₹ 6292.07,₹ 31.46,₹ 5.66
+T00032185,2025-08-12 00:00:00,Sara Desai,Success,Loan EMI,Corporate,Maharashtra,₹ 17075.82,₹ 0.00,₹ 0.00
+T00032285,2025-08-10 00:00:00,Vihaan Reddy,Failed,Transfer,Retail,Maharashtra,₹ 6945.91,₹ 34.73,₹ 6.25
+T00032437,2025-08-08 00:00:00,Vivaan Kulkarni,Success,Refund,Retail,Maharashtra,₹ 3223.47,₹ 0.00,₹ 0.00
+T00032453,2025-08-08 00:00:00,Diya Kulkarni,Success,Loan EMI,Retail,Maharashtra,₹ 11510.42,₹ 0.00,₹ 0.00
+T00032893,2025-08-30 00:00:00,Arjun Bansal,Success,Deposit,Retail,Maharashtra,₹ 10777.72,₹ 0.00,₹ 0.00
+T00033256,2025-08-16 00:00:00,Rohan Kapoor,Success,Card Payment,Premium,Maharashtra,₹ 25095.03,₹ 125.48,₹ 22.59
+T00033340,2025-08-26 00:00:00,Sara Kumar,Success,Transfer,SME,Maharashtra,₹ 54223.75,₹ 0.00,₹ 0.00
+T00033348,2025-08-18 00:00:00,Anika Kapoor,Success,Withdrawal,SME,Maharashtra,₹ 3453.52,₹ 6.91,₹ 1.24
+T00033436,2025-08-20 00:00:00,Rohan Jain,Success,Interest Credit,Retail,Maharashtra,₹ 532.17,₹ 0.00,₹ 0.00
+T00033577,2025-08-30 00:00:00,Aadhya Desai,Success,Transfer,Corporate,Maharashtra,₹ 5997.49,₹ 6.00,₹ 1.08
+T00033585,2025-08-22 00:00:00,Aarav Iyer,Success,Bill Payment,Retail,Maharashtra,₹ 15581.44,₹ 0.00,₹ 0.00
+T00033620,2025-08-30 00:00:00,Vihaan Verma,Success,Fee Charge,Premium,Maharashtra,₹ 306.01,₹ 0.00,₹ 0.00
+T00034006,2025-08-07 00:00:00,Sara Kulkarni,Success,Withdrawal,SME,Maharashtra,₹ 2417.01,₹ 4.83,₹ 0.87
+T00035121,2025-08-07 00:00:00,Anika Jain,Success,Bill Payment,Retail,Maharashtra,₹ 14157.48,₹ 0.00,₹ 0.00
+T00035227,2025-08-31 00:00:00,Kiara Verma,Success,Deposit,Corporate,Maharashtra,₹ 8430.41,₹ 16.86,₹ 3.03
+T00035347,2025-08-02 00:00:00,Anaya Patel,Success,Deposit,Corporate,Maharashtra,₹ 5486.65,₹ 0.00,₹ 0.00
+T00035601,2025-08-14 00:00:00,Kiara Verma,Success,Interest Credit,Corporate,Maharashtra,₹ 3276.10,₹ 0.00,₹ 0.00
+T00036478,2025-08-02 00:00:00,Rahul Nair,Success,Transfer,Retail,Maharashtra,₹ 12414.85,₹ 0.00,₹ 0.00
+T00036736,2025-08-30 00:00:00,Aarav Jain,Success,Fee Charge,Retail,Maharashtra,₹ 402.19,₹ 0.80,₹ 0.14
+T00037052,2025-08-31 00:00:00,Aditya Desai,Success,Fee Charge,Wealth,Maharashtra,₹ 70.95,₹ 0.35,₹ 0.06
+T00037151,2025-08-12 00:00:00,Rahul Joshi,Success,Withdrawal,Retail,Maharashtra,₹ 1969.93,₹ 3.94,₹ 0.71
+T00037305,2025-08-22 00:00:00,Sai Gupta,Success,Transfer,Retail,Maharashtra,₹ 99565.56,₹ 199.13,₹ 35.84
+T00037418,2025-08-06 00:00:00,Vivaan Patel,Success,Fee Charge,Retail,Maharashtra,₹ 138.57,₹ 0.14,₹ 0.03
+T00037461,2025-08-01 00:00:00,Sneha Malhotra,Success,Withdrawal,Retail,Maharashtra,₹ 881.64,₹ 4.41,₹ 0.79
+T00038138,2025-08-07 00:00:00,Riya Mishra,Success,Loan EMI,SME,Maharashtra,₹ 6180.98,₹ 0.00,₹ 0.00
+T00038144,2025-08-06 00:00:00,Nisha Agarwal,Success,Card Payment,Retail,Maharashtra,₹ 4997.60,₹ 0.00,₹ 0.00
+T00038283,2025-08-30 00:00:00,Sai Agarwal,Success,Interest Credit,Wealth,Maharashtra,₹ 796.15,₹ 3.98,₹ 0.72
+T00039010,2025-08-19 00:00:00,Pooja Kapoor,Pending,Deposit,Retail,Maharashtra,₹ 36174.58,₹ 36.17,₹ 6.51
+T00039304,2025-08-20 00:00:00,Amit Verma,Success,Refund,Retail,Maharashtra,₹ 3451.94,₹ 0.00,₹ 0.00
+T00039323,2025-08-21 00:00:00,Anika Mehta,Success,Loan EMI,Retail,Maharashtra,₹ 10980.12,₹ 54.90,₹ 9.88
+T00039495,2025-08-19 00:00:00,Rahul Kapoor,Failed,Deposit,Retail,Maharashtra,₹ 45888.72,₹ 91.78,₹ 16.52
+T00039684,2025-08-26 00:00:00,Kiara Patel,Success,Interest Credit,SME,Maharashtra,₹ 2940.22,₹ 5.88,₹ 1.06
+T00039855,2025-08-03 00:00:00,Riya Gupta,Success,Card Payment,Corporate,Maharashtra,₹ 864.70,₹ 0.00,₹ 0.00
+T00039892,2025-08-20 00:00:00,Sneha Mehta,Pending,Fee Charge,Retail,Maharashtra,₹ 753.25,₹ 0.00,₹ 0.00
+T00039965,2025-08-15 00:00:00,Vivaan Mishra,Success,Loan EMI,Retail,Maharashtra,₹ 23543.69,₹ 0.00,₹ 0.00
+T00040048,2025-08-17 00:00:00,Anika Iyer,Success,Deposit,Retail,Maharashtra,₹ 29944.04,₹ 0.00,₹ 0.00
+T00040567,2025-08-24 00:00:00,Nisha Kumar,Success,Card Payment,Retail,Maharashtra,₹ 5002.22,₹ 10.00,₹ 1.80
+T00041162,2025-08-06 00:00:00,Pooja Patel,Success,Withdrawal,Premium,Maharashtra,₹ 2739.12,₹ 13.70,₹ 2.47
+T00041226,2025-08-31 00:00:00,Diya Iyer,Success,Fee Charge,Retail,Maharashtra,₹ 29.21,₹ 0.15,₹ 0.03
+T00041357,2025-08-26 00:00:00,Pooja Mishra,Success,Loan EMI,Wealth,Maharashtra,₹ 29486.35,₹ 58.97,₹ 10.61
+T00041453,2025-08-28 00:00:00,Diya Kulkarni,Success,Loan EMI,Retail,Maharashtra,₹ 8431.87,₹ 16.86,₹ 3.03
+T00041851,2025-08-27 00:00:00,Ishaan Mehta,Failed,Loan EMI,Retail,Maharashtra,₹ 23503.93,₹ 0.00,₹ 0.00
+T00042469,2025-08-19 00:00:00,Anika Jain,Success,Transfer,Retail,Maharashtra,₹ 8954.77,₹ 0.00,₹ 0.00
+T00043370,2025-08-21 00:00:00,Kabir Gupta,Success,Investment,Retail,Maharashtra,₹ 86086.23,₹ 86.09,₹ 15.50
+T00043808,2025-08-13 00:00:00,Kabir Patel,Success,Withdrawal,Retail,Maharashtra,₹ 2621.97,₹ 0.00,₹ 0.00
+T00043910,2025-08-07 00:00:00,Riya Desai,Success,Deposit,SME,Maharashtra,₹ 4005.28,₹ 0.00,₹ 0.00
+T00044196,2025-08-05 00:00:00,Sai Reddy,Success,Loan EMI,Retail,Maharashtra,₹ 19794.67,₹ 19.79,₹ 3.56
+T00044270,2025-08-11 00:00:00,Amit Bansal,Success,Transfer,Premium,Maharashtra,₹ 25052.33,₹ 0.00,₹ 0.00
+T00044300,2025-08-02 00:00:00,Vivaan Kulkarni,Success,Withdrawal,Corporate,Maharashtra,₹ 24326.77,₹ 121.63,₹ 21.89
+T00044377,2025-08-12 00:00:00,Myra Desai,Success,Refund,Retail,Maharashtra,₹ 3671.90,₹ 3.67,₹ 0.66
+T00044386,2025-08-19 00:00:00,Ira Kapoor,Success,Bill Payment,Premium,Maharashtra,₹ 1324.76,₹ 6.62,₹ 1.19
+T00044428,2025-08-21 00:00:00,Riya Mishra,Success,Interest Credit,SME,Maharashtra,₹ 1585.53,₹ 0.00,₹ 0.00
+T00044606,2025-08-06 00:00:00,Kabir Nair,Success,Fee Charge,Retail,Maharashtra,₹ 419.28,₹ 0.84,₹ 0.15
+T00044819,2025-08-22 00:00:00,Riya Chopra,Success,Interest Credit,Retail,Maharashtra,₹ 2676.46,₹ 0.00,₹ 0.00
+T00044868,2025-08-07 00:00:00,Ayaan Sharma,Success,Deposit,Retail,Maharashtra,₹ 28700.50,₹ 0.00,₹ 0.00
+T00046271,2025-08-14 00:00:00,Sara Mishra,Success,Refund,Premium,Maharashtra,₹ 3462.32,₹ 6.92,₹ 1.25
+T00046805,2025-08-01 00:00:00,Krishna Malhotra,Success,Interest Credit,Premium,Maharashtra,₹ 4119.23,₹ 0.00,₹ 0.00
+T00047133,2025-08-03 00:00:00,Aadhya Desai,Success,Refund,Retail,Maharashtra,₹ 1806.24,₹ 1.81,₹ 0.33
+T00047645,2025-08-15 00:00:00,Nisha Patel,Success,Loan EMI,Retail,Maharashtra,₹ 2656.01,₹ 0.00,₹ 0.00
+T00047689,2025-08-01 00:00:00,Riya Singh,Success,Refund,Wealth,Maharashtra,₹ 3474.44,₹ 0.00,₹ 0.00
+T00048133,2025-08-16 00:00:00,Sara Desai,Success,Deposit,Retail,Maharashtra,₹ 12087.17,₹ 60.44,₹ 10.88
+T00048210,2025-08-14 00:00:00,Pooja Joshi,Success,Loan EMI,Retail,Maharashtra,₹ 9174.61,₹ 0.00,₹ 0.00
+T00048310,2025-08-22 00:00:00,Arjun Patel,Success,Transfer,SME,Maharashtra,₹ 4612.99,₹ 0.00,₹ 0.00
+T00048533,2025-08-07 00:00:00,Vivaan Reddy,Success,Fee Charge,Retail,Maharashtra,₹ 261.53,₹ 0.00,₹ 0.00
+T00048607,2025-08-05 00:00:00,Vihaan Mehta,Success,Transfer,Retail,Maharashtra,₹ 3314.19,₹ 6.63,₹ 1.19
+T00048624,2025-08-08 00:00:00,Sara Kulkarni,Success,Deposit,Retail,Maharashtra,₹ 15552.06,₹ 31.10,₹ 5.60
+T00048852,2025-08-15 00:00:00,Riya Gupta,Success,Fee Charge,Corporate,Maharashtra,₹ 928.91,₹ 4.64,₹ 0.84
+T00048854,2025-08-01 00:00:00,Anika Kumar,Pending,Withdrawal,Premium,Maharashtra,₹ 5676.80,₹ 28.38,₹ 5.11
+T00048859,2025-08-04 00:00:00,Riya Agarwal,Success,Transfer,Premium,Maharashtra,₹ 7507.55,₹ 7.51,₹ 1.35
+T00048975,2025-08-08 00:00:00,Sneha Verma,Success,Bill Payment,Retail,Maharashtra,₹ 2123.23,₹ 10.62,₹ 1.91
+T00049282,2025-08-15 00:00:00,Ishaan Reddy,Success,Loan EMI,Retail,Maharashtra,₹ 8822.67,₹ 17.65,₹ 3.18
+T00049677,2025-08-21 00:00:00,Arjun Bansal,Success,Transfer,Retail,Maharashtra,₹ 312586.25,₹ 0.00,₹ 0.00
+T00000607,2025-08-18 00:00:00,Amit Mishra,Failed,Loan EMI,Corporate,Rajasthan,₹ 11335.17,₹ 0.00,₹ 0.00
+T00000921,2025-08-22 00:00:00,Priya Jain,Failed,Withdrawal,Premium,Rajasthan,₹ 1882.78,₹ 9.41,₹ 1.69
+T00001553,2025-08-13 00:00:00,Myra Sharma,Success,Bill Payment,SME,Rajasthan,₹ 8242.54,₹ 8.24,₹ 1.48
+T00001798,2025-08-18 00:00:00,Anika Desai,Success,Bill Payment,Retail,Rajasthan,₹ 5061.76,₹ 25.31,₹ 4.56
+T00002121,2025-08-20 00:00:00,Pooja Iyer,Success,Card Payment,Retail,Rajasthan,₹ 3680.14,₹ 0.00,₹ 0.00
+T00002155,2025-08-22 00:00:00,Diya Desai,Success,Bill Payment,Retail,Rajasthan,₹ 2796.10,₹ 0.00,₹ 0.00
+T00002974,2025-08-20 00:00:00,Arjun Joshi,Success,Transfer,Retail,Rajasthan,₹ 13938.02,₹ 0.00,₹ 0.00
+T00003718,2025-08-16 00:00:00,Reyansh Chopra,Success,Loan EMI,Corporate,Rajasthan,₹ 4928.81,₹ 0.00,₹ 0.00
+T00005225,2025-08-17 00:00:00,Kiara Sharma,Success,Investment,Retail,Rajasthan,₹ 1616.68,₹ 8.08,₹ 1.45
+T00005763,2025-08-02 00:00:00,Pari Verma,Success,Card Payment,Retail,Rajasthan,₹ 5237.64,₹ 10.48,₹ 1.89
+T00010040,2025-08-09 00:00:00,Rohan Bansal,Success,Transfer,Retail,Rajasthan,₹ 9046.02,₹ 0.00,₹ 0.00
+T00011812,2025-08-17 00:00:00,Aarav Mishra,Success,Loan EMI,Retail,Rajasthan,₹ 11309.90,₹ 11.31,₹ 2.04
+T00012036,2025-08-13 00:00:00,Pooja Mishra,Success,Bill Payment,Retail,Rajasthan,₹ 4534.86,₹ 9.07,₹ 1.63
+T00012042,2025-08-16 00:00:00,Pari Joshi,Failed,Loan EMI,Retail,Rajasthan,₹ 24259.45,₹ 24.26,₹ 4.37
+T00012978,2025-08-27 00:00:00,Aarav Mehta,Success,Refund,Premium,Rajasthan,₹ 4114.58,₹ 0.00,₹ 0.00
+T00014197,2025-08-19 00:00:00,Ira Bansal,Success,Fee Charge,Retail,Rajasthan,₹ 502.49,₹ 0.00,₹ 0.00
+T00015374,2025-08-29 00:00:00,Riya Agarwal,Success,Deposit,Premium,Rajasthan,₹ 7168.94,₹ 14.34,₹ 2.58
+T00015569,2025-08-07 00:00:00,Krishna Nair,Success,Fee Charge,SME,Rajasthan,₹ 643.41,₹ 1.29,₹ 0.23
+T00015822,2025-08-08 00:00:00,Pari Joshi,Success,Transfer,Retail,Rajasthan,₹ 1663.22,₹ 0.00,₹ 0.00
+T00016216,2025-08-01 00:00:00,Pari Verma,Success,Transfer,Retail,Rajasthan,₹ 5737.53,₹ 0.00,₹ 0.00
+T00016846,2025-08-16 00:00:00,Sneha Patel,Failed,Investment,Premium,Rajasthan,₹ 7746.14,₹ 0.00,₹ 0.00
+T00017756,2025-08-05 00:00:00,Aadhya Mishra,Success,Deposit,Premium,Rajasthan,₹ 24284.88,₹ 48.57,₹ 8.74
+T00018029,2025-08-07 00:00:00,Neha Jain,Failed,Deposit,SME,Rajasthan,₹ 1821.35,₹ 0.00,₹ 0.00
+T00019179,2025-08-03 00:00:00,Aarav Jain,Success,Investment,Retail,Rajasthan,₹ 11185.57,₹ 55.93,₹ 10.07
+T00020369,2025-08-10 00:00:00,Kabir Malhotra,Success,Withdrawal,Retail,Rajasthan,₹ 7676.84,₹ 7.68,₹ 1.38
+T00020558,2025-08-11 00:00:00,Kabir Sharma,Success,Card Payment,Premium,Rajasthan,₹ 14032.11,₹ 28.06,₹ 5.05
+T00021218,2025-08-05 00:00:00,Pari Mehta,Success,Bill Payment,Wealth,Rajasthan,₹ 926.16,₹ 1.85,₹ 0.33
+T00022810,2025-08-30 00:00:00,Vivaan Kumar,Success,Withdrawal,Premium,Rajasthan,₹ 9839.71,₹ 49.20,₹ 8.86
+T00023866,2025-08-22 00:00:00,Amit Singh,Success,Deposit,Retail,Rajasthan,₹ 4827.36,₹ 0.00,₹ 0.00
+T00024531,2025-08-09 00:00:00,Diya Verma,Success,Bill Payment,Corporate,Rajasthan,₹ 3088.49,₹ 0.00,₹ 0.00
+T00025378,2025-08-03 00:00:00,Krishna Nair,Success,Transfer,SME,Rajasthan,₹ 29182.51,₹ 29.18,₹ 5.25
+T00025678,2025-08-09 00:00:00,Aadhya Sharma,Success,Loan EMI,Premium,Rajasthan,₹ 22535.93,₹ 0.00,₹ 0.00
+T00026252,2025-08-06 00:00:00,Anika Kumar,Success,Loan EMI,SME,Rajasthan,₹ 4567.79,₹ 4.57,₹ 0.82
+T00026647,2025-08-30 00:00:00,Pari Iyer,Success,Withdrawal,Retail,Rajasthan,₹ 4679.18,₹ 0.00,₹ 0.00
+T00027833,2025-08-31 00:00:00,Aarav Mishra,Success,Investment,Retail,Rajasthan,₹ 38916.81,₹ 0.00,₹ 0.00
+T00028765,2025-08-19 00:00:00,Myra Nair,Success,Withdrawal,Premium,Rajasthan,₹ 21379.29,₹ 0.00,₹ 0.00
+T00028894,2025-08-15 00:00:00,Aarav Mishra,Success,Loan EMI,Retail,Rajasthan,₹ 21777.78,₹ 43.56,₹ 7.84
+T00030061,2025-08-19 00:00:00,Sara Mishra,Failed,Loan EMI,Premium,Rajasthan,₹ 15171.61,₹ 30.34,₹ 5.46
+T00032458,2025-08-10 00:00:00,Riya Malhotra,Failed,Loan EMI,Retail,Rajasthan,₹ 11549.75,₹ 11.55,₹ 2.08
+T00034895,2025-08-28 00:00:00,Kiara Kapoor,Success,Loan EMI,Retail,Rajasthan,₹ 4041.09,₹ 0.00,₹ 0.00
+T00035274,2025-08-15 00:00:00,Diya Verma,Success,Withdrawal,Corporate,Rajasthan,₹ 3257.49,₹ 16.29,₹ 2.93
+T00036004,2025-08-12 00:00:00,Kabir Malhotra,Success,Loan EMI,Retail,Rajasthan,₹ 24945.00,₹ 0.00,₹ 0.00
+T00036035,2025-08-28 00:00:00,Vihaan Iyer,Success,Withdrawal,Premium,Rajasthan,₹ 2311.15,₹ 4.62,₹ 0.83
+T00036950,2025-08-03 00:00:00,Aarav Sharma,Success,Transfer,SME,Rajasthan,₹ 30003.26,₹ 30.00,₹ 5.40
+T00037703,2025-08-07 00:00:00,Nisha Patel,Pending,Transfer,Premium,Rajasthan,₹ 4386.13,₹ 4.39,₹ 0.79
+T00039283,2025-08-24 00:00:00,Kabir Malhotra,Success,Interest Credit,Retail,Rajasthan,₹ 1667.83,₹ 3.34,₹ 0.60
+T00039555,2025-08-02 00:00:00,Pari Iyer,Success,Transfer,Retail,Rajasthan,₹ 4757.52,₹ 23.79,₹ 4.28
+T00039820,2025-08-31 00:00:00,Karan Patel,Success,Fee Charge,Retail,Rajasthan,₹ 705.88,₹ 0.00,₹ 0.00
+T00040122,2025-08-04 00:00:00,Pari Joshi,Success,Transfer,Retail,Rajasthan,₹ 1442.79,₹ 0.00,₹ 0.00
+T00040558,2025-08-17 00:00:00,Krishna Kapoor,Success,Fee Charge,Wealth,Rajasthan,₹ 430.34,₹ 0.86,₹ 0.15
+T00040660,2025-08-23 00:00:00,Priya Verma,Success,Loan EMI,Retail,Rajasthan,₹ 18220.08,₹ 18.22,₹ 3.28
+T00041169,2025-08-13 00:00:00,Pooja Jain,Success,Transfer,Retail,Rajasthan,₹ 3860.22,₹ 19.30,₹ 3.47
+T00042004,2025-08-12 00:00:00,Rahul Kulkarni,Pending,Deposit,Premium,Rajasthan,₹ 12321.95,₹ 0.00,₹ 0.00
+T00042308,2025-08-03 00:00:00,Diya Chopra,Failed,Deposit,Retail,Rajasthan,₹ 24000.75,₹ 0.00,₹ 0.00
+T00042320,2025-08-13 00:00:00,Rahul Mehta,Success,Transfer,Retail,Rajasthan,₹ 31047.85,₹ 155.24,₹ 27.94
+T00043271,2025-08-22 00:00:00,Rohan Chopra,Success,Investment,Retail,Rajasthan,₹ 5853.06,₹ 5.85,₹ 1.05
+T00043539,2025-08-13 00:00:00,Karan Kumar,Success,Loan EMI,Retail,Rajasthan,₹ 52190.17,₹ 260.95,₹ 46.97
+T00044214,2025-08-22 00:00:00,Rahul Desai,Success,Withdrawal,Retail,Rajasthan,₹ 1489.99,₹ 0.00,₹ 0.00
+T00046094,2025-08-22 00:00:00,Neha Desai,Success,Fee Charge,Premium,Rajasthan,₹ 430.49,₹ 0.00,₹ 0.00
+T00046502,2025-08-24 00:00:00,Rohan Bansal,Success,Transfer,Retail,Rajasthan,₹ 2611.92,₹ 2.61,₹ 0.47
+T00048796,2025-08-05 00:00:00,Pari Joshi,Success,Deposit,Retail,Rajasthan,₹ 18744.27,₹ 0.00,₹ 0.00
+T00000402,2025-08-28 00:00:00,Priya Singh,Success,Refund,SME,Tamil Nadu,₹ 3022.41,₹ 6.04,₹ 1.09
+T00000485,2025-08-06 00:00:00,Ishaan Mishra,Success,Loan EMI,Premium,Tamil Nadu,₹ 2772.77,₹ 0.00,₹ 0.00
+T00000667,2025-08-13 00:00:00,Neha Sharma,Success,Fee Charge,Premium,Tamil Nadu,₹ 653.56,₹ 0.00,₹ 0.00
+T00000726,2025-08-17 00:00:00,Priya Bansal,Success,Withdrawal,Premium,Tamil Nadu,₹ 3602.65,₹ 0.00,₹ 0.00
+T00002065,2025-08-19 00:00:00,Sneha Kapoor,Success,Transfer,SME,Tamil Nadu,₹ 8716.67,₹ 8.72,₹ 1.57
+T00002500,2025-08-08 00:00:00,Pooja Singh,Success,Card Payment,Retail,Tamil Nadu,₹ 4600.97,₹ 9.20,₹ 1.66
+T00002692,2025-08-18 00:00:00,Pooja Verma,Success,Transfer,Retail,Tamil Nadu,₹ 19278.17,₹ 38.56,₹ 6.94
+T00002788,2025-08-17 00:00:00,Neha Kumar,Success,Deposit,SME,Tamil Nadu,₹ 8728.91,₹ 8.73,₹ 1.57
+T00003159,2025-08-09 00:00:00,Riya Mishra,Success,Card Payment,Wealth,Tamil Nadu,₹ 949.90,₹ 0.00,₹ 0.00
+T00003207,2025-08-29 00:00:00,Diya Kapoor,Failed,Fee Charge,Premium,Tamil Nadu,₹ 449.48,₹ 2.25,₹ 0.40
+T00003323,2025-08-21 00:00:00,Sai Kapoor,Success,Loan EMI,Retail,Tamil Nadu,₹ 21471.75,₹ 107.36,₹ 19.32
+T00003404,2025-08-24 00:00:00,Myra Iyer,Success,Transfer,Retail,Tamil Nadu,₹ 38216.04,₹ 0.00,₹ 0.00
+T00003514,2025-08-02 00:00:00,Ira Gupta,Success,Transfer,SME,Tamil Nadu,₹ 13936.44,₹ 0.00,₹ 0.00
+T00003992,2025-08-09 00:00:00,Myra Malhotra,Success,Transfer,Premium,Tamil Nadu,₹ 13498.18,₹ 0.00,₹ 0.00
+T00004819,2025-08-09 00:00:00,Karan Bansal,Pending,Fee Charge,Corporate,Tamil Nadu,₹ 237.89,₹ 0.48,₹ 0.09
+T00005220,2025-08-17 00:00:00,Arjun Jain,Success,Bill Payment,Retail,Tamil Nadu,₹ 4821.06,₹ 9.64,₹ 1.74
+T00005280,2025-08-29 00:00:00,Priya Joshi,Success,Loan EMI,Retail,Tamil Nadu,₹ 8188.18,₹ 0.00,₹ 0.00
+T00005323,2025-08-22 00:00:00,Rahul Kapoor,Success,Deposit,Corporate,Tamil Nadu,₹ 6282.49,₹ 0.00,₹ 0.00
+T00005373,2025-08-20 00:00:00,Pooja Verma,Success,Withdrawal,Retail,Tamil Nadu,₹ 2364.78,₹ 11.82,₹ 2.13
+T00005918,2025-08-19 00:00:00,Vivaan Mishra,Pending,Loan EMI,Retail,Tamil Nadu,₹ 25804.50,₹ 0.00,₹ 0.00
+T00006011,2025-08-30 00:00:00,Sneha Reddy,Success,Loan EMI,SME,Tamil Nadu,₹ 42630.55,₹ 213.15,₹ 38.37
+T00007391,2025-08-29 00:00:00,Ishaan Chopra,Success,Transfer,Retail,Tamil Nadu,₹ 9348.94,₹ 0.00,₹ 0.00
+T00007650,2025-08-16 00:00:00,Priya Singh,Success,Refund,SME,Tamil Nadu,₹ 2331.52,₹ 0.00,₹ 0.00
+T00008584,2025-08-10 00:00:00,Myra Joshi,Failed,Loan EMI,Retail,Tamil Nadu,₹ 5558.57,₹ 0.00,₹ 0.00
+T00008624,2025-08-20 00:00:00,Rahul Singh,Pending,Investment,Premium,Tamil Nadu,₹ 8189.72,₹ 8.19,₹ 1.47
+T00009061,2025-08-09 00:00:00,Kiara Singh,Success,Loan EMI,Retail,Tamil Nadu,₹ 52632.64,₹ 263.16,₹ 47.37
+T00009086,2025-08-30 00:00:00,Pooja Verma,Success,Card Payment,Retail,Tamil Nadu,₹ 3508.62,₹ 0.00,₹ 0.00
+T00009403,2025-08-29 00:00:00,Arjun Kulkarni,Success,Investment,Wealth,Tamil Nadu,₹ 7363.12,₹ 14.73,₹ 2.65
+T00009644,2025-08-29 00:00:00,Arjun Kulkarni,Failed,Interest Credit,Wealth,Tamil Nadu,₹ 715.16,₹ 3.58,₹ 0.64
+T00009765,2025-08-09 00:00:00,Priya Joshi,Success,Withdrawal,Retail,Tamil Nadu,₹ 3083.12,₹ 0.00,₹ 0.00
+T00009869,2025-08-07 00:00:00,Krishna Reddy,Success,Loan EMI,Retail,Tamil Nadu,₹ 2307.48,₹ 0.00,₹ 0.00
+T00009892,2025-08-07 00:00:00,Neha Desai,Success,Deposit,Premium,Tamil Nadu,₹ 19255.65,₹ 19.26,₹ 3.47
+T00011643,2025-08-30 00:00:00,Karan Verma,Success,Card Payment,Premium,Tamil Nadu,₹ 1637.50,₹ 0.00,₹ 0.00
+T00012072,2025-08-20 00:00:00,Pooja Verma,Failed,Bill Payment,Retail,Tamil Nadu,₹ 1631.49,₹ 0.00,₹ 0.00
+T00012603,2025-08-14 00:00:00,Reyansh Agarwal,Success,Withdrawal,Wealth,Tamil Nadu,₹ 7415.18,₹ 0.00,₹ 0.00
+T00012862,2025-08-26 00:00:00,Neha Jain,Success,Investment,Retail,Tamil Nadu,₹ 49096.07,₹ 0.00,₹ 0.00
+T00013855,2025-08-08 00:00:00,Riya Jain,Failed,Withdrawal,Premium,Tamil Nadu,₹ 2901.56,₹ 0.00,₹ 0.00
+T00014014,2025-08-03 00:00:00,Diya Singh,Success,Bill Payment,SME,Tamil Nadu,₹ 1111.06,₹ 2.22,₹ 0.40
+T00014341,2025-08-12 00:00:00,Amit Nair,Failed,Bill Payment,Retail,Tamil Nadu,₹ 1587.99,₹ 0.00,₹ 0.00
+T00014648,2025-08-13 00:00:00,Kabir Mishra,Success,Interest Credit,SME,Tamil Nadu,₹ 1011.02,₹ 2.02,₹ 0.36
+T00015242,2025-08-06 00:00:00,Anaya Kapoor,Success,Refund,Premium,Tamil Nadu,₹ 3951.08,₹ 0.00,₹ 0.00
+T00016023,2025-08-15 00:00:00,Diya Singh,Success,Fee Charge,SME,Tamil Nadu,₹ 385.61,₹ 0.00,₹ 0.00
+T00016288,2025-08-20 00:00:00,Krishna Jain,Success,Bill Payment,Retail,Tamil Nadu,₹ 1658.72,₹ 0.00,₹ 0.00
+T00016377,2025-08-06 00:00:00,Aarav Kumar,Success,Loan EMI,Retail,Tamil Nadu,₹ 18273.18,₹ 0.00,₹ 0.00
+T00016444,2025-08-26 00:00:00,Aarav Singh,Success,Withdrawal,Retail,Tamil Nadu,₹ 4396.35,₹ 0.00,₹ 0.00
+T00017104,2025-08-15 00:00:00,Aarav Mishra,Success,Transfer,Retail,Tamil Nadu,₹ 4862.87,₹ 4.86,₹ 0.87
+T00017190,2025-08-03 00:00:00,Neha Jain,Success,Loan EMI,Retail,Tamil Nadu,₹ 1895.37,₹ 9.48,₹ 1.71
+T00017642,2025-08-31 00:00:00,Sara Malhotra,Success,Transfer,Premium,Tamil Nadu,₹ 23500.59,₹ 0.00,₹ 0.00
+T00019063,2025-08-31 00:00:00,Sara Malhotra,Success,Interest Credit,Premium,Tamil Nadu,₹ 2737.80,₹ 13.69,₹ 2.46
+T00020468,2025-08-09 00:00:00,Diya Kapoor,Success,Loan EMI,Premium,Tamil Nadu,₹ 47875.50,₹ 239.38,₹ 43.09
+T00020692,2025-08-09 00:00:00,Pooja Mishra,Success,Transfer,Premium,Tamil Nadu,₹ 14635.44,₹ 14.64,₹ 2.64
+T00020724,2025-08-23 00:00:00,Riya Reddy,Pending,Transfer,Retail,Tamil Nadu,₹ 64431.46,₹ 64.43,₹ 11.60
+T00021498,2025-08-03 00:00:00,Vihaan Iyer,Success,Deposit,Wealth,Tamil Nadu,₹ 31255.16,₹ 31.26,₹ 5.63
+T00021672,2025-08-23 00:00:00,Kabir Gupta,Success,Withdrawal,Premium,Tamil Nadu,₹ 2800.06,₹ 0.00,₹ 0.00
+T00021705,2025-08-23 00:00:00,Ayaan Mishra,Success,Transfer,Premium,Tamil Nadu,₹ 16407.34,₹ 0.00,₹ 0.00
+T00021708,2025-08-26 00:00:00,Ira Reddy,Success,Loan EMI,Premium,Tamil Nadu,₹ 3311.30,₹ 0.00,₹ 0.00
+T00021939,2025-08-27 00:00:00,Sai Patel,Success,Deposit,Retail,Tamil Nadu,₹ 3198.24,₹ 0.00,₹ 0.00
+T00022207,2025-08-22 00:00:00,Ishaan Reddy,Success,Transfer,Premium,Tamil Nadu,₹ 18373.44,₹ 91.87,₹ 16.54
+T00022604,2025-08-18 00:00:00,Sneha Mehta,Success,Card Payment,Retail,Tamil Nadu,₹ 3126.50,₹ 0.00,₹ 0.00
+T00023090,2025-08-31 00:00:00,Rahul Singh,Success,Deposit,Retail,Tamil Nadu,₹ 6970.30,₹ 0.00,₹ 0.00
+T00023140,2025-08-31 00:00:00,Arjun Agarwal,Success,Loan EMI,Retail,Tamil Nadu,₹ 10155.09,₹ 10.16,₹ 1.83
+T00023548,2025-08-16 00:00:00,Ira Mishra,Success,Fee Charge,Premium,Tamil Nadu,₹ 132.45,₹ 0.00,₹ 0.00
+T00023556,2025-08-18 00:00:00,Aarav Malhotra,Success,Fee Charge,Wealth,Tamil Nadu,₹ 176.02,₹ 0.18,₹ 0.03
+T00024048,2025-08-29 00:00:00,Neha Mehta,Success,Withdrawal,Retail,Tamil Nadu,₹ 2353.45,₹ 4.71,₹ 0.85
+T00024241,2025-08-19 00:00:00,Pari Jain,Failed,Loan EMI,Retail,Tamil Nadu,₹ 5040.71,₹ 10.08,₹ 1.81
+T00024961,2025-08-22 00:00:00,Karan Mehta,Success,Transfer,Retail,Tamil Nadu,₹ 29146.18,₹ 0.00,₹ 0.00
+T00025646,2025-08-14 00:00:00,Karan Malhotra,Success,Withdrawal,Retail,Tamil Nadu,₹ 4723.15,₹ 0.00,₹ 0.00
+T00026496,2025-08-17 00:00:00,Neha Sharma,Success,Withdrawal,Premium,Tamil Nadu,₹ 1115.08,₹ 0.00,₹ 0.00
+T00027904,2025-08-30 00:00:00,Arjun Gupta,Failed,Investment,Retail,Tamil Nadu,₹ 7146.98,₹ 35.73,₹ 6.43
+T00028476,2025-08-20 00:00:00,Krishna Singh,Success,Fee Charge,SME,Tamil Nadu,₹ 806.18,₹ 0.00,₹ 0.00
+T00029042,2025-08-16 00:00:00,Priya Bansal,Success,Loan EMI,Premium,Tamil Nadu,₹ 3999.04,₹ 0.00,₹ 0.00
+T00030114,2025-08-18 00:00:00,Ishaan Mehta,Success,Investment,Retail,Tamil Nadu,₹ 12735.53,₹ 0.00,₹ 0.00
+T00030663,2025-08-26 00:00:00,Ira Kulkarni,Pending,Bill Payment,SME,Tamil Nadu,₹ 6052.89,₹ 0.00,₹ 0.00
+T00030727,2025-08-03 00:00:00,Sai Patel,Success,Deposit,Retail,Tamil Nadu,₹ 12428.54,₹ 0.00,₹ 0.00
+T00030986,2025-08-29 00:00:00,Sneha Kulkarni,Success,Loan EMI,Corporate,Tamil Nadu,₹ 5957.95,₹ 29.79,₹ 5.36
+T00031786,2025-08-14 00:00:00,Krishna Singh,Failed,Deposit,SME,Tamil Nadu,₹ 7273.02,₹ 0.00,₹ 0.00
+T00031979,2025-08-16 00:00:00,Sneha Patel,Failed,Bill Payment,Premium,Tamil Nadu,₹ 3630.52,₹ 3.63,₹ 0.65
+T00032054,2025-08-07 00:00:00,Kabir Kulkarni,Success,Loan EMI,Corporate,Tamil Nadu,₹ 8592.28,₹ 0.00,₹ 0.00
+T00032457,2025-08-01 00:00:00,Vivaan Chopra,Success,Bill Payment,SME,Tamil Nadu,₹ 4133.41,₹ 20.67,₹ 3.72
+T00033015,2025-08-30 00:00:00,Riya Verma,Success,Fee Charge,Corporate,Tamil Nadu,₹ 887.70,₹ 0.89,₹ 0.16
+T00033702,2025-08-19 00:00:00,Pari Reddy,Success,Bill Payment,Retail,Tamil Nadu,₹ 243.54,₹ 0.49,₹ 0.09
+T00033803,2025-08-09 00:00:00,Vihaan Verma,Success,Fee Charge,SME,Tamil Nadu,₹ 532.14,₹ 0.53,₹ 0.10
+T00034038,2025-08-21 00:00:00,Anika Nair,Failed,Interest Credit,Retail,Tamil Nadu,₹ 332.41,₹ 0.33,₹ 0.06
+T00034407,2025-08-08 00:00:00,Priya Patel,Success,Fee Charge,SME,Tamil Nadu,₹ 122.51,₹ 0.12,₹ 0.02
+T00035335,2025-08-14 00:00:00,Myra Sharma,Success,Transfer,Retail,Tamil Nadu,₹ 22970.38,₹ 0.00,₹ 0.00
+T00035365,2025-08-26 00:00:00,Anaya Jain,Success,Transfer,Retail,Tamil Nadu,₹ 6942.45,₹ 0.00,₹ 0.00
+T00035627,2025-08-24 00:00:00,Vivaan Malhotra,Success,Card Payment,SME,Tamil Nadu,₹ 6296.15,₹ 6.30,₹ 1.13
+T00035741,2025-08-08 00:00:00,Ira Gupta,Success,Transfer,SME,Tamil Nadu,₹ 14640.27,₹ 29.28,₹ 5.27
+T00036163,2025-08-18 00:00:00,Arjun Jain,Success,Card Payment,Retail,Tamil Nadu,₹ 1842.16,₹ 9.21,₹ 1.66
+T00036659,2025-08-23 00:00:00,Sai Gupta,Success,Loan EMI,Retail,Tamil Nadu,₹ 12704.17,₹ 25.41,₹ 4.57
+T00037573,2025-08-18 00:00:00,Vihaan Kapoor,Success,Withdrawal,SME,Tamil Nadu,₹ 1618.74,₹ 0.00,₹ 0.00
+T00038575,2025-08-16 00:00:00,Rahul Agarwal,Success,Deposit,Retail,Tamil Nadu,₹ 8735.09,₹ 8.74,₹ 1.57
+T00038772,2025-08-14 00:00:00,Krishna Kumar,Success,Deposit,Corporate,Tamil Nadu,₹ 13407.22,₹ 26.81,₹ 4.83
+T00039070,2025-08-25 00:00:00,Anika Nair,Success,Bill Payment,Retail,Tamil Nadu,₹ 2511.26,₹ 0.00,₹ 0.00
+T00040141,2025-08-28 00:00:00,Rohan Patel,Success,Fee Charge,Retail,Tamil Nadu,₹ 831.95,₹ 1.66,₹ 0.30
+T00040866,2025-08-25 00:00:00,Myra Agarwal,Success,Investment,Retail,Tamil Nadu,₹ 5853.97,₹ 29.27,₹ 5.27
+T00041089,2025-08-20 00:00:00,Ishaan Chopra,Success,Fee Charge,Retail,Tamil Nadu,₹ 905.46,₹ 0.00,₹ 0.00
+T00041221,2025-08-28 00:00:00,Riya Chopra,Success,Bill Payment,SME,Tamil Nadu,₹ 5338.64,₹ 0.00,₹ 0.00
+T00041845,2025-08-17 00:00:00,Arjun Bansal,Success,Refund,Retail,Tamil Nadu,₹ 4122.47,₹ 0.00,₹ 0.00
+T00041889,2025-08-30 00:00:00,Amit Kumar,Success,Card Payment,Retail,Tamil Nadu,₹ 2714.44,₹ 5.43,₹ 0.98
+T00042105,2025-08-09 00:00:00,Krishna Joshi,Success,Withdrawal,Premium,Tamil Nadu,₹ 1329.70,₹ 1.33,₹ 0.24
+T00042519,2025-08-02 00:00:00,Arjun Gupta,Success,Investment,Retail,Tamil Nadu,₹ 64458.81,₹ 128.92,₹ 23.21
+T00042560,2025-08-26 00:00:00,Sneha Malhotra,Success,Loan EMI,Premium,Tamil Nadu,₹ 20862.79,₹ 0.00,₹ 0.00
+T00044068,2025-08-03 00:00:00,Arjun Jain,Success,Transfer,Retail,Tamil Nadu,₹ 17221.24,₹ 34.44,₹ 6.20
+T00044070,2025-08-04 00:00:00,Myra Mishra,Success,Deposit,Retail,Tamil Nadu,₹ 6448.07,₹ 12.90,₹ 2.32
+T00045445,2025-08-19 00:00:00,Diya Desai,Success,Loan EMI,Retail,Tamil Nadu,₹ 20088.01,₹ 0.00,₹ 0.00
+T00045542,2025-08-07 00:00:00,Vihaan Verma,Success,Loan EMI,SME,Tamil Nadu,₹ 19843.12,₹ 99.22,₹ 17.86
+T00046391,2025-08-01 00:00:00,Arjun Mishra,Success,Investment,Premium,Tamil Nadu,₹ 6908.50,₹ 0.00,₹ 0.00
+T00046773,2025-08-18 00:00:00,Vivaan Bansal,Success,Transfer,Retail,Tamil Nadu,₹ 2162.22,₹ 2.16,₹ 0.39
+T00046795,2025-08-17 00:00:00,Kiara Singh,Failed,Withdrawal,Premium,Tamil Nadu,₹ 552.13,₹ 0.00,₹ 0.00
+T00046827,2025-08-11 00:00:00,Vivaan Mishra,Success,Loan EMI,Retail,Tamil Nadu,₹ 9543.97,₹ 47.72,₹ 8.59
+T00046908,2025-08-09 00:00:00,Vihaan Jain,Success,Loan EMI,Retail,Tamil Nadu,₹ 7557.95,₹ 15.12,₹ 2.72
+T00047121,2025-08-09 00:00:00,Rahul Agarwal,Success,Withdrawal,Retail,Tamil Nadu,₹ 2708.82,₹ 2.71,₹ 0.49
+T00048423,2025-08-06 00:00:00,Priya Verma,Success,Transfer,SME,Tamil Nadu,₹ 11529.80,₹ 0.00,₹ 0.00
+T00048688,2025-08-25 00:00:00,Kabir Kulkarni,Success,Refund,Corporate,Tamil Nadu,₹ 1907.18,₹ 1.91,₹ 0.34
+T00000549,2025-08-22 00:00:00,Aadhya Mishra,Success,Investment,Premium,Telangana,₹ 4119.81,₹ 8.24,₹ 1.48
+T00000902,2025-08-28 00:00:00,Aarav Mishra,Success,Loan EMI,Corporate,Telangana,₹ 59686.08,₹ 119.37,₹ 21.49
+T00002364,2025-08-06 00:00:00,Rohan Patel,Success,Loan EMI,Retail,Telangana,₹ 20630.05,₹ 0.00,₹ 0.00
+T00002617,2025-08-28 00:00:00,Sai Mehta,Success,Transfer,SME,Telangana,₹ 9777.16,₹ 0.00,₹ 0.00
+T00003757,2025-08-09 00:00:00,Krishna Joshi,Success,Deposit,Retail,Telangana,₹ 5383.60,₹ 10.77,₹ 1.94
+T00004827,2025-08-19 00:00:00,Krishna Chopra,Pending,Interest Credit,Retail,Telangana,₹ 4419.64,₹ 8.84,₹ 1.59
+T00005201,2025-08-30 00:00:00,Krishna Sharma,Success,Bill Payment,Retail,Telangana,₹ 18648.27,₹ 93.24,₹ 16.78
+T00005954,2025-08-28 00:00:00,Rahul Iyer,Success,Bill Payment,SME,Telangana,₹ 7826.23,₹ 15.65,₹ 2.82
+T00007741,2025-08-02 00:00:00,Anaya Sharma,Success,Deposit,Retail,Telangana,₹ 34373.50,₹ 171.87,₹ 30.94
+T00011263,2025-08-10 00:00:00,Ira Nair,Success,Card Payment,SME,Telangana,₹ 4172.29,₹ 0.00,₹ 0.00
+T00012607,2025-08-25 00:00:00,Sara Iyer,Success,Loan EMI,SME,Telangana,₹ 29962.86,₹ 0.00,₹ 0.00
+T00013077,2025-08-10 00:00:00,Krishna Sharma,Failed,Deposit,Corporate,Telangana,₹ 6720.36,₹ 33.60,₹ 6.05
+T00015984,2025-08-16 00:00:00,Kiara Singh,Success,Bill Payment,SME,Telangana,₹ 2408.90,₹ 4.82,₹ 0.87
+T00016221,2025-08-13 00:00:00,Myra Desai,Success,Card Payment,Retail,Telangana,₹ 1783.29,₹ 8.92,₹ 1.61
+T00016311,2025-08-03 00:00:00,Anaya Agarwal,Success,Investment,SME,Telangana,₹ 3809.32,₹ 3.81,₹ 0.69
+T00023128,2025-08-15 00:00:00,Kiara Chopra,Success,Bill Payment,SME,Telangana,₹ 6774.00,₹ 0.00,₹ 0.00
+T00024603,2025-08-26 00:00:00,Kiara Chopra,Success,Deposit,Corporate,Telangana,₹ 8176.24,₹ 8.18,₹ 1.47
+T00025920,2025-08-02 00:00:00,Pooja Chopra,Success,Interest Credit,Retail,Telangana,₹ 615.13,₹ 0.62,₹ 0.11
+T00026245,2025-08-22 00:00:00,Ishaan Agarwal,Failed,Transfer,SME,Telangana,₹ 3867.26,₹ 0.00,₹ 0.00
+T00027106,2025-08-24 00:00:00,Aarav Kumar,Success,Transfer,Premium,Telangana,₹ 25200.58,₹ 0.00,₹ 0.00
+T00029443,2025-08-22 00:00:00,Ayaan Kulkarni,Success,Refund,SME,Telangana,₹ 4353.15,₹ 21.77,₹ 3.92
+T00029560,2025-08-25 00:00:00,Vihaan Kapoor,Success,Withdrawal,SME,Telangana,₹ 5472.47,₹ 0.00,₹ 0.00
+T00029583,2025-08-12 00:00:00,Nisha Iyer,Success,Fee Charge,Corporate,Telangana,₹ 50.83,₹ 0.05,₹ 0.01
+T00029831,2025-08-31 00:00:00,Anaya Agarwal,Success,Card Payment,SME,Telangana,₹ 3224.61,₹ 6.45,₹ 1.16
+T00030787,2025-08-09 00:00:00,Aditya Bansal,Success,Card Payment,Retail,Telangana,₹ 14121.73,₹ 0.00,₹ 0.00
+T00031188,2025-08-29 00:00:00,Vihaan Jain,Success,Loan EMI,Premium,Telangana,₹ 17151.93,₹ 85.76,₹ 15.44
+T00031882,2025-08-04 00:00:00,Aarav Mishra,Success,Loan EMI,Corporate,Telangana,₹ 31072.98,₹ 0.00,₹ 0.00
+T00033182,2025-08-15 00:00:00,Krishna Sharma,Success,Card Payment,Corporate,Telangana,₹ 5129.02,₹ 5.13,₹ 0.92
+T00033807,2025-08-06 00:00:00,Riya Kumar,Success,Interest Credit,Retail,Telangana,₹ 2685.34,₹ 2.69,₹ 0.48
+T00034101,2025-08-08 00:00:00,Riya Bansal,Success,Withdrawal,Retail,Telangana,₹ 5757.36,₹ 0.00,₹ 0.00
+T00034520,2025-08-19 00:00:00,Karan Nair,Success,Withdrawal,Retail,Telangana,₹ 3183.51,₹ 0.00,₹ 0.00
+T00037678,2025-08-01 00:00:00,Sai Mishra,Failed,Bill Payment,Wealth,Telangana,₹ 2199.99,₹ 2.20,₹ 0.40
+T00038118,2025-08-18 00:00:00,Anaya Nair,Success,Withdrawal,Retail,Telangana,₹ 7116.13,₹ 35.58,₹ 6.40
+T00038594,2025-08-12 00:00:00,Anaya Agarwal,Success,Card Payment,SME,Telangana,₹ 1304.94,₹ 1.30,₹ 0.23
+T00038715,2025-08-24 00:00:00,Reyansh Mehta,Success,Deposit,SME,Telangana,₹ 13191.89,₹ 13.19,₹ 2.37
+T00039318,2025-08-31 00:00:00,Sara Mishra,Success,Transfer,Retail,Telangana,₹ 25001.89,₹ 50.00,₹ 9.00
+T00039397,2025-08-28 00:00:00,Nisha Iyer,Success,Interest Credit,Premium,Telangana,₹ 4315.03,₹ 0.00,₹ 0.00
+T00039851,2025-08-01 00:00:00,Aadhya Jain,Success,Bill Payment,Retail,Telangana,₹ 4443.90,₹ 22.22,₹ 4.00
+T00042236,2025-08-14 00:00:00,Ira Mehta,Success,Withdrawal,Retail,Telangana,₹ 7550.70,₹ 0.00,₹ 0.00
+T00042798,2025-08-15 00:00:00,Riya Mehta,Success,Investment,SME,Telangana,₹ 8532.98,₹ 0.00,₹ 0.00
+T00043224,2025-08-24 00:00:00,Kabir Kumar,Success,Fee Charge,Retail,Telangana,₹ 800.32,₹ 4.00,₹ 0.72
+T00043360,2025-08-24 00:00:00,Aadhya Mehta,Success,Interest Credit,Retail,Telangana,₹ 589.85,₹ 1.18,₹ 0.21
+T00043498,2025-08-26 00:00:00,Anaya Agarwal,Success,Transfer,SME,Telangana,₹ 6933.25,₹ 0.00,₹ 0.00
+T00044104,2025-08-06 00:00:00,Rohan Patel,Success,Investment,Retail,Telangana,₹ 2934.76,₹ 14.67,₹ 2.64
+T00044197,2025-08-02 00:00:00,Anaya Agarwal,Failed,Card Payment,SME,Telangana,₹ 1637.48,₹ 3.27,₹ 0.59
+T00045731,2025-08-25 00:00:00,Ira Joshi,Failed,Investment,SME,Telangana,₹ 7092.80,₹ 35.46,₹ 6.38
+T00046234,2025-08-26 00:00:00,Krishna Singh,Success,Loan EMI,SME,Telangana,₹ 6592.75,₹ 0.00,₹ 0.00
+T00046547,2025-08-06 00:00:00,Aditya Bansal,Success,Transfer,Retail,Telangana,₹ 1331.18,₹ 6.66,₹ 1.20
+T00046712,2025-08-27 00:00:00,Myra Verma,Success,Interest Credit,Premium,Telangana,₹ 3559.57,₹ 3.56,₹ 0.64
+T00048489,2025-08-13 00:00:00,Rahul Iyer,Success,Investment,SME,Telangana,₹ 19817.86,₹ 0.00,₹ 0.00
+T00048706,2025-08-05 00:00:00,Nisha Iyer,Success,Card Payment,Premium,Telangana,₹ 1337.82,₹ 1.34,₹ 0.24
+T00048905,2025-08-28 00:00:00,Anika Jain,Success,Card Payment,SME,Telangana,₹ 7226.38,₹ 14.45,₹ 2.60
+T00000152,2025-08-09 00:00:00,Rahul Mehta,Failed,Deposit,Retail,Uttar Pradesh,₹ 1469.08,₹ 0.00,₹ 0.00
+T00000360,2025-08-29 00:00:00,Sneha Nair,Failed,Card Payment,Premium,Uttar Pradesh,₹ 13911.44,₹ 0.00,₹ 0.00
+T00000709,2025-08-06 00:00:00,Amit Verma,Success,Fee Charge,SME,Uttar Pradesh,₹ 507.67,₹ 0.51,₹ 0.09
+T00000897,2025-08-13 00:00:00,Rohan Kapoor,Success,Withdrawal,Retail,Uttar Pradesh,₹ 3856.90,₹ 3.86,₹ 0.69
+T00000920,2025-08-07 00:00:00,Sneha Verma,Success,Loan EMI,SME,Uttar Pradesh,₹ 12454.71,₹ 0.00,₹ 0.00
+T00001627,2025-08-23 00:00:00,Riya Kumar,Success,Interest Credit,SME,Uttar Pradesh,₹ 3854.66,₹ 0.00,₹ 0.00
+T00001684,2025-08-05 00:00:00,Vihaan Agarwal,Success,Loan EMI,Corporate,Uttar Pradesh,₹ 11349.58,₹ 0.00,₹ 0.00
+T00002255,2025-08-23 00:00:00,Neha Agarwal,Success,Card Payment,Premium,Uttar Pradesh,₹ 1811.66,₹ 3.62,₹ 0.65
+T00002269,2025-08-14 00:00:00,Arjun Mehta,Success,Transfer,Retail,Uttar Pradesh,₹ 5706.00,₹ 0.00,₹ 0.00
+T00002641,2025-08-28 00:00:00,Diya Mehta,Success,Deposit,Corporate,Uttar Pradesh,₹ 18593.20,₹ 0.00,₹ 0.00
+T00002950,2025-08-12 00:00:00,Neha Sharma,Success,Investment,Retail,Uttar Pradesh,₹ 17211.27,₹ 86.06,₹ 15.49
+T00003015,2025-08-26 00:00:00,Rahul Desai,Failed,Transfer,Retail,Uttar Pradesh,₹ 16640.86,₹ 0.00,₹ 0.00
+T00003118,2025-08-21 00:00:00,Rahul Desai,Failed,Interest Credit,Retail,Uttar Pradesh,₹ 961.03,₹ 0.00,₹ 0.00
+T00003197,2025-08-09 00:00:00,Kiara Patel,Success,Interest Credit,Retail,Uttar Pradesh,₹ 3594.48,₹ 7.19,₹ 1.29
+T00003917,2025-08-05 00:00:00,Amit Verma,Success,Refund,Retail,Uttar Pradesh,₹ 3899.44,₹ 0.00,₹ 0.00
+T00004436,2025-08-31 00:00:00,Nisha Singh,Success,Interest Credit,Retail,Uttar Pradesh,₹ 902.57,₹ 0.90,₹ 0.16
+T00005416,2025-08-26 00:00:00,Ayaan Joshi,Failed,Card Payment,Retail,Uttar Pradesh,₹ 6263.43,₹ 0.00,₹ 0.00
+T00005838,2025-08-27 00:00:00,Diya Gupta,Success,Withdrawal,Retail,Uttar Pradesh,₹ 2126.20,₹ 4.25,₹ 0.77
+T00007977,2025-08-04 00:00:00,Sai Gupta,Success,Bill Payment,SME,Uttar Pradesh,₹ 3600.47,₹ 3.60,₹ 0.65
+T00008423,2025-08-11 00:00:00,Ayaan Gupta,Success,Investment,Premium,Uttar Pradesh,₹ 11026.27,₹ 0.00,₹ 0.00
+T00009451,2025-08-14 00:00:00,Aadhya Singh,Pending,Withdrawal,Corporate,Uttar Pradesh,₹ 2474.57,₹ 0.00,₹ 0.00
+T00009890,2025-08-20 00:00:00,Diya Mehta,Success,Loan EMI,Premium,Uttar Pradesh,₹ 8206.69,₹ 0.00,₹ 0.00
+T00009938,2025-08-25 00:00:00,Rohan Patel,Success,Deposit,SME,Uttar Pradesh,₹ 30467.22,₹ 30.47,₹ 5.48
+T00010316,2025-08-19 00:00:00,Sai Malhotra,Pending,Refund,Retail,Uttar Pradesh,₹ 2161.43,₹ 4.32,₹ 0.78
+T00010322,2025-08-04 00:00:00,Aditya Malhotra,Success,Loan EMI,SME,Uttar Pradesh,₹ 12964.64,₹ 0.00,₹ 0.00
+T00010418,2025-08-16 00:00:00,Nisha Kulkarni,Success,Card Payment,SME,Uttar Pradesh,₹ 719.49,₹ 0.00,₹ 0.00
+T00010824,2025-08-03 00:00:00,Pari Bansal,Success,Fee Charge,Retail,Uttar Pradesh,₹ 355.24,₹ 0.00,₹ 0.00
+T00011456,2025-08-05 00:00:00,Pari Verma,Success,Bill Payment,Premium,Uttar Pradesh,₹ 2794.04,₹ 5.59,₹ 1.01
+T00012721,2025-08-22 00:00:00,Karan Mishra,Success,Fee Charge,Wealth,Uttar Pradesh,₹ 89.08,₹ 0.00,₹ 0.00
+T00012730,2025-08-18 00:00:00,Sai Jain,Success,Deposit,SME,Uttar Pradesh,₹ 2618.46,₹ 0.00,₹ 0.00
+T00012998,2025-08-16 00:00:00,Diya Mishra,Success,Transfer,Wealth,Uttar Pradesh,₹ 18648.28,₹ 0.00,₹ 0.00
+T00013550,2025-08-24 00:00:00,Aarav Mehta,Failed,Loan EMI,Retail,Uttar Pradesh,₹ 14808.74,₹ 0.00,₹ 0.00
+T00013715,2025-08-11 00:00:00,Priya Reddy,Success,Bill Payment,Retail,Uttar Pradesh,₹ 3644.94,₹ 18.22,₹ 3.28
+T00013978,2025-08-18 00:00:00,Sai Malhotra,Success,Transfer,Retail,Uttar Pradesh,₹ 14075.05,₹ 14.08,₹ 2.53
+T00014214,2025-08-21 00:00:00,Reyansh Nair,Success,Transfer,Retail,Uttar Pradesh,₹ 21050.26,₹ 105.25,₹ 18.95
+T00014231,2025-08-08 00:00:00,Reyansh Nair,Success,Loan EMI,Retail,Uttar Pradesh,₹ 6587.31,₹ 0.00,₹ 0.00
+T00014962,2025-08-17 00:00:00,Rohan Malhotra,Success,Loan EMI,Corporate,Uttar Pradesh,₹ 9264.20,₹ 0.00,₹ 0.00
+T00015194,2025-08-26 00:00:00,Anaya Bansal,Success,Loan EMI,SME,Uttar Pradesh,₹ 5802.26,₹ 5.80,₹ 1.04
+T00016118,2025-08-18 00:00:00,Vivaan Iyer,Success,Interest Credit,Premium,Uttar Pradesh,₹ 3520.45,₹ 7.04,₹ 1.27
+T00016671,2025-08-16 00:00:00,Kabir Singh,Failed,Withdrawal,SME,Uttar Pradesh,₹ 3254.99,₹ 16.27,₹ 2.93
+T00016785,2025-08-03 00:00:00,Priya Kapoor,Success,Loan EMI,Retail,Uttar Pradesh,₹ 6979.31,₹ 0.00,₹ 0.00
+T00017300,2025-08-14 00:00:00,Arjun Malhotra,Success,Loan EMI,Premium,Uttar Pradesh,₹ 9154.06,₹ 0.00,₹ 0.00
+T00017769,2025-08-15 00:00:00,Pari Bansal,Failed,Loan EMI,Premium,Uttar Pradesh,₹ 8766.69,₹ 43.83,₹ 7.89
+T00017941,2025-08-12 00:00:00,Neha Agarwal,Success,Loan EMI,Premium,Uttar Pradesh,₹ 14836.40,₹ 74.18,₹ 13.35
+T00019226,2025-08-30 00:00:00,Vivaan Verma,Success,Refund,SME,Uttar Pradesh,₹ 1558.49,₹ 3.12,₹ 0.56
+T00019432,2025-08-01 00:00:00,Diya Mehta,Success,Withdrawal,Premium,Uttar Pradesh,₹ 2583.15,₹ 5.17,₹ 0.93
+T00019517,2025-08-13 00:00:00,Vivaan Verma,Success,Fee Charge,SME,Uttar Pradesh,₹ 149.20,₹ 0.30,₹ 0.05
+T00020134,2025-08-21 00:00:00,Sai Jain,Success,Fee Charge,SME,Uttar Pradesh,₹ 653.24,₹ 0.00,₹ 0.00
+T00020227,2025-08-02 00:00:00,Karan Jain,Success,Transfer,Corporate,Uttar Pradesh,₹ 16660.95,₹ 0.00,₹ 0.00
+T00021928,2025-08-15 00:00:00,Amit Verma,Success,Fee Charge,SME,Uttar Pradesh,₹ 392.68,₹ 0.79,₹ 0.14
+T00022578,2025-08-03 00:00:00,Reyansh Agarwal,Success,Loan EMI,Corporate,Uttar Pradesh,₹ 20649.07,₹ 0.00,₹ 0.00
+T00022851,2025-08-05 00:00:00,Reyansh Kapoor,Success,Interest Credit,Wealth,Uttar Pradesh,₹ 4375.27,₹ 21.88,₹ 3.94
+T00023670,2025-08-26 00:00:00,Aditya Kulkarni,Success,Loan EMI,Retail,Uttar Pradesh,₹ 7453.23,₹ 37.27,₹ 6.71
+T00024366,2025-08-08 00:00:00,Aditya Verma,Success,Loan EMI,Retail,Uttar Pradesh,₹ 9956.05,₹ 19.91,₹ 3.58
+T00024639,2025-08-30 00:00:00,Kiara Verma,Success,Refund,Corporate,Uttar Pradesh,₹ 3284.70,₹ 0.00,₹ 0.00
+T00024662,2025-08-30 00:00:00,Diya Gupta,Success,Bill Payment,Retail,Uttar Pradesh,₹ 1143.83,₹ 0.00,₹ 0.00
+T00024722,2025-08-04 00:00:00,Karan Iyer,Success,Deposit,Retail,Uttar Pradesh,₹ 11134.25,₹ 0.00,₹ 0.00
+T00025531,2025-08-22 00:00:00,Pari Mehta,Success,Deposit,Retail,Uttar Pradesh,₹ 7257.43,₹ 14.51,₹ 2.61
+T00026346,2025-08-23 00:00:00,Rohan Joshi,Success,Withdrawal,Retail,Uttar Pradesh,₹ 1586.56,₹ 0.00,₹ 0.00
+T00026350,2025-08-13 00:00:00,Aadhya Desai,Success,Transfer,Retail,Uttar Pradesh,₹ 80855.07,₹ 161.71,₹ 29.11
+T00026878,2025-08-08 00:00:00,Priya Desai,Success,Refund,Retail,Uttar Pradesh,₹ 1639.31,₹ 0.00,₹ 0.00
+T00026931,2025-08-03 00:00:00,Vihaan Kapoor,Success,Loan EMI,Retail,Uttar Pradesh,₹ 3225.88,₹ 6.45,₹ 1.16
+T00027156,2025-08-15 00:00:00,Amit Patel,Success,Loan EMI,Premium,Uttar Pradesh,₹ 3804.17,₹ 7.61,₹ 1.37
+T00027250,2025-08-03 00:00:00,Vivaan Verma,Success,Card Payment,SME,Uttar Pradesh,₹ 12315.68,₹ 0.00,₹ 0.00
+T00027365,2025-08-03 00:00:00,Sara Patel,Success,Deposit,SME,Uttar Pradesh,₹ 15560.60,₹ 0.00,₹ 0.00
+T00028210,2025-08-17 00:00:00,Pari Bansal,Success,Investment,Premium,Uttar Pradesh,₹ 5022.97,₹ 5.02,₹ 0.90
+T00028725,2025-08-31 00:00:00,Reyansh Kapoor,Success,Card Payment,Premium,Uttar Pradesh,₹ 3913.41,₹ 7.83,₹ 1.41
+T00029649,2025-08-30 00:00:00,Anaya Desai,Pending,Card Payment,Premium,Uttar Pradesh,₹ 3519.23,₹ 3.52,₹ 0.63
+T00029912,2025-08-16 00:00:00,Vihaan Kapoor,Failed,Deposit,Retail,Uttar Pradesh,₹ 10344.33,₹ 20.69,₹ 3.72
+T00030352,2025-08-12 00:00:00,Anaya Desai,Success,Loan EMI,Retail,Uttar Pradesh,₹ 5652.97,₹ 0.00,₹ 0.00
+T00030682,2025-08-07 00:00:00,Rahul Mehta,Success,Refund,Premium,Uttar Pradesh,₹ 3809.89,₹ 0.00,₹ 0.00
+T00031358,2025-08-19 00:00:00,Amit Sharma,Success,Fee Charge,Retail,Uttar Pradesh,₹ 649.10,₹ 0.00,₹ 0.00
+T00031569,2025-08-13 00:00:00,Diya Mishra,Success,Interest Credit,Wealth,Uttar Pradesh,₹ 623.45,₹ 1.25,₹ 0.22
+T00033202,2025-08-02 00:00:00,Priya Sharma,Success,Transfer,Retail,Uttar Pradesh,₹ 3291.95,₹ 3.29,₹ 0.59
+T00033434,2025-08-27 00:00:00,Karan Jain,Success,Fee Charge,Corporate,Uttar Pradesh,₹ 227.25,₹ 0.00,₹ 0.00
+T00034695,2025-08-08 00:00:00,Pari Kapoor,Success,Refund,Premium,Uttar Pradesh,₹ 1246.08,₹ 0.00,₹ 0.00
+T00034799,2025-08-30 00:00:00,Arjun Gupta,Success,Transfer,Retail,Uttar Pradesh,₹ 35478.53,₹ 70.96,₹ 12.77
+T00035883,2025-08-26 00:00:00,Nisha Mishra,Success,Withdrawal,Retail,Uttar Pradesh,₹ 1982.98,₹ 0.00,₹ 0.00
+T00036141,2025-08-07 00:00:00,Riya Kulkarni,Success,Refund,Premium,Uttar Pradesh,₹ 4155.48,₹ 20.78,₹ 3.74
+T00036591,2025-08-19 00:00:00,Kiara Kapoor,Failed,Withdrawal,Retail,Uttar Pradesh,₹ 3755.25,₹ 0.00,₹ 0.00
+T00037468,2025-08-16 00:00:00,Sneha Kapoor,Success,Transfer,Retail,Uttar Pradesh,₹ 13305.39,₹ 26.61,₹ 4.79
+T00037853,2025-08-17 00:00:00,Vivaan Mehta,Success,Bill Payment,Retail,Uttar Pradesh,₹ 4175.17,₹ 0.00,₹ 0.00
+T00038121,2025-08-18 00:00:00,Rahul Singh,Success,Withdrawal,Retail,Uttar Pradesh,₹ 15897.66,₹ 15.90,₹ 2.86
+T00038128,2025-08-11 00:00:00,Aarav Mehta,Success,Interest Credit,Corporate,Uttar Pradesh,₹ 825.19,₹ 0.83,₹ 0.15
+T00038266,2025-08-27 00:00:00,Amit Patel,Success,Bill Payment,Premium,Uttar Pradesh,₹ 765.34,₹ 0.77,₹ 0.14
+T00038371,2025-08-17 00:00:00,Kiara Verma,Success,Transfer,Corporate,Uttar Pradesh,₹ 4493.17,₹ 4.49,₹ 0.81
+T00040439,2025-08-03 00:00:00,Sneha Kulkarni,Success,Interest Credit,Retail,Uttar Pradesh,₹ 1709.13,₹ 8.55,₹ 1.54
+T00040463,2025-08-07 00:00:00,Vihaan Kapoor,Success,Interest Credit,Retail,Uttar Pradesh,₹ 2320.39,₹ 4.64,₹ 0.84
+T00040986,2025-08-31 00:00:00,Priya Patel,Success,Fee Charge,Retail,Uttar Pradesh,₹ 410.57,₹ 0.00,₹ 0.00
+T00041201,2025-08-02 00:00:00,Aarav Joshi,Success,Investment,Retail,Uttar Pradesh,₹ 11363.60,₹ 11.36,₹ 2.04
+T00041389,2025-08-15 00:00:00,Ishaan Agarwal,Success,Transfer,Corporate,Uttar Pradesh,₹ 1762.15,₹ 0.00,₹ 0.00
+T00041586,2025-08-02 00:00:00,Aditya Malhotra,Success,Transfer,SME,Uttar Pradesh,₹ 20811.32,₹ 104.06,₹ 18.73
+T00041766,2025-08-13 00:00:00,Vivaan Iyer,Success,Interest Credit,Premium,Uttar Pradesh,₹ 1393.50,₹ 6.97,₹ 1.25
+T00041795,2025-08-24 00:00:00,Anika Gupta,Success,Investment,Retail,Uttar Pradesh,₹ 16955.61,₹ 84.78,₹ 15.26
+T00042277,2025-08-19 00:00:00,Sai Bansal,Success,Card Payment,Retail,Uttar Pradesh,₹ 3103.20,₹ 0.00,₹ 0.00
+T00043217,2025-08-05 00:00:00,Arjun Malhotra,Success,Interest Credit,Premium,Uttar Pradesh,₹ 1700.62,₹ 8.50,₹ 1.53
+T00043306,2025-08-25 00:00:00,Anaya Singh,Success,Investment,Retail,Uttar Pradesh,₹ 1907.21,₹ 9.54,₹ 1.72
+T00043649,2025-08-14 00:00:00,Sai Agarwal,Success,Transfer,Premium,Uttar Pradesh,₹ 25184.46,₹ 0.00,₹ 0.00
+T00043745,2025-08-24 00:00:00,Sara Chopra,Success,Card Payment,Retail,Uttar Pradesh,₹ 1677.14,₹ 0.00,₹ 0.00
+T00044137,2025-08-13 00:00:00,Reyansh Verma,Success,Transfer,Premium,Uttar Pradesh,₹ 2837.78,₹ 0.00,₹ 0.00
+T00044379,2025-08-01 00:00:00,Neha Reddy,Success,Deposit,Retail,Uttar Pradesh,₹ 21968.61,₹ 21.97,₹ 3.95
+T00045483,2025-08-19 00:00:00,Arjun Bansal,Success,Deposit,Retail,Uttar Pradesh,₹ 13101.52,₹ 13.10,₹ 2.36
+T00046992,2025-08-05 00:00:00,Kabir Chopra,Success,Transfer,Premium,Uttar Pradesh,₹ 15567.78,₹ 77.84,₹ 14.01
+T00047581,2025-08-11 00:00:00,Reyansh Patel,Success,Refund,SME,Uttar Pradesh,₹ 2883.31,₹ 2.88,₹ 0.52
+T00048514,2025-08-26 00:00:00,Anika Mishra,Failed,Fee Charge,Retail,Uttar Pradesh,₹ 316.50,₹ 0.32,₹ 0.06
+T00048540,2025-08-18 00:00:00,Nisha Iyer,Success,Loan EMI,Retail,Uttar Pradesh,₹ 5110.59,₹ 10.22,₹ 1.84
+T00048593,2025-08-07 00:00:00,Pooja Joshi,Success,Card Payment,Retail,Uttar Pradesh,₹ 8653.84,₹ 0.00,₹ 0.00
+T00048640,2025-08-24 00:00:00,Aarav Mishra,Pending,Deposit,SME,Uttar Pradesh,₹ 2284.14,₹ 0.00,₹ 0.00
+T00048775,2025-08-05 00:00:00,Kabir Sharma,Success,Card Payment,SME,Uttar Pradesh,₹ 8784.94,₹ 43.92,₹ 7.91
+T00048777,2025-08-02 00:00:00,Ayaan Joshi,Success,Transfer,Retail,Uttar Pradesh,₹ 25853.46,₹ 51.71,₹ 9.31
+T00049257,2025-08-31 00:00:00,Pooja Joshi,Success,Fee Charge,SME,Uttar Pradesh,₹ 856.68,₹ 0.00,₹ 0.00
+T00049276,2025-08-15 00:00:00,Myra Reddy,Success,Fee Charge,Retail,Uttar Pradesh,₹ 938.83,₹ 0.00,₹ 0.00
+T00049290,2025-08-09 00:00:00,Kiara Chopra,Success,Withdrawal,SME,Uttar Pradesh,₹ 3514.30,₹ 3.51,₹ 0.63
+T00049393,2025-08-13 00:00:00,Aarav Mishra,Success,Interest Credit,SME,Uttar Pradesh,₹ 840.37,₹ 0.84,₹ 0.15
+T00049405,2025-08-23 00:00:00,Rahul Kapoor,Success,Refund,Retail,Uttar Pradesh,₹ 3635.64,₹ 7.27,₹ 1.31
+T00049413,2025-08-11 00:00:00,Priya Kumar,Success,Interest Credit,Premium,Uttar Pradesh,₹ 3476.09,₹ 0.00,₹ 0.00
+T00049902,2025-08-09 00:00:00,Sneha Verma,Success,Withdrawal,SME,Uttar Pradesh,₹ 8067.36,₹ 40.34,₹ 7.26
+T00000259,2025-08-07 00:00:00,Pooja Gupta,Pending,Transfer,SME,West Bengal,₹ 16426.70,₹ 0.00,₹ 0.00
+T00000357,2025-08-04 00:00:00,Anaya Bansal,Success,Investment,Premium,West Bengal,₹ 4573.39,₹ 0.00,₹ 0.00
+T00000723,2025-08-01 00:00:00,Arjun Patel,Success,Refund,Corporate,West Bengal,₹ 3945.16,₹ 3.95,₹ 0.71
+T00001005,2025-08-02 00:00:00,Aarav Verma,Success,Loan EMI,Premium,West Bengal,₹ 4497.00,₹ 8.99,₹ 1.62
+T00001339,2025-08-24 00:00:00,Pooja Reddy,Success,Card Payment,Corporate,West Bengal,₹ 3929.90,₹ 0.00,₹ 0.00
+T00001463,2025-08-08 00:00:00,Arjun Kumar,Failed,Card Payment,Premium,West Bengal,₹ 8625.42,₹ 0.00,₹ 0.00
+T00002685,2025-08-03 00:00:00,Ishaan Singh,Success,Investment,Retail,West Bengal,₹ 5057.95,₹ 5.06,₹ 0.91
+T00003300,2025-08-04 00:00:00,Anaya Reddy,Success,Fee Charge,Retail,West Bengal,₹ 915.36,₹ 0.92,₹ 0.17
+T00005084,2025-08-10 00:00:00,Neha Mishra,Success,Deposit,Retail,West Bengal,₹ 1422.24,₹ 7.11,₹ 1.28
+T00005276,2025-08-31 00:00:00,Aadhya Singh,Success,Transfer,Retail,West Bengal,₹ 10300.54,₹ 0.00,₹ 0.00
+T00007136,2025-08-06 00:00:00,Anaya Kulkarni,Success,Deposit,Retail,West Bengal,₹ 43350.53,₹ 0.00,₹ 0.00
+T00007603,2025-08-15 00:00:00,Vivaan Mishra,Failed,Investment,Premium,West Bengal,₹ 4476.78,₹ 0.00,₹ 0.00
+T00007606,2025-08-11 00:00:00,Ayaan Singh,Success,Deposit,Retail,West Bengal,₹ 14312.57,₹ 0.00,₹ 0.00
+T00008552,2025-08-24 00:00:00,Ayaan Iyer,Success,Loan EMI,Premium,West Bengal,₹ 15310.14,₹ 30.62,₹ 5.51
+T00009589,2025-08-25 00:00:00,Ayaan Iyer,Success,Transfer,Premium,West Bengal,₹ 15720.37,₹ 78.60,₹ 14.15
+T00009658,2025-08-07 00:00:00,Ira Chopra,Failed,Investment,Retail,West Bengal,₹ 5603.74,₹ 5.60,₹ 1.01
+T00013891,2025-08-21 00:00:00,Ishaan Chopra,Success,Deposit,Retail,West Bengal,₹ 3632.85,₹ 0.00,₹ 0.00
+T00015307,2025-08-22 00:00:00,Rahul Mishra,Success,Bill Payment,Retail,West Bengal,₹ 11048.79,₹ 11.05,₹ 1.99
+T00015473,2025-08-19 00:00:00,Sneha Bansal,Success,Transfer,Retail,West Bengal,₹ 9181.84,₹ 0.00,₹ 0.00
+T00016144,2025-08-13 00:00:00,Aditya Malhotra,Success,Loan EMI,Retail,West Bengal,₹ 1352.96,₹ 1.35,₹ 0.24
+T00016594,2025-08-03 00:00:00,Vivaan Kumar,Success,Fee Charge,Retail,West Bengal,₹ 216.51,₹ 0.00,₹ 0.00
+T00017544,2025-08-16 00:00:00,Karan Gupta,Success,Withdrawal,Retail,West Bengal,₹ 5929.22,₹ 5.93,₹ 1.07
+T00017921,2025-08-23 00:00:00,Pari Malhotra,Success,Fee Charge,Premium,West Bengal,₹ 27.14,₹ 0.05,₹ 0.01
+T00018066,2025-08-02 00:00:00,Anaya Bansal,Failed,Investment,Premium,West Bengal,₹ 7811.46,₹ 0.00,₹ 0.00
+T00018294,2025-08-03 00:00:00,Riya Agarwal,Failed,Deposit,Retail,West Bengal,₹ 3761.65,₹ 7.52,₹ 1.35
+T00018854,2025-08-01 00:00:00,Sai Desai,Success,Interest Credit,Retail,West Bengal,₹ 2994.89,₹ 14.97,₹ 2.69
+T00019354,2025-08-23 00:00:00,Aarav Mehta,Success,Withdrawal,Premium,West Bengal,₹ 1672.12,₹ 0.00,₹ 0.00
+T00021492,2025-08-01 00:00:00,Neha Sharma,Success,Withdrawal,SME,West Bengal,₹ 4508.97,₹ 0.00,₹ 0.00
+T00023639,2025-08-21 00:00:00,Krishna Malhotra,Success,Transfer,Premium,West Bengal,₹ 17626.97,₹ 0.00,₹ 0.00
+T00023790,2025-08-03 00:00:00,Reyansh Nair,Failed,Bill Payment,Premium,West Bengal,₹ 10692.03,₹ 0.00,₹ 0.00
+T00024562,2025-08-01 00:00:00,Krishna Chopra,Success,Card Payment,Retail,West Bengal,₹ 3594.99,₹ 0.00,₹ 0.00
+T00024859,2025-08-14 00:00:00,Neha Reddy,Success,Bill Payment,SME,West Bengal,₹ 3566.25,₹ 17.83,₹ 3.21
+T00025172,2025-08-23 00:00:00,Pari Malhotra,Success,Card Payment,Premium,West Bengal,₹ 2393.69,₹ 0.00,₹ 0.00
+T00025400,2025-08-11 00:00:00,Ayaan Reddy,Success,Refund,Retail,West Bengal,₹ 3279.33,₹ 0.00,₹ 0.00
+T00025843,2025-08-08 00:00:00,Arjun Chopra,Failed,Loan EMI,Retail,West Bengal,₹ 8154.89,₹ 8.15,₹ 1.47
+T00026063,2025-08-16 00:00:00,Sneha Kulkarni,Failed,Transfer,Retail,West Bengal,₹ 7155.96,₹ 7.16,₹ 1.29
+T00026476,2025-08-09 00:00:00,Pooja Mehta,Success,Bill Payment,Retail,West Bengal,₹ 3456.15,₹ 6.91,₹ 1.24
+T00027184,2025-08-20 00:00:00,Karan Gupta,Success,Card Payment,Retail,West Bengal,₹ 1894.46,₹ 3.79,₹ 0.68
+T00027798,2025-08-19 00:00:00,Arjun Iyer,Pending,Deposit,Retail,West Bengal,₹ 5280.05,₹ 0.00,₹ 0.00
+T00030018,2025-08-27 00:00:00,Anaya Jain,Success,Withdrawal,Premium,West Bengal,₹ 1067.86,₹ 0.00,₹ 0.00
+T00031349,2025-08-11 00:00:00,Ira Jain,Success,Bill Payment,Premium,West Bengal,₹ 2605.70,₹ 2.61,₹ 0.47
+T00032739,2025-08-16 00:00:00,Vivaan Mishra,Success,Deposit,Premium,West Bengal,₹ 4225.47,₹ 0.00,₹ 0.00
+T00033011,2025-08-24 00:00:00,Aadhya Kulkarni,Success,Fee Charge,SME,West Bengal,₹ 699.91,₹ 0.00,₹ 0.00
+T00033541,2025-08-04 00:00:00,Vihaan Bansal,Success,Interest Credit,Premium,West Bengal,₹ 4365.17,₹ 0.00,₹ 0.00
+T00033789,2025-08-10 00:00:00,Ayaan Iyer,Success,Deposit,Premium,West Bengal,₹ 11023.70,₹ 0.00,₹ 0.00
+T00033909,2025-08-03 00:00:00,Rohan Chopra,Success,Deposit,Retail,West Bengal,₹ 21586.69,₹ 43.17,₹ 7.77
+T00035034,2025-08-23 00:00:00,Sai Patel,Success,Loan EMI,Retail,West Bengal,₹ 15752.22,₹ 0.00,₹ 0.00
+T00036126,2025-08-06 00:00:00,Karan Singh,Success,Fee Charge,SME,West Bengal,₹ 360.79,₹ 1.80,₹ 0.32
+T00038992,2025-08-30 00:00:00,Karan Malhotra,Success,Card Payment,Retail,West Bengal,₹ 5586.48,₹ 27.93,₹ 5.03
+T00040329,2025-08-30 00:00:00,Vivaan Kumar,Success,Transfer,Retail,West Bengal,₹ 15452.33,₹ 77.26,₹ 13.91
+T00041098,2025-08-30 00:00:00,Ira Kumar,Success,Interest Credit,SME,West Bengal,₹ 344.91,₹ 0.00,₹ 0.00
+T00045995,2025-08-22 00:00:00,Karan Gupta,Success,Refund,Retail,West Bengal,₹ 2394.22,₹ 4.79,₹ 0.86
+T00047445,2025-08-27 00:00:00,Diya Agarwal,Success,Transfer,Retail,West Bengal,₹ 4778.18,₹ 4.78,₹ 0.86
+T00047679,2025-08-14 00:00:00,Ishaan Gupta,Success,Card Payment,SME,West Bengal,₹ 953.62,₹ 4.77,₹ 0.86
+T00048095,2025-08-20 00:00:00,Karan Gupta,Success,Transfer,Retail,West Bengal,₹ 3687.31,₹ 3.69,₹ 0.66
+T00048479,2025-08-11 00:00:00,Ira Chopra,Success,Card Payment,Retail,West Bengal,₹ 3567.27,₹ 0.00,₹ 0.00
+T00048783,2025-08-12 00:00:00,Sai Patel,Success,Loan EMI,Retail,West Bengal,₹ 9099.56,₹ 9.10,₹ 1.64
+T00048951,2025-08-28 00:00:00,Myra Bansal,Success,Interest Credit,Retail,West Bengal,₹ 1429.21,₹ 0.00,₹ 0.00
+T00049075,2025-08-03 00:00:00,Amit Malhotra,Success,Withdrawal,Retail,West Bengal,₹ 4161.07,₹ 0.00,₹ 0.00
+T00049501,2025-08-01 00:00:00,Pari Malhotra,Success,Card Payment,Premium,West Bengal,₹ 1441.45,₹ 1.44,₹ 0.26
+T00049633,2025-08-12 00:00:00,Arjun Malhotra,Success,Transfer,Retail,West Bengal,₹ 8762.17,₹ 8.76,₹ 1.58
